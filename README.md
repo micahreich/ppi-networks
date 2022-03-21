@@ -1,4 +1,4 @@
-# ppi-networks
+# Protein-protein Interaction Networks
 ### Pushing changes
 Navigate to `../ppi-networks/` then run the following git commands. First, pull recent changes from the repo:
 ```
