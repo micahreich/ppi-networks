@@ -13,3 +13,4 @@ git push -u origin main  # pushes changes to remote repository for everyone to s
 ### Data sources
 - Species interactome (IntAct): https://www.ebi.ac.uk/intact/interactomes
 - Disease interactome (IntAct): https://www.ebi.ac.uk/intact/download/datasets#curated
+- STRING database: https://string-db.org/cgi/download?sessionId=bEJ36xhsPcdi&species_text=Escherichia+coli+536
