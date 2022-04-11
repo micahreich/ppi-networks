@@ -1,0 +1,1168 @@
+#ncbi_taxid	cluster_id	cluster_size	best_described_by
+362663	CL:0	4600	biological_process
+362663	CL:100	9	mixed, incl. large ribosomal subunit, and L21-like superfamily
+362663	CL:1000	13	peptidoglycan turnover, and Protein AmpE
+362663	CL:1002	8	peptidoglycan turnover, and Protein AmpE
+362663	CL:1025	5	mixed, incl. ELP3/YhcC, and Glyoxalase ElbB
+362663	CL:1035	5	mixed, incl. LppC putative lipoprotein, and DnaA initiator-associating protein
+362663	CL:1049	301	small molecule biosynthetic process, and nucleoside phosphate biosynthetic process
+362663	CL:1050	281	small molecule biosynthetic process, and nucleoside monophosphate metabolic process
+362663	CL:1051	208	cellular amino acid biosynthetic process, and nucleoside monophosphate metabolic process
+362663	CL:1052	161	cellular amino acid biosynthetic process, and nucleoside monophosphate biosynthetic process
+362663	CL:1053	90	Amino-acid biosynthesis, and Pyruvate metabolism
+362663	CL:1054	61	Amino-acid biosynthesis, and folic acid biosynthetic process
+362663	CL:1055	33	aromatic amino acid family biosynthetic process
+362663	CL:1056	28	aromatic amino acid family biosynthetic process
+362663	CL:1057	20	aromatic amino acid family biosynthetic process
+362663	CL:1059	11	Tryptophan biosynthesis, and Chorismate mutase type II
+362663	CL:1061	5	Tryptophan biosynthesis
+362663	CL:1083	5	Histidine metabolism
+362663	CL:1098	6	chorismate biosynthetic process
+362663	CL:1111	5	L-serine biosynthetic process, and Cytidylate kinase
+362663	CL:1120	28	aspartate family amino acid biosynthetic process, and glutamine family amino acid biosynthetic process
+362663	CL:1121	16	aspartate family amino acid biosynthetic process
+362663	CL:1122	11	diaminopimelate metabolic process, and Homoserine kinase
+362663	CL:1123	6	Lysine biosynthesis
+362663	CL:1134	5	threonine biosynthetic process
+362663	CL:1143	5	methionine metabolic process
+362663	CL:1152	12	glutamine family amino acid biosynthetic process
+362663	CL:1155	5	Arginine biosynthesis
+362663	CL:1176	25	Valine, leucine and isoleucine biosynthesis, and Pyruvate metabolism
+362663	CL:1177	13	Branched-chain amino acid biosynthesis
+362663	CL:1179	7	valine metabolic process
+362663	CL:12	4582	biological_process
+362663	CL:1202	12	Pyruvate metabolism
+362663	CL:1205	6	mixed, incl. NADH binding, and pyruvate catabolic process
+362663	CL:122	12	mixed, incl. large ribosomal subunit, and Methylation
+362663	CL:1232	71	nucleoside monophosphate biosynthetic process, and Pyrimidine metabolism
+362663	CL:1233	57	nucleoside monophosphate biosynthetic process, and Pyrimidine metabolism
+362663	CL:1234	52	nucleoside monophosphate biosynthetic process, and Pyrimidine metabolism
+362663	CL:1235	33	ribonucleoside monophosphate biosynthetic process, and pyrimidine ribonucleoside triphosphate metabolic process
+362663	CL:1236	25	ribonucleoside monophosphate biosynthetic process
+362663	CL:1237	17	purine nucleoside monophosphate biosynthetic process
+362663	CL:1238	11	de novo IMP biosynthetic process
+362663	CL:1240	6	de novo IMP biosynthetic process
+362663	CL:1259	6	Purine salvage, and GMP biosynthesis
+362663	CL:1270	8	Pyrimidine biosynthesis
+362663	CL:1286	5	pyrimidine ribonucleoside triphosphate metabolic process, and dCTP deaminase
+362663	CL:1301	15	mixed, incl. nucleotide catabolic process, and thymidine phosphorylase activity
+362663	CL:1303	7	mixed, incl. uridine phosphorylase activity, and HD domain
+362663	CL:1337	5	protein-L-isoaspartate (D-aspartate) O-methyltransferase activity, and Survival protein SurE
+362663	CL:1346	14	One carbon pool by folate, and aspartate biosynthetic process
+362663	CL:1349	6	tetrahydrofolate interconversion, and Formyltetrahydrofolate deformylase
+362663	CL:1373	47	Glutathione metabolism, and Alanine, aspartate and glutamate metabolism
+362663	CL:1374	27	Alanine, aspartate and glutamate metabolism, and Pantothenate biosynthesis
+362663	CL:1375	16	mixed, incl. glycine catabolic process, and 5-oxoprolinase (ATP-hydrolyzing) activity
+362663	CL:1376	11	mixed, incl. glycine catabolic process, and Glutaminase
+362663	CL:1379	5	glutamate biosynthetic process, and Glutamine synthetase type I
+362663	CL:1397	5	5-oxoprolinase (ATP-hydrolyzing) activity, and Endonuclease VIII
+362663	CL:1406	11	Pantothenate biosynthesis, and asparaginase activity
+362663	CL:1408	6	asparagine metabolic process, and Aspartate ammonia-lyase
+362663	CL:1427	20	Glutathione metabolism, and cystathionine beta-lyase activity
+362663	CL:1428	14	Glutathione metabolism, and cystathionine beta-lyase activity
+362663	CL:1430	7	mixed, incl. glutathione biosynthetic process, and Peptidase family M1 domain
+362663	CL:1446	5	cystathionine beta-lyase activity
+362663	CL:1455	6	glutathione transferase activity, and CHAP domain
+362663	CL:146	16	rRNA-binding
+362663	CL:1466	73	mixed, incl. water-soluble vitamin biosynthetic process, and Terpenoid backbone biosynthesis
+362663	CL:1467	50	water-soluble vitamin biosynthetic process, and queuosine metabolic process
+362663	CL:1468	28	Riboflavin metabolism, and Folate biosynthesis
+362663	CL:1469	22	Riboflavin metabolism, and queuosine metabolic process
+362663	CL:147	9	Ribosome
+362663	CL:1470	16	Riboflavin metabolism, and Folate biosynthesis
+362663	CL:1473	5	Riboflavin biosynthesis
+362663	CL:1489	5	Riboflavin metabolism
+362663	CL:1502	5	Queuosine biosynthesis
+362663	CL:1512	6	mixed, incl. Cell division protein DedD, and Colicin V production, CvpA
+362663	CL:1523	22	thiamine biosynthetic process, and Biotin biosynthesis
+362663	CL:1524	17	thiamine biosynthetic process, and Biotin biosynthesis
+362663	CL:1528	5	Biotin biosynthesis
+362663	CL:1543	5	thiamine biosynthetic process
+362663	CL:1557	5	mixed, incl. RsgA GTPase, and Alkaline phosphatase
+362663	CL:1566	23	Terpenoid backbone biosynthesis, and coenzyme A metabolic process
+362663	CL:1568	12	Isoprene biosynthesis, and Polyprenyl synthetase
+362663	CL:1571	5	isopentenyl diphosphate metabolic process
+362663	CL:1597	5	Coenzyme A biosynthesis, and Acyl carrier protein phosphodiesterase
+362663	CL:16	4577	biological_process
+362663	CL:1611	20	Nicotinate and nicotinamide metabolism, and nicotinamide riboside transport
+362663	CL:1613	14	Nicotinate and nicotinamide metabolism
+362663	CL:1615	5	nicotinamide nucleotide metabolic process
+362663	CL:1629	6	pyridine nucleotide biosynthetic process
+362663	CL:164	7	mixed, incl. small ribosomal subunit, and Ribosomal protein S8
+362663	CL:1650	25	mixed, incl. glycine betaine transport, and oxidoreductase activity, acting on CH or CH2 groups, disulfide as acceptor
+362663	CL:1651	15	mixed, incl. oxidoreductase activity, acting on CH or CH2 groups, disulfide as acceptor, and RelA/SpoT
+362663	CL:1654	7	ribonucleoside-diphosphate reductase complex, and NrdI Flavodoxin like 
+362663	CL:1671	5	RelA/SpoT, and Guanylate kinase
+362663	CL:1681	8	glycine betaine transport, and ABC-type glycine betaine transport system, substrate-binding domain
+362663	CL:1699	18	mixed, incl. Bacterial DNA-binding protein, and endodeoxyribonuclease activity, producing 5-phosphomonoesters
+362663	CL:1700	10	mixed, incl. Bacterial DNA-binding protein, and Trm112-like
+362663	CL:1701	5	Bacterial DNA-binding protein, and Trm112-like
+362663	CL:1710	5	Bacterial DNA-binding protein, and Endonuclease V
+362663	CL:1720	6	mixed, incl. SprT-like, and Endonuclease I
+362663	CL:1734	18	mixed, incl. Biofilm formation YgiB, and Glutathionylspermidine synthase preATP-grasp
+362663	CL:1735	13	mixed, incl. Biofilm formation YgiB, and Glutathionylspermidine synthase preATP-grasp
+362663	CL:1737	6	mixed, incl. Protein of unknown function DUF350, and Protein of unknown function DUF2170
+362663	CL:1751	5	mixed, incl. cAMP, and plasmid partitioning
+362663	CL:1760	5	mixed, incl. Gluconeogenesis factor, and Protein of unknown function DUF2627
+362663	CL:1769	20	mixed, incl. N-methyltransferase activity, and Paraquat-inducible protein A
+362663	CL:1770	14	mixed, incl. Paraquat-inducible protein A, and Mce/MlaD
+362663	CL:1772	5	Paraquat-inducible protein A, and Mce/MlaD
+362663	CL:1788	5	Methyltransferase type 11, and Methyltransferase VrtF-like
+362663	CL:1797	6	mixed, incl. rRNA (adenine-N6-)-methyltransferase activity, and Putative SAM-dependent methyltransferase
+362663	CL:1808	80	mixed, incl. iron-sulfur cluster assembly, and Redox-active center
+362663	CL:1809	43	mixed, incl. Redox-active center, and reactive oxygen species metabolic process
+362663	CL:1810	32	mixed, incl. Redox-active center, and reactive oxygen species metabolic process
+362663	CL:1811	25	mixed, incl. Redox-active center, and reactive oxygen species metabolic process
+362663	CL:1813	10	reactive oxygen species metabolic process, and Antioxidant
+362663	CL:1815	5	superoxide dismutase activity, and Hydrogen peroxide
+362663	CL:1839	11	mixed, incl. Thioredoxin-like domain, and Thioredoxin reductase
+362663	CL:1841	5	Thioredoxin-like domain, and Disulphide bond formation protein DsbB
+362663	CL:1860	7	mixed, incl. Rhodanese-like domain, and Glutaredoxin, GrxC
+362663	CL:1873	11	mixed, incl. AsnC-type HTH domain, and Flavodoxin
+362663	CL:1874	6	mixed, incl. Flavodoxin domain, and PGAP1-like protein
+362663	CL:1885	5	AsnC-type HTH domain, and AAA C-terminal domain
+362663	CL:1894	37	mixed, incl. iron-sulfur cluster assembly, and DsrEFH-like
+362663	CL:1896	21	iron-sulfur cluster assembly, and cyclic threonylcarbamoyladenosine biosynthetic process
+362663	CL:1897	12	iron-sulfur cluster assembly, and Adrenodoxin
+362663	CL:1900	7	iron-sulfur cluster transfer complex, and iron-sulfur cluster assembly
+362663	CL:1922	5	iron-sulfur cluster assembly complex, and Cysteine desulfuration protein SufE
+362663	CL:1942	13	mixed, incl. DsrEFH-like, and tRNA thio-modification
+362663	CL:1944	7	mixed, incl. DsrEFH-like, and YheO-like
+362663	CL:1967	50	mixed, incl. ubiquinone metabolic process, and heme metabolic process
+362663	CL:1968	39	ubiquinone metabolic process, and heme metabolic process
+362663	CL:1969	34	heme metabolic process, and ubiquinone metabolic process
+362663	CL:1970	20	ubiquinone metabolic process, and TAT protein transport complex
+362663	CL:1971	14	ubiquinone metabolic process
+362663	CL:1973	7	Ubiquinone biosynthesis hydroxylase UbiH/COQ6, and quinone cofactor methyltransferase activity
+362663	CL:1999	5	TAT protein transport complex
+362663	CL:2010	11	heme biosynthetic process
+362663	CL:2011	6	Porphyrin biosynthesis
+362663	CL:2022	5	heme biosynthetic process
+362663	CL:2036	5	mixed, incl. Hly-III, and Aminopeptidase P, N-terminal
+362663	CL:2045	11	mixed, incl. NqrDE/RnfAE, and FMN-binding
+362663	CL:2048	6	mixed, incl. NqrDE/RnfAE, and FMN-binding
+362663	CL:2066	217	mixed, incl. Oxidative phosphorylation, and fatty acid metabolic process
+362663	CL:2067	187	mixed, incl. Oxidative phosphorylation, and fatty acid metabolic process
+362663	CL:2068	152	mixed, incl. Oxidative phosphorylation, and fatty acid metabolic process
+362663	CL:2069	121	Oxidative phosphorylation, and fatty acid metabolic process
+362663	CL:2070	116	Oxidative phosphorylation, and fatty acid metabolic process
+362663	CL:2072	69	Oxidative phosphorylation, and Citrate cycle (TCA cycle)
+362663	CL:2073	36	Oxidative phosphorylation
+362663	CL:2075	25	Oxidative phosphorylation
+362663	CL:2077	14	Quinone, and Proton-conducting membrane transporter
+362663	CL:2079	8	Quinone, and Proton-conducting membrane transporter
+362663	CL:21	4572	biological_process
+362663	CL:2107	8	ATP synthesis
+362663	CL:2128	5	heme-copper terminal oxidase activity
+362663	CL:2144	33	Citrate cycle (TCA cycle)
+362663	CL:2145	20	Citrate cycle (TCA cycle)
+362663	CL:2147	8	tricarboxylic acid cycle enzyme complex
+362663	CL:2169	8	succinate dehydrogenase activity
+362663	CL:2184	13	mixed, incl. aconitate hydratase activity, and malate dehydrogenase activity
+362663	CL:2185	7	aconitate hydratase activity, and Citrate synthase
+362663	CL:219	13	RNA polymerase, and Transcription antitermination
+362663	CL:2199	5	malate dehydrogenase activity, and Fumarate hydratase, class II
+362663	CL:2216	43	mixed, incl. Fatty acid metabolism, and acyl-CoA metabolic process
+362663	CL:2218	24	mixed, incl. lipid oxidation, and acetyl-CoA biosynthetic process
+362663	CL:2219	12	mixed, incl. acetyl-CoA biosynthetic process, and Glycine radical
+362663	CL:222	5	RNA polymerase
+362663	CL:2221	5	acetyl-CoA biosynthetic process, and Propionate kinase
+362663	CL:2243	10	Benzoate degradation, and Acyl-CoA dehydrogenase, N-terminal domain
+362663	CL:2245	5	Benzoate degradation
+362663	CL:2273	13	Fatty acid biosynthesis
+362663	CL:2276	5	fatty acid synthase activity
+362663	CL:23	4567	biological_process
+362663	CL:2301	5	mixed, incl. Prohibitin, and NmrA-like domain
+362663	CL:2311	28	mixed, incl. carnitine metabolic process, and integral component of organelle membrane
+362663	CL:2312	21	carnitine metabolic process, and integral component of organelle membrane
+362663	CL:2315	15	carnitine metabolic process, and integral component of organelle membrane
+362663	CL:2317	5	Electron transfer flavoprotein domain, and Tryptophan halogenase
+362663	CL:2334	5	carnitine metabolic process
+362663	CL:235	5	Transcription antitermination, and Ribosomal protein S10
+362663	CL:2353	7	mixed, incl. FAD-linked oxidase, C-terminal, and Electron transfer flavoprotein, beta subunit
+362663	CL:2371	35	mixed, incl. Glyoxylate and dicarboxylate metabolism, and purine nucleobase metabolic process
+362663	CL:2372	22	mixed, incl. Glyoxylate and dicarboxylate metabolism, and LUD domain
+362663	CL:2373	14	mixed, incl. glycolate catabolic process, and Malate synthase
+362663	CL:2374	7	glyoxylate metabolic process, and hydroxypyruvate reductase activity
+362663	CL:2389	5	glycolate dehydrogenase activity, and Haem-degrading
+362663	CL:2401	6	LUD domain, and lactate dehydrogenase activity
+362663	CL:2415	13	mixed, incl. allantoin metabolic process, and succinate-CoA ligase complex (ADP-forming)
+362663	CL:2416	8	mixed, incl. allantoin metabolic process, and Allantoinase
+362663	CL:2431	5	succinate-CoA ligase complex (ADP-forming), and carbamoyl phosphate catabolic process
+362663	CL:244	23	Aminoacyl-tRNA synthetase
+362663	CL:2440	30	mixed, incl. Arginine biosynthesis, and succinate-CoA ligase complex (ADP-forming)
+362663	CL:2441	21	mixed, incl. succinate-CoA ligase complex (ADP-forming), and Toluene degradation
+362663	CL:2443	10	mixed, incl. Ankyrin repeat, and uridine nucleosidase activity
+362663	CL:2447	5	mixed, incl. Ankyrin repeat, and Amidohydrolase 3
+362663	CL:2466	6	mixed, incl. succinate-CoA ligase complex (ADP-forming), and Cytosine permease
+362663	CL:247	17	Aminoacyl-tRNA synthetase
+362663	CL:248	10	Aminoacyl-tRNA synthetase
+362663	CL:2485	5	Carbamate kinase, and Arginine deiminase
+362663	CL:2499	50	mixed, incl. potassium ion transport, and mechanosensitive ion channel activity
+362663	CL:2500	27	mixed, incl. Potassium transport, and Mechanosensitive ion channel
+362663	CL:2501	19	mixed, incl. Mechanosensitive ion channel, and Potassium transport
+362663	CL:2502	12	mixed, incl. Potassium transport, and Smg
+362663	CL:2504	5	mixed, incl. Smg, and DprA, winged helix domain
+362663	CL:2516	5	Potassium transport, and polysome
+362663	CL:2526	5	Mechanosensitive ion channel
+362663	CL:253	5	Aminoacyl-tRNA synthetase, class Ia, anticodon-binding
+362663	CL:2539	5	potassium transmembrane transporter activity, phosphorylative mechanism, and K+ transporting P-type ATPase, F subunit
+362663	CL:2553	23	mixed, incl. Cation/H+ exchanger, and Flavodoxin-like fold
+362663	CL:2555	10	Cation/H+ exchanger, and positive regulation of transport
+362663	CL:2558	5	Cation/H+ exchanger, and positive regulation of transport
+362663	CL:2582	6	Flavodoxin-like fold, and oxidoreductase activity, acting on NAD(P)H, nitrogenous group as acceptor
+362663	CL:2598	16	mixed, incl. glyoxylate cycle, and RNA pseudouridylate synthase
+362663	CL:2600	7	mixed, incl. glyoxylate cycle, and JmjC domain
+362663	CL:2620	5	mixed, incl. YcaO-like domain, and Formate transporter FocA, putative
+362663	CL:2629	34	mixed, incl. Vitamin B6 metabolism, and regulation of nitrogen utilization
+362663	CL:2630	20	mixed, incl. regulation of nitrogen utilization, and Nucleotidyltransferase superfamily
+362663	CL:2631	13	mixed, incl. regulation of nitrogen utilization, and Glutamate-ammonia ligase adenylyltransferase
+362663	CL:2634	5	regulation of nitrogen utilization, and Sigma-54, DNA binding domain
+362663	CL:2647	5	Glutamate-ammonia ligase adenylyltransferase, and RNA repair
+362663	CL:2656	7	mixed, incl. YjjU-like, and Cache domain
+362663	CL:2669	14	mixed, incl. Vitamin B6 metabolism, and Peptidase M48
+362663	CL:2671	6	mixed, incl. Peptidase M48, and ApaG domain
+362663	CL:268	5	phenylalanyl-tRNA aminoacylation, and Threonyl/alanyl tRNA synthetase, SAD
+362663	CL:2696	772	mixed, incl. Domain, and carbohydrate biosynthetic process
+362663	CL:2697	758	mixed, incl. Domain, and carbohydrate biosynthetic process
+362663	CL:2698	718	mixed, incl. Domain, and carbohydrate biosynthetic process
+362663	CL:2699	457	mixed, incl. Signal, and biological regulation
+362663	CL:27	4562	biological_process
+362663	CL:2700	444	mixed, incl. Signal, and biological regulation
+362663	CL:2701	429	mixed, incl. Signal, and biological regulation
+362663	CL:2702	259	mixed, incl. Signal, and biological regulation
+362663	CL:2703	251	mixed, incl. Signal, and biological regulation
+362663	CL:2704	167	mixed, incl. cell outer membrane, and macromolecule localization
+362663	CL:2705	95	mostly uncharacterized, incl. phosphorelay signal transduction system, and Lipoprotein
+362663	CL:2707	89	mostly uncharacterized, incl. Two-component regulatory system, and Lipoprotein
+362663	CL:2708	76	mostly uncharacterized, incl. Lipoprotein, and regulation of localization
+362663	CL:2710	67	mostly uncharacterized, incl. Lipoprotein, and AsmA
+362663	CL:2713	46	mostly uncharacterized, incl. AsmA, and Lipoprotein
+362663	CL:2714	41	mostly uncharacterized, incl. AsmA, and Lipoprotein
+362663	CL:2717	21	mostly uncharacterized, incl. DcrB, and YdgH protein
+362663	CL:2720	16	mostly uncharacterized, incl. DcrB, and YdgH protein
+362663	CL:2722	7	mixed, incl. YdgH protein, and YniB-like protein
+362663	CL:2742	5	mixed, incl. acetyl-CoA binding, and Dextransucrase DSRB
+362663	CL:2762	17	mixed, incl. AsmA, and YfhG lipoprotein
+362663	CL:2764	10	mixed, incl. YfeY-like superfamily, and Cell division inhibitor SulA
+362663	CL:2767	5	mixed, incl. YfeY-like superfamily, and Cell division inhibitor SulA
+362663	CL:2795	5	mixed, incl. HIT domain, and Thiamine kinase
+362663	CL:2810	17	mostly uncharacterized, incl. Dodecin-like, and GlpM protein
+362663	CL:2812	8	mixed, incl. Peptidase S1B, and MSF-type transporter, YcaD
+362663	CL:2834	5	mixed, incl. peptidase activator activity, and Protein of unknown function DUF2593
+362663	CL:2848	6	mixed, incl. rescue of stalled ribosome, and YaeQ
+362663	CL:2859	13	mixed, incl. Transcription elongation factor GreA/GreB family, and Two-component regulatory system
+362663	CL:2861	6	mixed, incl. HHH domain 9, and CpxA, periplasmic domain superfamily
+362663	CL:2875	5	mixed, incl. CutC family, and YecM protein
+362663	CL:289	14	Protein export, and Trigger factor
+362663	CL:2894	72	mixed, incl. membrane organization, and pore complex
+362663	CL:2895	49	mixed, incl. pore complex, and protein localization to membrane
+362663	CL:2896	37	pore complex, and protein localization to membrane
+362663	CL:2897	20	pore complex, and Outer membrane protein beta-barrel domain
+362663	CL:29	4495	biological_process
+362663	CL:2900	14	pore complex, and Outer membrane protein beta-barrel domain
+362663	CL:2902	5	Porin domain, Gram-negative type, and Glycoporin RafY
+362663	CL:2916	6	Outer membrane protein beta-barrel domain, and Porin, Gram-negative type, conserved site
+362663	CL:293	5	intracellular protein transmembrane transport, and YidC periplasmic domain
+362663	CL:2936	17	protein localization to membrane, and Histidine-tRNA ligase
+362663	CL:2938	10	protein localization to membrane
+362663	CL:2940	5	protein insertion into membrane
+362663	CL:2969	12	mixed, incl. bacteriocin transport, and TolB, N-terminal
+362663	CL:2972	6	mixed, incl. TolB, N-terminal, and Tol-Pal system, TolQ
+362663	CL:2992	23	mixed, incl. lipid transporter activity, and membrane organization
+362663	CL:2993	12	mixed, incl. phospholipid transport, and calcium ion transport
+362663	CL:2997	5	phospholipid transport, and STAS domain
+362663	CL:30	4483	biological_process
+362663	CL:3016	11	floppase activity, and lipopolysaccharide transport
+362663	CL:3017	6	lipopolysaccharide transport, and floppase activity
+362663	CL:3028	5	floppase activity, and LPS export ABC transporter, ATP-binding protein LptB
+362663	CL:3037	84	mostly uncharacterized, incl. Cell cycle, and UspA
+362663	CL:3038	79	mostly uncharacterized, incl. Cell cycle, and UspA
+362663	CL:3039	68	mixed, incl. Cell cycle, and UspA
+362663	CL:3040	38	mixed, incl. UspA, and Cell cycle
+362663	CL:3041	33	mixed, incl. UspA, and Cell cycle
+362663	CL:3042	19	mixed, incl. UspA, and DNA packaging
+362663	CL:3043	12	mixed, incl. DNA packaging, and Septation
+362663	CL:3044	7	mixed, incl. DNA packaging, and DREV methyltransferase
+362663	CL:3057	5	Septation, and MatP, N-terminal
+362663	CL:3067	5	UspA
+362663	CL:307	5	SecD/SecF GG Motif, and QueA, domain 2
+362663	CL:3079	14	mixed, incl. TrkA-C domain, and YfgJ-like
+362663	CL:3081	7	mixed, incl. ATPase RavA, and Esterase FrsA
+362663	CL:3106	5	mixed, incl. AFG1-like ATPase, and Protein of unknown function DUF1043
+362663	CL:3115	30	mostly uncharacterized, incl. regulation of lipid metabolic process, and endoribonuclease inhibitor activity
+362663	CL:3116	22	mostly uncharacterized, incl. endoribonuclease inhibitor activity, and regulation of fatty acid metabolic process
+362663	CL:3118	16	mixed, incl. endoribonuclease inhibitor activity, and regulation of fatty acid metabolic process
+362663	CL:3121	10	mixed, incl. regulation of fatty acid metabolic process, and single-stranded RNA binding
+362663	CL:3123	5	mixed, incl. YfcL protein, and ProQ/FINO family
+362663	CL:3159	8	mixed, incl. HHA superfamily, and H-NS histone family
+362663	CL:317	6	mixed, incl. OBG-type guanine nucleotide-binding (G) domain, and Peptidyl-tRNA hydrolase
+362663	CL:3174	11	mixed, incl. phage shock, and PspC domain
+362663	CL:3177	5	phage shock, and PspC domain
+362663	CL:3195	5	thiamine transport, and Leucine operon leader peptide
+362663	CL:32	4478	biological_process
+362663	CL:3205	5	mixed, incl. Transcriptional regulator Spx/MgsR, and Uncharacterised protein family UPF0370
+362663	CL:3219	170	mixed, incl. Signal, and cellular response to stress
+362663	CL:3220	133	mixed, incl. Signal, and cellular response to stress
+362663	CL:3221	80	mixed, incl. Stress response, and Signal
+362663	CL:3223	71	mostly uncharacterized, incl. Stress response, and Lipoprotein
+362663	CL:3224	65	mostly uncharacterized, incl. Lipoprotein, and regulation of single-species biofilm formation
+362663	CL:3226	59	mostly uncharacterized, incl. Lipoprotein, and Domain of unknown function DUF892
+362663	CL:3228	51	mostly uncharacterized, incl. Lipoprotein, and Domain of unknown function DUF892
+362663	CL:3230	31	mostly uncharacterized, incl. Protein of unknown function DUF1323, and Acyltransferase 3
+362663	CL:3231	19	mixed, incl. Protein of unknown function DUF1323, and Acyltransferase 3
+362663	CL:3232	11	mixed, incl. Acyltransferase 3, and YobH-like protein
+362663	CL:3234	6	mixed, incl. YobH-like protein, and YebO-like protein
+362663	CL:3254	6	Protein of unknown function DUF1323, and glutathione hydrolase activity
+362663	CL:3268	12	mixed, incl. Palmitate, and YjeJ-like
+362663	CL:3272	6	mixed, incl. Ribonuclease T2-like, and CedA-like superfamily
+362663	CL:3296	17	mixed, incl. Domain of unknown function DUF892, and Stress-induced protein, KGG, repeat
+362663	CL:3297	12	mostly uncharacterized, incl. YedD-like protein, and Family of unknown function
+362663	CL:33	4472	biological_process
+362663	CL:3300	6	mixed, incl. YedD-like protein, and Uncharacterised protein family YaiZ
+362663	CL:3320	5	Domain of unknown function DUF892, and Stress-induced protein, KGG, repeat
+362663	CL:3353	6	SEC-C motif, and anti-sigma factor antagonist activity
+362663	CL:3371	5	mixed, incl. Inner membrane protein YlaC, and maltose O-acetyltransferase activity
+362663	CL:338	5	DNA topoisomerase, type IIA-like domain superfamily, and Rsd/AlgQ superfamily
+362663	CL:3380	53	mostly uncharacterized, incl. DUF883, N-terminal domain, and cellular response to chemical stimulus
+362663	CL:3382	31	mostly uncharacterized, incl. DUF883, N-terminal domain, and BON domain
+362663	CL:3383	25	mostly uncharacterized, incl. BON domain, and DUF883, N-terminal domain
+362663	CL:3385	20	mixed, incl. DUF883, N-terminal domain, and NADPH-dependent FMN reductase-like
+362663	CL:3386	12	mixed, incl. DUF883, N-terminal domain, and NADPH-dependent FMN reductase-like
+362663	CL:3388	7	mixed, incl. DUF883, N-terminal domain, and YegP-like superfamily
+362663	CL:34	4466	biological_process
+362663	CL:3411	5	mixed, incl. Fido domain, and PrkA AAA domain
+362663	CL:3432	6	mixed, incl. YqjK-like protein, and Modulator protein MzrA
+362663	CL:3446	20	mostly uncharacterized, incl. Fusaric acid resistance protein-like, and MsyB protein
+362663	CL:3448	12	mostly uncharacterized, incl. MsyB protein, and Acid shock protein
+362663	CL:3451	6	mixed, incl. MsyB protein, and Acid shock protein
+362663	CL:3474	6	mixed, incl. Sugar efflux, and Transcriptional regulator, SlyA
+362663	CL:348	29	mixed, incl. RNA helicase activity, and exoribonuclease activity
+362663	CL:3486	34	mixed, incl. Dodecin-like, and negative regulation of molecular function
+362663	CL:3488	20	mixed, incl. Dodecin-like, and META domain
+362663	CL:349	21	mixed, incl. exoribonuclease activity, and RNA degradation
+362663	CL:3490	11	mostly uncharacterized, incl. META domain, and YbfN-like lipoprotein
+362663	CL:3492	5	mixed, incl. YbfN-like lipoprotein, and Protein of unknown function DUF3313
+362663	CL:35	4446	biological_process
+362663	CL:351	10	Ribosomal protein S1-like RNA-binding domain, and RNA 3-end processing
+362663	CL:3515	5	Dodecin-like, and YjbD family (DUF3811)
+362663	CL:352	5	RNA degradation
+362663	CL:3532	11	mostly uncharacterized, incl. Toxin CcdB, and Pectinesterase
+362663	CL:3534	5	mixed, incl. Toxin CcdB, and response to host
+362663	CL:3558	15	mixed, incl. Ferritin-like diiron domain, and iron ion transmembrane transporter activity
+362663	CL:3559	8	iron ion transmembrane transporter activity, and Dyp-type peroxidase
+362663	CL:3575	6	Copper transport protein C/D, and Ferritin-like diiron domain
+362663	CL:3587	13	mostly uncharacterized, incl. AAA domain, and RlmI, PUA-like domain
+362663	CL:3589	5	mixed, incl. RlmI, PUA-like domain, and YnbE-like lipoprotein
+362663	CL:36	4436	biological_process
+362663	CL:361	5	RNB domain, and Ribonuclease P
+362663	CL:3612	261	mixed, incl. carbohydrate biosynthetic process, and Flagellar assembly
+362663	CL:3613	185	mixed, incl. Flagellar assembly, and cellular polysaccharide biosynthetic process
+362663	CL:3614	101	mixed, incl. Flagellar assembly, and Nucleotide cyclase
+362663	CL:3615	91	Flagellar assembly, and Nucleotide cyclase
+362663	CL:3616	52	Flagellar assembly, and taxis
+362663	CL:3617	40	Flagellar assembly
+362663	CL:3620	28	bacterial-type flagellum
+362663	CL:3622	13	bacterial-type flagellum basal body, and Flagellar export FliJ
+362663	CL:3624	7	bacterial-type flagellum basal body
+362663	CL:3648	14	Bacterial flagellum, and Rod binding protein
+362663	CL:3650	6	bacterial-type flagellum basal body, rod, and Rod binding protein
+362663	CL:3666	5	Flagellin, D0/D1 domain, and Flagellar protein FliS
+362663	CL:3683	5	sigma factor antagonist activity, and FlgN protein
+362663	CL:3696	12	Bacterial chemotaxis
+362663	CL:3699	6	Bacterial chemotaxis
+362663	CL:37	4396	biological_process
+362663	CL:3719	39	mixed, incl. Nucleotide cyclase, and cyclic-guanylate-specific phosphodiesterase activity
+362663	CL:3721	34	Nucleotide cyclase, and cyclic-guanylate-specific phosphodiesterase activity
+362663	CL:3722	21	Nucleotide cyclase, and CSS motif domain associated with EAL 
+362663	CL:3723	12	cyclic-guanylate-specific phosphodiesterase activity, and negative regulation of cellular component movement
+362663	CL:3725	6	mixed, incl. CSS motif domain associated with EAL , and Periplasmic sensor domain, extracellular
+362663	CL:374	7	mixed, incl. 16S rRNA methyltransferase RsmB/F, and mRNA 5-UTR binding
+362663	CL:3748	5	mixed, incl. Flagellar regulator YcgR, and Periplasmic sensor domain
+362663	CL:3764	10	mixed, incl. Hpt domain, and oxygen sensor activity
+362663	CL:3766	5	mixed, incl. oxygen sensor activity, and RcsC Alpha-Beta-Loop (ABL)
+362663	CL:3797	6	mixed, incl. Heavy-metal resistance protein, and helix_turn_helix, Lux Regulon
+362663	CL:38	4391	biological_process
+362663	CL:3815	84	mixed, incl. cellular polysaccharide biosynthetic process, and Biofilm formation - Escherichia coli
+362663	CL:3816	44	extracellular polysaccharide metabolic process, and O-Antigen nucleotide sugar biosynthesis
+362663	CL:3817	38	O-Antigen nucleotide sugar biosynthesis, and slime layer organization
+362663	CL:3819	21	colanic acid metabolic process, and GDP-mannose metabolic process
+362663	CL:3820	14	colanic acid metabolic process, and AAA domain
+362663	CL:3822	5	NADP+ binding, and mannosidase activity
+362663	CL:3838	5	mixed, incl. AAA domain, and CoA-binding domain
+362663	CL:3847	7	GDP-mannose biosynthetic process, and UDP-glucuronate metabolic process
+362663	CL:3866	13	enterobacterial common antigen metabolic process
+362663	CL:3869	6	enterobacterial common antigen metabolic process
+362663	CL:3892	6	extracellular polysaccharide metabolic process, and Phosphate-starvation-inducible E
+362663	CL:39	4349	biological_process
+362663	CL:3903	40	mostly uncharacterized, incl. single-species biofilm formation, and protein tyrosine kinase activity
+362663	CL:3904	27	mostly uncharacterized, incl. Curlin associated, and single-species biofilm formation
+362663	CL:3906	22	mixed, incl. Curlin associated, and single-species biofilm formation
+362663	CL:3908	14	mixed, incl. Curlin associated, and YecR-like lipoprotein
+362663	CL:3910	7	mixed, incl. Curlin associated, and Curli assembly protein CsgE
+362663	CL:3926	5	mixed, incl. YecR-like lipoprotein, and Protein of unknown function DUF1496
+362663	CL:393	5	Helicase-associated domain, and RNA helicase, DEAD-box type, Q motif
+362663	CL:3940	5	mixed, incl. HutD, and YjcZ-like protein
+362663	CL:3957	13	mostly uncharacterized, incl. Flotillin, and Omptin family
+362663	CL:3959	6	mixed, incl. Flotillin, and Omptin family
+362663	CL:3982	76	Lipopolysaccharide biosynthesis, and Cationic antimicrobial peptide (CAMP) resistance
+362663	CL:3983	44	Lipopolysaccharide biosynthesis, and dTDP metabolic process
+362663	CL:3984	32	Lipopolysaccharide biosynthesis
+362663	CL:3985	17	Lipopolysaccharide biosynthesis
+362663	CL:3988	5	Phosphosugar isomerase, KdsD/KpsF-type, and KdsC family
+362663	CL:40	3558	cellular_component
+362663	CL:4004	6	Lipid A biosynthesis
+362663	CL:4018	15	lipopolysaccharide core region metabolic process
+362663	CL:4023	5	galactosyltransferase activity, and Lipopolysaccharide core heptose(I) kinase RfaP
+362663	CL:4036	6	ADP-L-glycero-beta-D-manno-heptose metabolic process, and lipopolysaccharide heptosyltransferase activity
+362663	CL:4047	12	mixed, incl. dTDP metabolic process, and Uncharacterized protein YghO-like
+362663	CL:4049	5	mixed, incl. Uncharacterized protein YghO-like, and 8-amino-7-oxononanoate synthase activity
+362663	CL:4061	5	dTDP metabolic process, and Conserved hypothetical protein CHP01626, YtfJ
+362663	CL:4070	32	mixed, incl. Cationic antimicrobial peptide (CAMP) resistance, and Phosphoethanolamine transferase
+362663	CL:4071	26	mixed, incl. glycolipid metabolic process, and response to iron ion
+362663	CL:4072	19	glycolipid metabolic process, and response to iron ion
+362663	CL:4073	12	Cationic antimicrobial peptide (CAMP) resistance, and myristoyltransferase activity
+362663	CL:4075	5	response to iron ion, and Polymyxin resistance protein PmrD
+362663	CL:408	12	mixed, incl. PDZ domain, and Small GTP-binding protein domain
+362663	CL:409	6	mixed, incl. AIG1 family, and Peptidase S26
+362663	CL:4096	7	Lipid A biosynthesis
+362663	CL:41	3545	cellular_component
+362663	CL:4110	5	mixed, incl. Bacterial OB-fold, and Antibiotic biosynthesis monooxygenase
+362663	CL:4122	6	Phosphoethanolamine transferase, and MarC family integral membrane protein
+362663	CL:4133	40	mixed, incl. Glycerophospholipid metabolism, and L-threonine transmembrane transporter activity
+362663	CL:4135	22	mixed, incl. glycerolipid biosynthetic process, and Macro domain
+362663	CL:4136	12	mixed, incl. glycerolipid biosynthetic process, and Putative methyltransferase
+362663	CL:4137	7	glycerolipid biosynthetic process
+362663	CL:4150	5	mixed, incl. Putative methyltransferase, and Protein-tyrosine phosphatase-like
+362663	CL:4160	7	phosphatidylglycerol metabolic process, and lysyltransferase activity
+362663	CL:4182	13	mixed, incl. L-threonine transmembrane transporter activity, and phospholipase activity
+362663	CL:4184	6	mixed, incl. phospholipase activity, and Bifunctional protein Aas
+362663	CL:42	3535	cellular_component
+362663	CL:420	6	mixed, incl. PDZ domain, and MucB/RseB
+362663	CL:4212	14	mixed, incl. double-stranded DNA endodeoxyribonuclease activity, and cysteine-type peptidase activity
+362663	CL:4215	5	mixed, incl. YaeB-like, and RcsF lipoprotein
+362663	CL:4230	5	mixed, incl. TraB family, and Cys-tRNA(Pro) hydrolase activity
+362663	CL:4239	20	mostly uncharacterized, incl. Glutathione S-transferase, N-terminal domain, and CsbD-like
+362663	CL:4240	13	mostly uncharacterized, incl. CsbD-like, and YceI-like domain
+362663	CL:4242	5	mixed, incl. YceI-like domain, and YebF-like protein
+362663	CL:4254	6	mixed, incl. arylesterase activity, and Tetratricopeptide repeat
+362663	CL:4265	7	mixed, incl. Protein of unknown function DUF1428, and Protein of unknown function (DUF3302)
+362663	CL:4279	11	mixed, incl. DNA methylase, C-5 cytosine-specific, active site, and HNH endonuclease
+362663	CL:4281	5	mixed, incl. DNA mismatch endonuclease VSR, and DNA methylase N-terminal domain
+362663	CL:4291	5	HNH endonuclease, and DNA methylase, C-5 cytosine-specific, active site
+362663	CL:43	3463	cellular_component
+362663	CL:4307	44	mixed, incl. GNAT domain, and Peptidase U32
+362663	CL:4308	37	mixed, incl. GNAT domain, and Peptidase U32
+362663	CL:4309	27	mixed, incl. GNAT domain, and Oxidoreductase, N-terminal
+362663	CL:4311	18	mixed, incl. Acetyltransferase (GNAT) domain, and Divergent 4Fe-4S mono-cluster
+362663	CL:4313	11	Acetyltransferase (GNAT) family, and Divergent 4Fe-4S mono-cluster
+362663	CL:4315	5	protein acetylation
+362663	CL:432	33	mixed, incl. Stress response, and DnaJ molecular chaperone homology domain
+362663	CL:434	18	ATPase, AAA-type, core, and Stress response
+362663	CL:4351	6	mixed, incl. Glutaredoxin-2, and MviN-like protein
+362663	CL:436	13	ATPase, AAA-type, core, and unfolded protein binding
+362663	CL:4362	10	mixed, incl. Peptidase U32, and benzoate transport
+362663	CL:4364	5	Peptidase U32, and Lipid-binding protein POX18/UbiT/NSL-TP1
+362663	CL:437	7	unfolded protein binding, and GrpE
+362663	CL:4382	5	mixed, incl. AAA-like domain, and Aspartyl protease
+362663	CL:4394	140	mixed, incl. Sulfur metabolism, and nucleobase catabolic process
+362663	CL:4395	81	mixed, incl. nucleobase catabolic process, and Permease family
+362663	CL:4396	51	mixed, incl. nucleobase catabolic process, and Permease family
+362663	CL:4397	32	mixed, incl. Permease family, and purine nucleobase catabolic process
+362663	CL:4398	26	mixed, incl. Permease family, and purine nucleobase catabolic process
+362663	CL:4399	16	mixed, incl. purine nucleobase catabolic process, and Selenocompound metabolism
+362663	CL:44	3272	cellular_component
+362663	CL:4401	11	mixed, incl. Selenocompound metabolism, and Amidohydrolase-related
+362663	CL:4403	5	mixed, incl. Putative aminohydrolase SsnA, and Putative selenate reductase YgfK
+362663	CL:4432	6	Permease family
+362663	CL:4449	6	mixed, incl. SdiA-regulated, and CoA enzyme activase
+362663	CL:4460	19	mixed, incl. pyrimidine nucleobase catabolic process, and pyrimidine nucleobase transport
+362663	CL:4461	12	pyrimidine nucleobase catabolic process, and pyrimidine nucleobase transport
+362663	CL:4465	5	nitrogen utilization
+362663	CL:4484	7	mixed, incl. Indigoidine synthase A-like, and pseudouridine kinase activity
+362663	CL:4498	29	mixed, incl. cellulose metabolic process, and ParB/Sulfiredoxin
+362663	CL:4499	20	mixed, incl. cellulose metabolic process, and ParB/Sulfiredoxin
+362663	CL:45	3244	cellular_component
+362663	CL:4500	11	cellulose metabolic process, and Protein of unknown function (DUF441)
+362663	CL:4503	5	cellulose metabolic process
+362663	CL:451	5	peptidase complex, and Clp protease
+362663	CL:4522	6	ParB/Sulfiredoxin, and Protein of unknown function DUF3440
+362663	CL:4539	5	FR47-like protein, and Putative inner membrane exporter, YdcZ
+362663	CL:4556	59	mixed, incl. Sulfur metabolism, and neutral amino acid transport
+362663	CL:4557	47	mixed, incl. Sulfur metabolism, and cysteine biosynthetic process
+362663	CL:4558	40	Sulfur metabolism, and cysteine biosynthetic process
+362663	CL:4559	33	Sulfur metabolism, and cysteine biosynthetic process
+362663	CL:4561	25	Sulfur metabolism
+362663	CL:4563	13	hydrogen sulfide metabolic process, and ATPase-coupled sulfate transmembrane transporter activity
+362663	CL:4565	5	hydrogen sulfide metabolic process
+362663	CL:4579	5	ATPase-coupled sulfate transmembrane transporter activity
+362663	CL:4596	5	alkanesulfonate transport, and FMN reductase (NADPH) activity
+362663	CL:46	2796	cellular_component
+362663	CL:4615	5	mixed, incl. DNA topoisomerase I, type IA, and cysteine biosynthetic process
+362663	CL:4626	5	L-isoleucine transmembrane transporter activity, and leucine binding
+362663	CL:4637	7	mixed, incl. acetate transport, and sulfur utilization
+362663	CL:4650	12	mostly uncharacterized, incl. Ecotin, and Sulphur transport
+362663	CL:4651	7	mixed, incl. Carbonic anhydrase, and Sulfate permease family
+362663	CL:4664	5	mixed, incl. Ecotin, and Sulphur transport
+362663	CL:4673	18	mixed, incl. L,D-transpeptidase catalytic domain, and Cobalamin biosynthesis
+362663	CL:4675	6	Cobalamin biosynthesis, and Alpha-ribazole phosphatase, CobC
+362663	CL:4694	6	L,D-transpeptidase catalytic domain
+362663	CL:47	2331	cellular_component
+362663	CL:4708	465	mixed, incl. carbohydrate metabolic process, and carbohydrate transport
+362663	CL:4709	421	carbohydrate metabolic process, and carbohydrate transport
+362663	CL:4710	306	carbohydrate metabolic process, and phosphoenolpyruvate-dependent sugar phosphotransferase system
+362663	CL:4711	258	carbohydrate metabolic process, and phosphoenolpyruvate-dependent sugar phosphotransferase system
+362663	CL:4712	223	phosphoenolpyruvate-dependent sugar phosphotransferase system, and carbohydrate metabolic process
+362663	CL:4713	192	phosphoenolpyruvate-dependent sugar phosphotransferase system, and carbohydrate metabolic process
+362663	CL:4714	166	mixed, incl. phosphoenolpyruvate-dependent sugar phosphotransferase system, and Starch and sucrose metabolism
+362663	CL:4715	113	mixed, incl. Starch and sucrose metabolism, and Pentose phosphate pathway
+362663	CL:4716	90	mixed, incl. Glycolysis / Gluconeogenesis, and Phosphotransferase system
+362663	CL:4717	73	mixed, incl. Pentose phosphate pathway, and Phosphotransferase system
+362663	CL:4718	41	Pentose phosphate pathway, and glycolytic process
+362663	CL:4719	33	Glycolysis / Gluconeogenesis, and Transketolase family
+362663	CL:4720	24	glycolytic process, and pentose-phosphate shunt
+362663	CL:4722	17	Pentose phosphate pathway, and Glyceraldehyde-3-phosphate dehydrogenase, type I
+362663	CL:4723	11	Pentose phosphate pathway
+362663	CL:4725	6	6-phosphofructokinase activity, and fructose-bisphosphate aldolase activity
+362663	CL:474	12	DnaJ molecular chaperone homology domain, and Rotamase
+362663	CL:4744	6	mixed, incl. Glyceraldehyde-3-phosphate dehydrogenase, type I, and Phosphoglycerate kinase
+362663	CL:4758	5	phosphoglycerate mutase activity, and Enolase
+362663	CL:476	5	DnaJ molecular chaperone homology domain, and de novo protein folding
+362663	CL:4771	5	Phosphotransferase system, maltose/glucose-specific subfamily IIC component, and Glucokinase
+362663	CL:4784	8	mixed, incl. Glucose metabolism, and Gluconate utilization
+362663	CL:4799	32	mixed, incl. Phosphotransferase system, and fructokinase activity
+362663	CL:48	2313	cellular_component
+362663	CL:4800	22	Phosphotransferase system, and Phosphotransferase system, IIA component fructose subfamily
+362663	CL:4801	17	Phosphotransferase system, and Phosphotransferase system, IIA component fructose subfamily
+362663	CL:4803	11	Phosphotransferase system
+362663	CL:4805	5	Phosphotransferase system, sugar-specific permease EIIA type 1, and Phosphotransferase system, HPr histidine phosphorylation site
+362663	CL:4825	5	mixed, incl. Peptidase M42, and Creatinase, N-terminal
+362663	CL:4834	5	Phosphotransferase system, fructose-specific IIB subunit, and Glycyl radical enzyme, PFL2/glycerol dehydratase family
+362663	CL:4844	6	fructokinase activity, and sucrose metabolic process
+362663	CL:4862	17	mixed, incl. beta-glucosidase activity, and glucosamine-containing compound catabolic process
+362663	CL:4863	12	mixed, incl. beta-glucosidase activity, and YdjC-like protein
+362663	CL:4866	6	mixed, incl. YdjC-like protein, and N,N-diacetylchitobiose import
+362663	CL:488	5	Cyclophilin type peptidyl-prolyl cis-trans isomerase/CLD, and Peptidyl-prolyl cis-trans isomerase, FKBP-type, N-terminal
+362663	CL:4886	5	mixed, incl. Transcription antiterminator, conserved site, and glucosamine metabolic process
+362663	CL:4895	23	Starch and sucrose metabolism, and MgtA leader peptide
+362663	CL:4896	15	glycogen metabolic process, and Alpha-amylase domain
+362663	CL:4899	5	glycogen metabolic process
+362663	CL:49	2173	cellular_component
+362663	CL:4914	6	Alpha-amylase domain, and L-methionine secondary active transmembrane transporter activity
+362663	CL:4926	6	trehalose metabolic process
+362663	CL:4940	53	mixed, incl. Phosphotransferase system (PTS), and D-tagatose 6-phosphate catabolic process
+362663	CL:4941	43	mixed, incl. Phosphotransferase system (PTS), and D-tagatose 6-phosphate catabolic process
+362663	CL:4942	27	Galactose metabolism, and protein-N(PI)-phosphohistidine-mannose phosphotransferase system transporter activity
+362663	CL:4943	16	mixed, incl. mannose transmembrane transporter activity, and PTS system sorbose subfamily IIB component
+362663	CL:4944	11	mixed, incl. mannose transmembrane transporter activity, and PTS system sorbose subfamily IIB component
+362663	CL:4946	6	mixed, incl. mannose transmembrane transporter activity, and AgaS, SIS domain
+362663	CL:4965	5	protein-N(PI)-phosphohistidine-mannose phosphotransferase system transporter activity, and mannose metabolic process
+362663	CL:4974	11	D-tagatose 6-phosphate catabolic process, and galactitol metabolic process
+362663	CL:4975	6	D-tagatose 6-phosphate catabolic process
+362663	CL:4986	5	galactitol metabolic process, and Galactitol permease IIC component
+362663	CL:4996	15	Fructose and mannose metabolism, and Glucitol operon activator
+362663	CL:4998	6	mixed, incl. sorbitol catabolic process, and PTS system enzyme II sorbitol-specific factor
+362663	CL:50	2129	cellular_component
+362663	CL:5015	5	mannose transmembrane transporter activity, and Phosphotransferase system, mannose family IIA component
+362663	CL:5027	7	mixed, incl. mannitol transport, and sorbitol-6-phosphatase activity
+362663	CL:504	15	mixed, incl. tRNA threonylcarbamoyladenosine modification, and RNA-DNA hybrid ribonuclease activity
+362663	CL:5045	26	mixed, incl. glycerol metabolic process, and Major intrinsic protein
+362663	CL:5046	20	glycerol metabolic process, and Major intrinsic protein
+362663	CL:5049	13	glycerol catabolic process, and glycerol transport
+362663	CL:5051	5	alditol phosphate metabolic process
+362663	CL:507	6	mixed, incl. Stomatin/HflK/HflC family, and GTPase HflX
+362663	CL:5086	5	Glycerate/sugar phosphate transporter, conserved site, and Phosphate transporter
+362663	CL:5096	31	mixed, incl. galactose metabolic process, and Other glycan degradation
+362663	CL:5097	18	mixed, incl. galactose metabolic process, and Other glycan degradation
+362663	CL:5098	10	galactose metabolic process, and LacY/RafB permease family
+362663	CL:5099	5	galactose metabolic process
+362663	CL:51	2114	cellular_component
+362663	CL:5108	5	LacY/RafB permease family, and lactose biosynthetic process
+362663	CL:5119	5	Other glycan degradation, and Trehalase
+362663	CL:5132	13	mixed, incl. glucose-1-phosphatase activity, and Aldose 1-epimerase
+362663	CL:5134	5	mixed, incl. Thioesterase, putative, and D-Tyr-tRNA(Tyr) deacylase
+362663	CL:5157	35	mixed, incl. aldonic acid metabolic process, and GntP family permease
+362663	CL:5158	24	mixed, incl. GntP family permease, and D-gluconate metabolic process
+362663	CL:5159	16	mixed, incl. D-gluconate metabolic process, and LacI-type HTH domain
+362663	CL:5161	5	mixed, incl. cAMP binding, and cAMP biosynthesis
+362663	CL:5175	8	D-gluconate metabolic process, and gluconate dehydrogenase activity
+362663	CL:5192	5	mixed, incl. Hydroxypyruvate isomerase-like, and Nucleotide-binding C-terminal domain
+362663	CL:52	2094	cellular_component
+362663	CL:5205	11	mostly uncharacterized, incl. nucleosome, and DNA methylase
+362663	CL:5207	5	mixed, incl. Sodium/pantothenate symporter, and Protein of unknown function DUF997
+362663	CL:5226	48	mixed, incl. fucose metabolic process, and Aldo/keto reductase family
+362663	CL:5227	31	mixed, incl. fucose metabolic process, and Aldo/keto reductase family
+362663	CL:5228	16	fucose metabolic process, and alcohol dehydrogenase (NADP+) activity
+362663	CL:5229	8	alcohol dehydrogenase (NADP+) activity, and Naphthalene degradation
+362663	CL:524	5	RNA-DNA hybrid ribonuclease activity, and YwkD-like domain
+362663	CL:5245	5	fucose metabolic process
+362663	CL:5259	15	Aldo/keto reductase family, and methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione
+362663	CL:5261	5	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione, and Peptidase M15 
+362663	CL:5277	6	Aldo/keto reductase family
+362663	CL:5288	17	mixed, incl. Transposase, IS4-like, and oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor
+362663	CL:5289	10	mixed, incl. oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor, and Protein of unknown function DUF1315
+362663	CL:5291	5	mixed, incl. methylglyoxal reductase (NADH-dependent) activity, and Glucose dehydrogenase C-terminus
+362663	CL:53	1322	intracellular, and plasma membrane
+362663	CL:5308	7	mixed, incl. Transposase, IS4-like, and Microcin V bacteriocin
+362663	CL:5321	115	mixed, incl. Pentose and glucuronate interconversions, and carbohydrate catabolic process
+362663	CL:5322	87	mixed, incl. Pentose and glucuronate interconversions, and galactonate catabolic process
+362663	CL:5323	52	mixed, incl. Pentose and glucuronate interconversions, and galactonate catabolic process
+362663	CL:5324	38	mixed, incl. Pentose and glucuronate interconversions, and This entry represents the C-terminal ligand binding domain of many members of the GntR family. This domain probably binds to a range of effector molecules that regulate the transcription of genes through the action of the N-terminal DNA-binding ...
+362663	CL:5325	29	mixed, incl. Pentose and glucuronate interconversions, and TRAP transporter solute receptor DctP/TeaA
+362663	CL:5326	24	mixed, incl. Pentose and glucuronate interconversions, and TRAP transporter solute receptor DctP/TeaA
+362663	CL:5328	12	mixed, incl. Mannitol dehydrogenase, N-terminal, and D-mannonate dehydratase-like
+362663	CL:533	18	mixed, incl. tRNA methyltransferase activity, and rRNA pseudouridine synthase activity
+362663	CL:5330	5	mixed, incl. Uronate isomerase, and Altronate oxidoreductase
+362663	CL:534	11	mixed, incl. tRNA methyltransferase activity, and rRNA (guanine) methyltransferase activity
+362663	CL:5340	6	D-mannonate dehydratase-like, and Mannitol dehydrogenase
+362663	CL:5357	6	TRAP transporter solute receptor DctP/TeaA, and TRAP transporter large membrane protein DctM
+362663	CL:536	5	mixed, incl. MnmE helical domain, and GidA associated domain
+362663	CL:5373	5	mixed, incl. Protein of unknown function DUF1283, and diamine N-acetyltransferase activity
+362663	CL:5383	7	mixed, incl. galactonate catabolic process, and beta-glucuronidase activity
+362663	CL:5399	14	mixed, incl. D-galactonate metabolic process, and RmuC family
+362663	CL:54	1288	intracellular, and plasma membrane
+362663	CL:5401	6	mixed, incl. D-galactonate metabolic process, and Bordetella uptake gene
+362663	CL:5416	5	D-galactonate metabolic process, and FCD domain
+362663	CL:5426	35	mixed, incl. Ascorbate and aldarate metabolism, and Rhamnose metabolism
+362663	CL:5427	20	Ascorbate and aldarate metabolism, and Transcription regulator HTH, UlaR
+362663	CL:5428	12	mixed, incl. L-lyxose metabolic process, and 2,3-diketo-L-gulonate reductase
+362663	CL:5430	7	mixed, incl. L-lyxose metabolic process, and HPS/KGPDC domain
+362663	CL:5452	7	L-ascorbic acid catabolic process, and protein-phosphocysteine-L-ascorbate-phosphotransferase system transporter activity
+362663	CL:5467	13	Rhamnose metabolism, and arabinose catabolic process
+362663	CL:5469	7	Rhamnose metabolism
+362663	CL:5483	5	xylulose 5-phosphate metabolic process, and Sugar/inositol transporter
+362663	CL:5495	28	mixed, incl. aldaric acid catabolic process, and Sugar phosphate transporter
+362663	CL:5496	19	mixed, incl. aldaric acid catabolic process, and Sugar phosphate transporter
+362663	CL:5499	8	aldaric acid catabolic process, and D-Glucarate dehydratase-like
+362663	CL:55	1272	intracellular, and plasma membrane
+362663	CL:5518	6	mixed, incl. Sialidase, and PdxA family
+362663	CL:5534	6	mixed, incl. YfaZ, and L-rhamnonate dehydratase
+362663	CL:5551	43	mixed, incl. Arginine and proline metabolism, and Lysine degradation
+362663	CL:5553	25	mixed, incl. polyamine metabolic process, and Orn/Lys/Arg decarboxylase, N-terminal
+362663	CL:5554	16	polyamine metabolic process, and lysine decarboxylase activity
+362663	CL:5556	6	polyamine biosynthetic process
+362663	CL:556	6	rRNA pseudouridine synthase activity, and BipA, domain V
+362663	CL:5571	6	lysine decarboxylase activity, and Amino acid antiporter
+362663	CL:5586	6	mixed, incl. arginine decarboxylase activity, and melibiose metabolic process
+362663	CL:56	1222	intracellular, and plasma membrane
+362663	CL:5604	13	arginine catabolic process to glutamate, and gamma-aminobutyric acid metabolic process
+362663	CL:5605	8	gamma-aminobutyric acid metabolic process, and CsiD
+362663	CL:5620	5	arginine catabolic process to glutamate
+362663	CL:5637	448	transport, and DNA-binding transcription factor activity
+362663	CL:5638	302	mixed, incl. ABC transporters, and transition metal ion transport
+362663	CL:5639	261	mixed, incl. ABC transporters, and transition metal ion transport
+362663	CL:5640	169	mixed, incl. ABC transporters, and transition metal ion transport
+362663	CL:5641	138	mixed, incl. ABC transporters, and import into cell
+362663	CL:5642	95	ABC transporters, and import into cell
+362663	CL:5643	54	mixed, incl. amino acid transport, and ABC transporter, permease protein, BtuC-like
+362663	CL:5644	33	mixed, incl. ABC transporter, permease protein, BtuC-like, and Periplasmic binding protein
+362663	CL:5645	27	mixed, incl. ABC transporter, permease protein, BtuC-like, and Periplasmic binding protein
+362663	CL:5647	18	mixed, incl. ABC transporter, permease protein, BtuC-like, and Periplasmic binding protein
+362663	CL:5648	12	mixed, incl. cobalamin transport, and NLPA lipoprotein
+362663	CL:5649	7	mixed, incl. cobalamin transport, and ATPase-coupled amide-transporter activity
+362663	CL:5662	5	NLPA lipoprotein, and methionine transmembrane transporter activity
+362663	CL:5672	5	ABC transporter, permease protein, BtuC-like, and RpiR-like, SIS domain
+362663	CL:5689	5	glutathione transport, and Cyclic peptide transporter
+362663	CL:569	5	mixed, incl. MAPEG family, and O-methyltransferase
+362663	CL:5699	5	mixed, incl. Putative pyrophosphorylase ModD, and Methyltransferase domain
+362663	CL:57	1005	nitrogen compound metabolic process, and oxidoreductase activity
+362663	CL:5709	21	Amino acid ABC transporter, permease protein, 3-TM domain, and Solute-binding protein family 3, conserved site
+362663	CL:5711	12	Amino acid ABC transporter, permease protein, 3-TM domain, and Solute-binding protein family 3, conserved site
+362663	CL:5713	5	amino acid import, and Specific amino acids and opine-binding periplasmic protein, ABC transporter
+362663	CL:5741	5	ABC transporter membrane protein permease protein ArtM/GltK/GlnP/TcyL/YhdX-like, and glutamate binding
+362663	CL:5750	41	mixed, incl. ATPase-coupled polyamine transmembrane transporter activity, and Bacterial extracellular solute-binding protein
+362663	CL:5751	25	mixed, incl. maltose transmembrane transporter activity, and glycerol-3-phosphate transmembrane transporter activity
+362663	CL:5752	13	mixed, incl. ATP-binding cassette (ABC) transporter complex, substrate-binding subunit-containing, and maltose transmembrane transporter activity
+362663	CL:5756	6	mixed, incl. Gfo/Idh/MocA-like oxidoreductase, C-terminal, and ATPase-coupled maltose transmembrane transporter activity
+362663	CL:5777	12	mixed, incl. maltose transmembrane transporter activity, and glycerol-3-phosphate transmembrane transporter activity
+362663	CL:5780	5	ATPase-coupled maltose transmembrane transporter activity, and Maltoporin
+362663	CL:5791	5	glycerol-3-phosphate transmembrane transporter activity, and glycerophosphocholine phosphodiesterase activity
+362663	CL:58	955	nitrogen compound metabolic process, and cytosol
+362663	CL:5800	16	ATPase-coupled polyamine transmembrane transporter activity, and polyamine binding
+362663	CL:5801	8	ATPase-coupled polyamine transmembrane transporter activity, and polyamine binding
+362663	CL:5818	5	ATPase-coupled spermidine transmembrane transporter activity, and spermidine binding
+362663	CL:583	97	DNA repair, and DNA replication
+362663	CL:5831	43	mixed, incl. pentose transmembrane transport, and ABC transporter, permease
+362663	CL:5832	29	mixed, incl. pentose transmembrane transport, and ABC transporter, permease
+362663	CL:5833	22	mixed, incl. pentose transmembrane transport, and ABC transporter, permease
+362663	CL:5835	14	mixed, incl. Periplasmic binding protein, and ABC transporter, permease
+362663	CL:5837	6	D-ribose transmembrane transport, and D-ribose pyranase
+362663	CL:585	90	DNA repair, and DNA replication
+362663	CL:587	75	DNA repair, and DNA replication
+362663	CL:5877	6	D-xylose metabolic process, and D-xylose transmembrane transporter activity
+362663	CL:588	63	DNA repair, and DNA replication
+362663	CL:589	51	DNA repair, and DNA-directed DNA polymerase activity
+362663	CL:5890	10	mixed, incl. allose catabolic process, and Ribose-phosphate pyrophosphokinase
+362663	CL:5892	5	allose catabolic process, and RpiR-like, SIS domain
+362663	CL:59	875	nitrogen compound metabolic process, and protein binding
+362663	CL:590	40	DNA repair
+362663	CL:591	24	DNA repair, and 3-5 DNA helicase activity
+362663	CL:5916	31	mixed, incl. zinc ion transport, and ABC transporter, TroCD-like
+362663	CL:5917	26	mixed, incl. zinc ion transport, and ABC transporter, TroCD-like
+362663	CL:5918	17	mixed, incl. ABC transporter, TroCD-like, and Adhesion lipoprotein
+362663	CL:5919	12	ABC transporter, TroCD-like, and Adhesion lipoprotein
+362663	CL:5921	5	ABC transporter, TroCD-like, and Adhesin B
+362663	CL:593	16	mixed, incl. endodeoxyribonuclease complex, and RecF/RecN/SMC, N-terminal
+362663	CL:594	10	endodeoxyribonuclease complex, and DDH domain
+362663	CL:5942	5	mixed, incl. NRAMP family, and DTXR-type HTH domain
+362663	CL:5953	5	zinc ion transport
+362663	CL:596	5	endodeoxyribonuclease complex
+362663	CL:5968	5	mixed, incl. Transposase, IS111A/IS1328/IS1533, N-terminal, and DNA integration
+362663	CL:5977	92	mixed, incl. lactone metabolic process, and siderophore transport
+362663	CL:5978	76	mixed, incl. lactone metabolic process, and siderophore transport
+362663	CL:5979	68	mixed, incl. lactone metabolic process, and iron ion transmembrane transport
+362663	CL:5980	56	mixed, incl. lactone metabolic process, and siderophore transmembrane transport
+362663	CL:5981	51	mixed, incl. lactone metabolic process, and siderophore transmembrane transport
+362663	CL:5983	45	mixed, incl. lactone metabolic process, and siderophore transmembrane transport
+362663	CL:5984	25	mixed, incl. ACP-like superfamily, and Thioesterase type II, NRPS/PKS/S-FAS
+362663	CL:5985	16	ACP-like superfamily, and Aminobenzoate degradation
+362663	CL:5988	11	ACP-like superfamily
+362663	CL:5990	5	Polyketide synthase, phosphopantetheine-binding domain
+362663	CL:60	855	nitrogen compound metabolic process, and nucleotide binding
+362663	CL:6017	5	mixed, incl. Salicylate synthase, and AmpG-like permease/Acetyl-coenzyme A transporter 1
+362663	CL:6033	20	enterobactin metabolic process, and lactone transport
+362663	CL:6034	15	enterobactin metabolic process, and colicin transmembrane transporter activity
+362663	CL:6036	7	enterobactin metabolic process
+362663	CL:6063	5	lactone transport, and P-loop containing region of AAA domain
+362663	CL:6082	5	mixed, incl. Transposase InsF-like, and Helix-turn-helix domain
+362663	CL:6091	12	mixed, incl. Haem utilisation ChuX/HutX, and heme transmembrane transporter activity
+362663	CL:6094	6	mixed, incl. Anaerobilin synthase HutW, and Intracellular heme transport protein HutX-like
+362663	CL:61	837	nitrogen compound metabolic process, and nucleotide binding
+362663	CL:6115	5	mixed, incl. Siderophore-interacting protein, and Protein of unknown function DUF454
+362663	CL:6129	16	Menaquinone biosynthesis, and succinate transport
+362663	CL:613	6	mixed, incl. RecF/RecN/SMC, N-terminal, and RecX family
+362663	CL:6130	11	Menaquinone biosynthesis, and Ribonuclease BN
+362663	CL:6132	6	Menaquinone biosynthesis
+362663	CL:6151	5	succinate transport, and Transport protein YidE, putative
+362663	CL:6162	39	peptide transmembrane transporter activity, and Oligopeptide/dipeptide ABC transporter, C-terminal
+362663	CL:6164	26	peptide transmembrane transporter activity, and Oligopeptide/dipeptide ABC transporter, C-terminal
+362663	CL:6165	21	mixed, incl. oligopeptide transmembrane transporter activity, and Oligopeptide/dipeptide ABC transporter, C-terminal
+362663	CL:6166	15	mixed, incl. Oligopeptide/dipeptide ABC transporter, C-terminal, and Solute-binding protein family 5, conserved site
+362663	CL:6167	10	Oligopeptide/dipeptide ABC transporter, C-terminal, and Solute-binding protein family 5, conserved site
+362663	CL:6168	5	beta-Lactam resistance
+362663	CL:6177	5	Oligopeptide/dipeptide ABC transporter, C-terminal, and Solute-binding protein family 5, conserved site
+362663	CL:6186	5	putrescine transmembrane transporter activity, and Solute-binding protein family 5, conserved site
+362663	CL:6196	5	ATPase-coupled nickel transmembrane transporter activity, and dipeptide transmembrane transporter activity
+362663	CL:62	819	nitrogen compound metabolic process, and Chaperone
+362663	CL:6206	5	glutathione transmembrane transporter activity, and Solute-binding protein family 5
+362663	CL:6224	5	nickel cation transport
+362663	CL:6241	146	mixed, incl. response to antibiotic, and sequence-specific DNA binding
+362663	CL:6242	127	mixed, incl. response to antibiotic, and sequence-specific DNA binding
+362663	CL:6243	69	mixed, incl. xenobiotic transport, and HlyD family secretion protein
+362663	CL:6244	59	mixed, incl. xenobiotic transport, and HlyD family secretion protein
+362663	CL:6245	52	mixed, incl. HlyD family secretion protein, and efflux transmembrane transporter activity
+362663	CL:6246	41	mixed, incl. efflux transmembrane transporter activity, and RND efflux pump, membrane fusion protein
+362663	CL:6247	29	mixed, incl. AcrB/AcrD/AcrF family, and RND efflux pump, membrane fusion protein
+362663	CL:6248	21	AcrB/AcrD/AcrF family, and RND efflux pump, membrane fusion protein
+362663	CL:6251	11	RND efflux pump, membrane fusion protein, and Outer membrane efflux protein
+362663	CL:6252	6	efflux pump complex, and beta-Lactam resistance
+362663	CL:6263	5	mixed, incl. Macrolide export protein MacA, and MacB-like periplasmic core domain
+362663	CL:6278	6	mixed, incl. Protein export membrane protein, and Multidrug resistance protein MdtA
+362663	CL:629	5	mismatch repair
+362663	CL:6290	5	ABC-2 family transporter protein, and Domain of unknown function (DUF1956)
+362663	CL:63	794	nitrogen compound metabolic process, and Chaperone
+362663	CL:6304	12	mixed, incl. copper ion binding, and copper ion transport
+362663	CL:6307	6	mixed, incl. copper ion transport, and protein lipidation
+362663	CL:6327	11	mixed, incl. Drug resistance transporter EmrB-like, and Efflux pump membrane protein
+362663	CL:6328	6	mixed, incl. L-valine transmembrane transporter activity, and Efflux pump membrane protein
+362663	CL:6339	5	bile acid and bile salt transport, and Efflux pump membrane protein
+362663	CL:6348	7	Small Multidrug Resistance protein, and drug transport
+362663	CL:6363	6	mixed, incl. oxidoreductase activity, acting on a sulfur group of donors, quinone or similar compound as acceptor, and Hydroxyisourate hydrolase
+362663	CL:638	16	mixed, incl. DNA/RNA polymerase superfamily, and SOS response
+362663	CL:6380	58	mixed, incl. LysR, substrate-binding, and Helix-turn-helix domain
+362663	CL:6381	51	mixed, incl. LysR, substrate-binding, and Helix-turn-helix domain
+362663	CL:6382	41	mixed, incl. LysR, substrate-binding, and Helix-turn-helix domain
+362663	CL:6383	34	mixed, incl. Helix-turn-helix domain, and response to hypochlorite
+362663	CL:6386	17	mixed, incl. Helix-turn-helix domain, and response to hypochlorite
+362663	CL:6387	11	mixed, incl. Bacterial regulatory helix-turn-helix proteins, AraC family, and MarB protein
+362663	CL:6389	5	mixed, incl. MarB protein, and Transcription regulator MerR, DNA binding
+362663	CL:64	493	macromolecule metabolic process, and Chaperone
+362663	CL:640	6	mixed, incl. 3-5-exodeoxyribonuclease activity, and AAA domain
+362663	CL:6408	6	response to hypochlorite, and Cupin
+362663	CL:6425	13	mixed, incl. bacterial-type flagellum-dependent swarming motility, and Dienelactone hydrolase family
+362663	CL:6426	8	mixed, incl. Xaa-Pro dipeptidyl-peptidase-like domain, and Transcription regulator HTH, AraC, N-terminal
+362663	CL:6441	5	mixed, incl. Dipeptide epimerase, and Zinc carboxypeptidase
+362663	CL:6450	7	mixed, incl. HTH-type transcriptional regulator ArgP, and arginine transport
+362663	CL:6464	6	mixed, incl. Bestrophin/UPF0187, and Sugar efflux transporter, putative
+362663	CL:6482	7	mixed, incl. Cyanate transport system protein, and Transcription regulator HTH, PurR
+362663	CL:6495	19	mixed, incl. cytolysis, and cis-regulatory region sequence-specific DNA binding
+362663	CL:6496	11	mixed, incl. cis-regulatory region sequence-specific DNA binding, and Sodium Bile acid symporter family
+362663	CL:6498	5	mixed, incl. Histidine kinase-like ATPase domain, and Oxidoreductase molybdopterin binding domain
+362663	CL:65	386	mixed, incl. gene expression, and DNA repair
+362663	CL:6518	6	mixed, incl. tRNA-dihydrouridine(16) synthase, and Uncharacterised protein family YeiS
+362663	CL:6532	28	organic phosphonate metabolic process, and phosphate ion transport
+362663	CL:6535	13	organic phosphonate metabolic process, and organic phosphonate transport
+362663	CL:6537	8	organic phosphonate catabolic process
+362663	CL:6566	11	phosphate ion transport, and Exopolyphosphatase
+362663	CL:6569	5	Phosphate transport
+362663	CL:657	5	UmuC domain, and Peptidase S24, LexA-like
+362663	CL:6587	191	mixed, incl. iron-sulfur cluster binding, and nitrogen cycle metabolic process
+362663	CL:6588	152	mixed, incl. iron-sulfur cluster binding, and nitrogen cycle metabolic process
+362663	CL:6589	145	mixed, incl. iron-sulfur cluster binding, and nitrogen cycle metabolic process
+362663	CL:6590	107	mixed, incl. nitrogen cycle metabolic process, and molybdopterin cofactor metabolic process
+362663	CL:6591	90	mixed, incl. nitrogen cycle metabolic process, and molybdopterin cofactor metabolic process
+362663	CL:6592	51	mixed, incl. nitrate assimilation, and cytochrome complex assembly
+362663	CL:6593	33	mixed, incl. cytochrome complex assembly, and Multiheme cytochrome superfamily
+362663	CL:6594	23	cytochrome complex assembly, and Multiheme cytochrome superfamily
+362663	CL:6595	15	cytochrome complex assembly, and Multiheme cytochrome superfamily
+362663	CL:6597	7	mixed, incl. Multiheme cytochrome superfamily, and NapD protein
+362663	CL:66	381	mixed, incl. gene expression, and DNA repair
+362663	CL:6612	5	protein-heme linkage, and Heme exporter protein D (CcmD)
+362663	CL:6625	7	mixed, incl. cytochrome c-heme linkage via heme-L-cysteine, and Multiheme cytochrome superfamily
+362663	CL:6641	7	mixed, incl. Membrane-bound tetrahaem cytochrome TorC/YecK, and Chaperone TorD
+362663	CL:6658	18	nitrate assimilation
+362663	CL:6660	10	nitrate reductase complex, and Nitrate transporter
+362663	CL:6662	5	NarGHI complex, and Nitrate reductase, alpha subunit
+362663	CL:6684	5	NarX-like, N-terminal, and Sigma-70, region 4
+362663	CL:669	11	DNA polymerase III complex, and Helix-hairpin-helix motif
+362663	CL:6693	39	mixed, incl. molybdopterin cofactor metabolic process, and molybdenum ion binding
+362663	CL:6694	20	molybdopterin cofactor metabolic process, and molybdate ion transport
+362663	CL:6696	10	molybdopterin cofactor metabolic process
+362663	CL:6698	5	molybdopterin cofactor metabolic process
+362663	CL:672	5	DNA polymerase III, clamp loader complex, gamma/delta/delta subunit, C-terminal, and DNA polymerase III psi subunit
+362663	CL:6720	5	molybdate ion transport
+362663	CL:6733	19	mixed, incl. formate dehydrogenase (NAD+) activity, and Selenium
+362663	CL:6735	13	mixed, incl. formate dehydrogenase (NAD+) activity, and Selenium
+362663	CL:6737	7	formate dehydrogenase complex, and FdhE-like superfamily
+362663	CL:6771	16	mixed, incl. response to tellurium ion, and response to nitrosative stress
+362663	CL:6773	11	mixed, incl. response to nitrosative stress, and response to tellurium ion
+362663	CL:6775	6	mixed, incl. response to nitrosative stress, and Prismane, alpha-bundle
+362663	CL:68	368	mixed, incl. gene expression, and DNA repair
+362663	CL:6804	34	mixed, incl. protein maturation, and hydrogenase (acceptor) activity
+362663	CL:6805	20	protein maturation, and hydrogenase (acceptor) activity
+362663	CL:6806	14	mixed, incl. hydrogenase (acceptor) activity, and Peptidase A31, hydrogenase expression/formation protein
+362663	CL:6808	6	hydrogenase (acceptor) activity, and preprotein binding
+362663	CL:6822	6	mixed, incl. ferredoxin hydrogenase activity, and HupH, C-terminal domain superfamily
+362663	CL:6834	5	mixed, incl. HypD, domain 1, and protein dehydration
+362663	CL:6846	11	mixed, incl. NADH dehydrogenase (ubiquinone) activity, and uracil binding
+362663	CL:6850	5	NADH dehydrogenase (ubiquinone) activity, and NADH dehydrogenase
+362663	CL:6879	6	mixed, incl. L-alanine exporter, and tyrosine transport
+362663	CL:6891	39	mostly uncharacterized, incl. Glycine-zipper domain, and L(+)-tartrate dehydratase activity
+362663	CL:6892	27	mostly uncharacterized, incl. L(+)-tartrate dehydratase activity, and Solute carrier family 13
+362663	CL:6893	18	mixed, incl. L(+)-tartrate dehydratase activity, and Solute carrier family 13
+362663	CL:6895	10	mixed, incl. Coenzyme A transferase active site, and Short chain fatty acid transporter
+362663	CL:6897	5	mixed, incl. Aldehyde ferredoxin oxidoreductase, domain 3, and Cytochrome b/b6/petB
+362663	CL:69	354	mixed, incl. gene expression, and DNA repair
+362663	CL:690	12	DNA replication, synthesis of RNA primer, and Competence protein
+362663	CL:691	7	DNA replication, synthesis of RNA primer
+362663	CL:6919	5	L(+)-tartrate dehydratase activity, and Solute carrier family 13
+362663	CL:6929	7	mixed, incl. ADP-ribosylglycohydrolase, and Domain of unknown function DUF5107
+362663	CL:6946	11	mixed, incl. Glycine-zipper domain, and YmgD protein
+362663	CL:6948	6	mixed, incl. YmgD protein, and Uncharacterised protein family UPF0757, YmgG
+362663	CL:6968	72	mixed, incl. amino acid transmembrane transporter activity, and Glycine, serine and threonine metabolism
+362663	CL:6969	45	mixed, incl. amino acid transmembrane transporter activity, and ammonia-lyase activity
+362663	CL:6970	33	mixed, incl. amino acid transmembrane transporter activity, and ammonia-lyase activity
+362663	CL:6972	19	mixed, incl. ammonia-lyase activity, and serine transport
+362663	CL:6974	10	mixed, incl. L-threonine catabolic process to propionate, and L-serine catabolic process
+362663	CL:6975	5	Serine dehydratase beta chain, and SAM-dependent chlorinase/fluorinase
+362663	CL:6984	5	L-threonine catabolic process to propionate, and Threonine/serine transporter TdcC
+362663	CL:6998	6	mixed, incl. GntP family permease, and D-serine deaminase transcriptional activator
+362663	CL:70	257	gene expression, and protein folding
+362663	CL:7013	10	mixed, incl. amino acid:cation symporter activity, and Peroxide stress protein YaaA
+362663	CL:7015	5	amino acid:cation symporter activity, and Osmosensory transporter coiled coil
+362663	CL:7036	11	mixed, incl. Tryptophan/tyrosine transporter, and Tryptophanase
+362663	CL:7037	6	mixed, incl. tryptophan catabolic process, and Multidrug resistance protein MdtL
+362663	CL:704	5	mixed, incl. Competence protein, and Primosomal protein N
+362663	CL:7048	5	Tryptophan/tyrosine transporter, and TyrR family, helix-turn-helix domain
+362663	CL:7058	27	mostly uncharacterized, incl. oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, and MarC family integral membrane protein
+362663	CL:7059	15	mixed, incl. MarC family integral membrane protein, and L-threonine catabolic process to glycine
+362663	CL:7060	10	mixed, incl. L-threonine catabolic process to glycine, and Threonine aldolase
+362663	CL:7061	5	L-threonine catabolic process to glycine, and Threonine aldolase
+362663	CL:7070	5	mixed, incl. Inner membrane protein YhjD, and Transporter associated domain
+362663	CL:7079	5	MarC family integral membrane protein, and AI-2E family transporter
+362663	CL:7088	12	mixed, incl. oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, and Rhodanase C-terminal
+362663	CL:7090	6	mixed, incl. Pirin, and Glutathione S-transferase Omega/GSH
+362663	CL:71	249	gene expression, and protein folding
+362663	CL:7112	6	mixed, incl. S4 domain, and YhbY-like superfamily
+362663	CL:713	12	Base excision repair, and DNA dealkylation
+362663	CL:7130	13	mixed, incl. Glucan biosynthesis protein MdoG/MdoD, and regulation of cytokinetic process
+362663	CL:7132	5	regulation of cytokinetic process, and ATP binding protein MinD
+362663	CL:714	7	Base excision repair
+362663	CL:7146	5	Glucan biosynthesis protein MdoG/MdoD, and Domain of unknown function DUF1338
+362663	CL:7155	791	mixed, incl. Domain, and DNA binding
+362663	CL:7156	757	mixed, incl. Domain, and DNA binding
+362663	CL:7157	722	mixed, incl. Domain, and DNA binding
+362663	CL:7158	440	mixed, incl. Signal, and transposition
+362663	CL:7160	241	mixed, incl. pilus organization, and Fimbrial-type adhesion domain superfamily
+362663	CL:7161	153	mostly uncharacterized, incl. macromolecule localization, and extracellular region
+362663	CL:7162	128	mostly uncharacterized, incl. macromolecule localization, and pathogenesis
+362663	CL:7163	117	mostly uncharacterized, incl. macromolecule localization, and pathogenesis
+362663	CL:7164	64	mostly uncharacterized, incl. Autotransporter beta-domain, and Disulfide bond
+362663	CL:7165	32	mostly uncharacterized, incl. Tail assembly protein GT, and Autotransporter beta-domain
+362663	CL:7166	26	mostly uncharacterized, incl. Tail assembly protein GT, and gpW
+362663	CL:7169	20	mostly uncharacterized, incl. Tail assembly protein GT, and gpW
+362663	CL:7170	13	mixed, incl. Tail assembly protein GT, and JAB/MPN domain
+362663	CL:7173	5	mixed, incl. JAB/MPN domain, and Fibronectin type III
+362663	CL:7195	7	mixed, incl. gpW, and Virion
+362663	CL:72	231	translation, and RNA metabolic process
+362663	CL:7217	6	mixed, incl. IS1 transposase, and InsA N-terminal domain
+362663	CL:7228	32	mostly uncharacterized, incl. ABC transporter, CbiO/EcfA subunit, and Putative esterase
+362663	CL:7230	21	mostly uncharacterized, incl. ABC transporter, CbiO/EcfA subunit, and Putative esterase
+362663	CL:7231	14	mixed, incl. ABC transporter, CbiO/EcfA subunit, and Putative esterase
+362663	CL:7233	5	ABC transporter, CbiO/EcfA subunit, and PPC domain
+362663	CL:7249	5	Putative esterase, and Domain of unknown function DUF1205
+362663	CL:7259	5	mixed, incl. sulfotransferase activity, and Protein-disulfide oxidoreductase DsbI
+362663	CL:727	5	DNA dealkylation
+362663	CL:7278	7	mixed, incl. Signal transduction histidine kinase, PgtB, and Pertactin, central region
+362663	CL:7291	53	mostly uncharacterized, incl. toxin metabolic process, and polysaccharide transport
+362663	CL:7293	44	mixed, incl. polysaccharide transport, and secretion
+362663	CL:7294	35	mixed, incl. secretion, and Glycosyl transferases group 1
+362663	CL:7297	23	mixed, incl. Glycosyl transferases group 1, and Prokaryotic N-terminal methylation site
+362663	CL:7299	15	mixed, incl. Glycosyl transferases group 1, and Bundlin
+362663	CL:73	216	mixed, incl. translation, and catalytic activity, acting on RNA
+362663	CL:7302	6	mixed, incl. TIR domain, and Invasin, domain 3
+362663	CL:7318	5	Glycosyl transferases group 1, and O antigen metabolic process
+362663	CL:7331	6	mixed, incl. Transposase Tn5, dimerisation, and Protein of unknown function DUF4198
+362663	CL:7348	6	Secretion protein HlyD, conserved site, and Peptidase C39 family
+362663	CL:7365	5	polysaccharide transport, and ABC-2 type transporter
+362663	CL:7385	6	Colicin E immunity protein superfamily, and Colicin/pyocin, DNase domain superfamily
+362663	CL:7397	7	mixed, incl. Replication P, and Putative bacterial toxin ydaT
+362663	CL:74	179	translation, and catalytic activity, acting on RNA
+362663	CL:7417	25	mixed, incl. TPM domain, and Bacterial regulatory proteins, tetR family
+362663	CL:7418	17	mostly uncharacterized, incl. Bacterial regulatory proteins, tetR family, and Bor
+362663	CL:7419	10	mixed, incl. Mitofusin family, and HTH-type transcriptional repressor NicS, C-terminal
+362663	CL:7420	5	mixed, incl. HTH-type transcriptional repressor NicS, C-terminal, and Succinate dehydrogenase/fumarate reductase flavoprotein subunit, low-GC Gram-positive bacteria
+362663	CL:7429	5	mixed, incl. Mitofusin family, and YjcZ-like protein
+362663	CL:743	11	mixed, incl. exodeoxyribonuclease V activity, and Prokaryotic N-terminal methylation motif
+362663	CL:7439	5	mixed, incl. Bor, and Domain of unknown function DUF5655
+362663	CL:745	5	mixed, incl. Protein of unknown function DUF2509, and Prepilin peptidase dependent protein C
+362663	CL:7451	8	mixed, incl. TPM domain, and MamQ/LemA
+362663	CL:7467	85	pilus organization, and Fimbrial-type adhesion domain superfamily
+362663	CL:7469	73	Fimbrial-type adhesion domain superfamily, and pilus organization
+362663	CL:7470	65	Fimbrial-type adhesion domain superfamily, and pilus organization
+362663	CL:7471	57	Fimbrial-type adhesion domain superfamily, and pilus organization
+362663	CL:7472	51	Fimbrial-type adhesion domain superfamily, and pilus organization
+362663	CL:7473	27	Fimbrial-type adhesion domain superfamily, and Pili assembly chaperone, bacterial
+362663	CL:7474	19	Fimbrial-type adhesion domain, and Pili assembly chaperone, bacterial
+362663	CL:7475	12	Fimbrial-type adhesion domain, and Pili assembly chaperone, bacterial
+362663	CL:7478	5	Fimbrial-type adhesion domain, and PapC N-terminal domain
+362663	CL:7489	5	mixed, incl. Pili assembly chaperone, conserved site, and Fimbrial membrane usher, conserved site
+362663	CL:75	167	translation, and catalytic activity, acting on RNA
+362663	CL:7500	5	Fimbrial-type adhesion domain, and Pili assembly chaperone, conserved site
+362663	CL:7512	5	mixed, incl. Pilus-assembly complex, chaperone PapJ, and Pili assembly chaperone, conserved site
+362663	CL:7526	24	Adhesion domain superfamily, and PapC C-terminal domain
+362663	CL:7528	16	Adhesion domain superfamily, and PapC C-terminal domain
+362663	CL:7531	5	mannose binding, and pilus organization
+362663	CL:7547	6	Fimbrium, and Pili assembly chaperone, conserved site
+362663	CL:755	5	exodeoxyribonuclease V activity, and Exodeoxyribonuclease I
+362663	CL:7564	5	mixed, incl. FimA-like, and Pili assembly chaperone, conserved site
+362663	CL:7574	5	mixed, incl. Uncharacterised protein family YehE, and Uncharacterised conserved protein UCP030811
+362663	CL:7585	6	Pili assembly chaperone, N-terminal, and Fimbrial membrane usher, conserved site
+362663	CL:76	136	translation, and Protein export
+362663	CL:7601	5	Fimbrial protein, and Pili assembly chaperone, conserved site
+362663	CL:7621	5	mixed, incl. Fimbrillin MatB, and EcpB, C-terminal
+362663	CL:7648	195	mixed, incl. transposition, and Bacterial secretion system
+362663	CL:7649	99	mostly uncharacterized, incl. regulation of cellular component organization, and Antirestriction protein
+362663	CL:7651	73	mixed, incl. regulation of cellular component organization, and Antirestriction protein
+362663	CL:7653	66	mixed, incl. regulation of cellular component organization, and Antirestriction protein
+362663	CL:7654	60	mixed, incl. regulation of cellular component organization, and Antirestriction protein
+362663	CL:7655	55	mixed, incl. regulation of cellular component organization, and Antirestriction protein
+362663	CL:7656	50	mixed, incl. regulation of cellular component organization, and Antirestriction protein
+362663	CL:7657	37	mixed, incl. regulation of cytoskeleton organization, and Protein of unknown function DUF987
+362663	CL:7658	27	mixed, incl. regulation of cytoskeleton organization, and Protein of unknown function DUF987
+362663	CL:7659	16	mixed, incl. regulation of cytoskeleton organization, and Protein of unknown function DUF987
+362663	CL:7663	5	regulation of cytoskeleton organization, and Protein of unknown function DUF987
+362663	CL:7677	5	mixed, incl. Protein of unknown function DUF987, and Antitoxin CbeA
+362663	CL:7690	11	mostly uncharacterized, incl. Helix-turn-helix domain, and Domain of unknown function DUF4942
+362663	CL:7691	6	mixed, incl. Helix-turn-helix domain, and Protein of unknown function DUF987
+362663	CL:7702	5	mixed, incl. Domain of unknown function DUF4942, and Protein of unknown function DUF957
+362663	CL:7711	10	mixed, incl. YkfF-like domain superfamily, and Domain of unknown function DUF4942
+362663	CL:7713	5	mixed, incl. Protein of unknown function DUF987, and Antitoxin CbeA
+362663	CL:7730	13	mostly uncharacterized, incl. WYL domain, and YkfF-like domain superfamily
+362663	CL:7731	8	mixed, incl. WYL domain, and YkfF-like domain superfamily
+362663	CL:7746	5	mixed, incl. Domain of unknown function DUF4942, and Protein of unknown function DUF957
+362663	CL:7755	5	mixed, incl. Winged helix-turn helix, and WYL domain
+362663	CL:776	14	mixed, incl. lipoprotein metabolic process, and Elp3/MiaB/NifB
+362663	CL:7764	5	mixed, incl. Uncharacterised conserved protein UCP030791, and Prophage CP4-57 regulatory protein (AlpA)
+362663	CL:7773	6	mixed, incl. Prophage CP4-57 regulatory protein (AlpA), and Inovirus Gp2
+362663	CL:778	6	mixed, incl. Folate-binding, and Endoribonuclease YbeY
+362663	CL:7797	25	mixed, incl. Zinc-finger binding domain of transposase IS66, and Transposase
+362663	CL:7798	20	mixed, incl. Zinc-finger binding domain of transposase IS66, and Transposase
+362663	CL:7799	10	mixed, incl. Transposase, and Probable zinc-ribbon
+362663	CL:78	127	translation, and Protein export
+362663	CL:7801	5	Transposase, and RNA-directed DNA polymerase
+362663	CL:7819	6	Transposase, IS66, and IS66 Orf2 like protein
+362663	CL:7837	5	mixed, incl. Protein of unknown function DUF3987), and Transposase, IS116/IS110/IS902
+362663	CL:7846	96	mixed, incl. transposition, and Bacterial secretion system
+362663	CL:7847	91	mixed, incl. transposition, and Bacterial secretion system
+362663	CL:7848	70	mixed, incl. Bacterial secretion system, and transposition
+362663	CL:7849	57	mixed, incl. Bacterial secretion system, and ImpA, N-terminal
+362663	CL:7850	52	mixed, incl. Bacterial secretion system, and ImpA, N-terminal
+362663	CL:7852	44	mixed, incl. Bacterial secretion system, and ImpA, N-terminal
+362663	CL:7853	24	mixed, incl. Bacterial secretion system, and ImpA, N-terminal
+362663	CL:7855	17	mixed, incl. Putative type VI secretion system Rhs element Vgr, and ImpA, N-terminal
+362663	CL:7859	5	Type VI secretion system TssF, and Type VI secretion, TssG
+362663	CL:7874	6	mixed, incl. TssC1, C-terminal, and Type VI secretion system TssK
+362663	CL:79	119	translation, and Protein export
+362663	CL:7901	17	mixed, incl. Hcp1-like superfamily, and Bacterial secretion system
+362663	CL:7903	12	mostly uncharacterized, incl. SMAD/FHA domain superfamily, and Type VI secretion system-associated, VCA0118
+362663	CL:7906	6	mixed, incl. SMAD/FHA domain superfamily, and Type VI secretion system-associated, VCA0118
+362663	CL:794	5	mixed, incl. CCB3/YggT, and Ham1 family
+362663	CL:7944	5	mixed, incl. Domain of unknown function DUF2169, and Domain of unknown function DUF4150
+362663	CL:7953	5	mixed, incl. TcfC Usher-like barrel domain, and CS1 type fimbrial major subunit
+362663	CL:7962	13	Helix-turn-helix domain, and Integrase core domain
+362663	CL:7965	6	HTH-like domain, and Helix-turn-helix domain
+362663	CL:7987	21	mostly uncharacterized, incl. 3D-structure, and POTRA domain
+362663	CL:7988	16	mostly uncharacterized, incl. 3D-structure, and POTRA domain
+362663	CL:7991	6	mixed, incl. 3D-structure, and POTRA domain
+362663	CL:8	4587	biological_process
+362663	CL:80	105	translation
+362663	CL:8006	7	mixed, incl. Response receiver domain, and TraG, N-terminal, Proteobacteria
+362663	CL:8019	5	mixed, incl. Helix-turn-helix domain, and Integrase core domain
+362663	CL:8028	5	mixed, incl. Transposase, IS4-like, and transposase activity
+362663	CL:8037	282	mixed, incl. export from cell, and DNA binding
+362663	CL:8038	237	mixed, incl. export from cell, and hydrolase activity
+362663	CL:8039	227	mixed, incl. export from cell, and Signal
+362663	CL:8040	198	mixed, incl. secretion, and hydrolase activity
+362663	CL:8041	139	mixed, incl. secretion, and amino sugar metabolic process
+362663	CL:8042	107	mixed, incl. secretion, and amino sugar metabolic process
+362663	CL:8043	96	mixed, incl. protein transport across the cell outer membrane, and amino sugar metabolic process
+362663	CL:8044	78	mixed, incl. protein transport across the cell outer membrane, and carbon utilization
+362663	CL:8046	39	protein transport across the cell outer membrane, and carbon utilization
+362663	CL:8047	30	type II protein secretion system complex, and Type IV leader peptidase family
+362663	CL:8048	16	type II protein secretion system complex, and AAA domain
+362663	CL:8052	10	type II protein secretion system complex
+362663	CL:8054	5	Prokaryotic N-terminal methylation motif, and GspK, central domain superfamily
+362663	CL:8079	14	type II protein secretion system complex, and Peptidase M60-like family
+362663	CL:8082	7	type II protein secretion system complex
+362663	CL:81	82	Ribosome, and translation factor activity, RNA binding
+362663	CL:8107	5	carbon utilization
+362663	CL:811	5	Smr domain, and Sulfite exporter TauE/SafE
+362663	CL:8124	38	mixed, incl. mucinaminylserine mucinaminidase activity, and Biofilm formation - Escherichia coli
+362663	CL:8125	24	mixed, incl. mucinaminylserine mucinaminidase activity, and Domain of unknown function DUF4132
+362663	CL:8127	13	mixed, incl. Bax inhibitor 1-related, and Protein kinase domain
+362663	CL:8129	7	mixed, incl. Protein kinase domain, and Protein phosphatase 2C
+362663	CL:8157	8	mucinaminylserine mucinaminidase activity, and Domain of unknown function DUF4132
+362663	CL:8172	14	mixed, incl. Glycosyl transferase family 21, and Melibiase
+362663	CL:8174	7	mixed, incl. Chitin synthase, and PgaD-like protein
+362663	CL:8190	5	mixed, incl. YaiO family, OMP domain, and GlcNAc-PI de-N-acetylase
+362663	CL:8199	18	mixed, incl. amino sugar metabolic process, and sialic acid transport
+362663	CL:8200	12	mixed, incl. N-acetylneuraminate metabolic process, and sialic acid transport
+362663	CL:8203	5	mannosamine metabolic process, and Sialic acid transporter
+362663	CL:8223	6	glucosamine-containing compound metabolic process, and Haloacid dehalogenase-like hydrolase
+362663	CL:8235	8	mixed, incl. cellular response to aldehyde, and ethanol oxidation
+362663	CL:8255	32	mixed, incl. helix_turn_helix, arabinose operon control protein, and response to pH
+362663	CL:8258	17	mixed, incl. HdeA/HdeB family, and helix_turn_helix, arabinose operon control protein
+362663	CL:8261	10	mixed, incl. HdeA/HdeB family, and MgtC family
+362663	CL:8263	5	HdeA/HdeB family, and Glutamate:g-aminobutyrate antiporter
+362663	CL:827	5	Chloride, and Protein of unknown function (DUF2655)
+362663	CL:8298	8	mixed, incl. CoA-transferase family III, and YfdX protein
+362663	CL:8318	59	mostly uncharacterized, incl. sulfuric ester hydrolase activity, and Anaerobic sulphatase maturase, radical SAM
+362663	CL:8319	33	mostly uncharacterized, incl. Permuted papain-like amidase enzyme, YaeF/YiiX, C92 family, and Endonuclease
+362663	CL:8320	28	mostly uncharacterized, incl. Permuted papain-like amidase enzyme, YaeF/YiiX, C92 family, and enzyme inhibitor activity
+362663	CL:8321	23	mostly uncharacterized, incl. Permuted papain-like amidase enzyme, YaeF/YiiX, C92 family, and YidB-like
+362663	CL:8323	14	mixed, incl. Permuted papain-like amidase enzyme, YaeF/YiiX, C92 family, and Toxin SymE-like
+362663	CL:8325	5	mixed, incl. alkyl sulfatase activity, and Uncharacterised protein YtcA
+362663	CL:8341	5	mixed, incl. Toxin SymE-like, and Ubiquinol-cytochrome C chaperone 
+362663	CL:8353	7	mixed, incl. Cyd operon protein YbgT, and Helix-turn-helix domain
+362663	CL:836	107	mixed, incl. peptidoglycan metabolic process, and cell division site
+362663	CL:8366	5	mixed, incl. omega-amidase activity, and kynurenine metabolic process
+362663	CL:837	99	mixed, incl. peptidoglycan metabolic process, and cell division site
+362663	CL:8375	5	mixed, incl. NinB protein, and Endodeoxyribonuclease RusA
+362663	CL:838	94	mixed, incl. peptidoglycan metabolic process, and cell division site
+362663	CL:8384	26	mixed, incl. Anaerobic sulphatase maturase, radical SAM, and arylsulfatase activity
+362663	CL:8386	12	mostly uncharacterized, incl. pyridoxal binding, and Tryptophan-tRNA ligase
+362663	CL:8389	5	mixed, incl. pyridoxal binding, and Protein of unknown function
+362663	CL:839	81	mixed, incl. peptidoglycan metabolic process, and cell division site
+362663	CL:840	74	peptidoglycan metabolic process, and cell division site
+362663	CL:841	64	mixed, incl. regulation of cell shape, and cell division site
+362663	CL:8414	11	mixed, incl. Anaerobic sulphatase maturase, radical SAM, and arylsulfatase activity
+362663	CL:8416	5	Domain of unknown function DUF202, and choline biosynthetic process
+362663	CL:842	53	peptidoglycan metabolic process, and cell division site
+362663	CL:8426	5	4Fe4S-binding SPASM domain, and arylsulfatase activity
+362663	CL:843	37	Cell cycle, and capsule organization
+362663	CL:8435	29	mixed, incl. peptidase inhibitor activity, and ligase activity, forming phosphoric ester bonds
+362663	CL:8436	20	mixed, incl. peptidase inhibitor activity, and ligase activity, forming phosphoric ester bonds
+362663	CL:8437	13	mixed, incl. ligase activity, forming phosphoric ester bonds, and RNA splicing
+362663	CL:8439	6	mixed, incl. tRNA-splicing ligase RtcB, and RNA splicing
+362663	CL:844	29	Cell cycle, and Peptidoglycan synthesis
+362663	CL:845	23	Cell cycle
+362663	CL:8452	5	mixed, incl. SWIM zinc finger, and Family of unknown function DUF5682
+362663	CL:8463	5	peptidase inhibitor activity, and Stage II sporulation protein
+362663	CL:847	10	Peptidoglycan synthesis, and MraZ domain
+362663	CL:8476	5	Nucleoside recognition, and Isoaspartyl-dipeptidase
+362663	CL:849	5	MurE/MurF, N-terminal, and lipid glycosylation
+362663	CL:8492	10	mixed, incl. prophage integrase activity, and exit from host
+362663	CL:8494	5	exit from host, and Lysis protein S
+362663	CL:85	66	Ribosome
+362663	CL:8512	44	mixed, incl. Helix-turn-helix, and DNA restriction-modification system
+362663	CL:8513	36	mixed, incl. Helix-turn-helix, and DNA restriction-modification system
+362663	CL:8514	21	mixed, incl. Helix-turn-helix, and DNA restriction-modification system
+362663	CL:8515	15	mixed, incl. Helix-turn-helix, and Toxin HigB-1
+362663	CL:8517	6	Toxin HigB-1, and Toxin-antitoxin system, antidote protein, HigA
+362663	CL:8533	6	mixed, incl. protein serine/threonine kinase activity, and Helix-turn-helix domain
+362663	CL:8545	5	DNA restriction-modification system
+362663	CL:8555	15	mixed, incl. YefM-like superfamily, and toxin-antitoxin pair type II binding
+362663	CL:8557	6	mixed, incl. toxin-antitoxin pair type II binding, and Toxin YoeB
+362663	CL:8575	5	mixed, incl. shikimate transmembrane transport, and Probable transcriptional regulatory protein YeeN
+362663	CL:8585	6	mixed, incl. WLM domain, and rRNA (guanine-N2-)-methyltransferase, RsmD
+362663	CL:8600	35	mixed, incl. SNARE associated Golgi protein, and Regulatory protein AriR
+362663	CL:8603	16	mixed, incl. SNARE associated Golgi protein, and Yip1 domain
+362663	CL:8606	7	mixed, incl. SNARE associated Golgi protein, and Protein YnjB
+362663	CL:8623	6	SNARE associated Golgi protein, and Yip1 domain
+362663	CL:8639	12	mixed, incl. Regulatory protein AriR, and BLUF domain
+362663	CL:8642	6	mixed, incl. Regulatory protein AriR, and BLUF domain
+362663	CL:8669	34	mixed, incl. dipeptide transport, and nucleoside transport
+362663	CL:8670	22	mixed, incl. dipeptide transport, and nucleoside transport
+362663	CL:8671	13	mixed, incl. Peptide transport, and Concentrative nucleoside transporter
+362663	CL:8673	5	mixed, incl. Mycolic acid cyclopropane synthase, and Uncharacterized MFS-type transporter YfcJ
+362663	CL:8687	5	Peptide transport, and Concentrative nucleoside transporter
+362663	CL:869	11	cell division site, and FtsK domain
+362663	CL:8697	6	mixed, incl. Sodium transport, and Type I phosphodiesterase / nucleotide pyrophosphatase
+362663	CL:87	60	Ribosome
+362663	CL:8714	8	mixed, incl. UDP-sugar diphosphatase activity, and XapX domain
+362663	CL:872	5	mixed, incl. FtsK domain, and protein polymerization
+362663	CL:8736	42	mixed, incl. phosphorelay signal transduction system, and cellular response to nutrient levels
+362663	CL:8737	28	mixed, incl. Two-component system, and AbrB family
+362663	CL:8739	16	mixed, incl. Single cache domain 3, and citrate lyase complex
+362663	CL:8742	6	mixed, incl. citrate lyase complex, and Citrate lyase ligase
+362663	CL:8757	7	mixed, incl. PAS domain, and D(-)-tartrate dehydratase activity
+362663	CL:8777	8	mixed, incl. PrpF protein, and Solute carrier family 13
+362663	CL:8793	13	mixed, incl. Histidine kinase, and CstA, N-terminal domain
+362663	CL:8794	7	mixed, incl. Histidine kinase, and LytTr DNA-binding domain
+362663	CL:8807	6	CstA, N-terminal domain, and Selenoprotein, putative
+362663	CL:8819	5	mixed, incl. Transcriptional regulator TetR, C-terminal, Proteobacteria type, and SURF4 family
+362663	CL:8828	40	mixed, incl. ethanolamine catabolic process, and Na+/H+ antiporter, NhaC-like, C-terminal
+362663	CL:8829	31	ethanolamine catabolic process, and Small Multidrug Resistance protein
+362663	CL:8831	16	ethanolamine catabolic process
+362663	CL:8834	6	ethanolamine catabolic process
+362663	CL:8850	6	ethanolamine ammonia-lyase complex, and ethanolamine degradation polyhedral organelle
+362663	CL:8864	13	mixed, incl. Bacterial microcompartments are primitive organelles composed entirely of protein subunits. The prototypical bacterial microcompartment is the carboxysome, a protein shell for sequestering carbon fixation reactions. These proteins for hexameric ..., and Small Multidrug Resistance protein
+362663	CL:8866	8	mixed, incl. diol metabolic process, and choline catabolic process
+362663	CL:8891	6	mixed, incl. FidL-like putative membrane protein, and TetR transcriptional regulator CgmR-like, C-terminal domain
+362663	CL:8908	7	mixed, incl. Cold shock, CspA, and Gns
+362663	CL:891	5	amino sugar biosynthetic process, and GlmS/FrlB, SIS domain 2
+362663	CL:8926	20	mixed, incl. Arm DNA-binding domain, and Phage integrase, N-terminal SAM-like domain
+362663	CL:8928	14	mixed, incl. Arm DNA-binding domain, and Phage integrase, N-terminal SAM-like domain
+362663	CL:8931	5	Arm DNA-binding domain, and Phage integrase, N-terminal SAM-like domain
+362663	CL:8945	5	mixed, incl. Histone-like protein H-NS, N-terminal, and Prophage CP4-57 regulatory protein (AlpA)
+362663	CL:8965	6	mixed, incl. G-rich domain on putative tyrosine kinase, and tyrosine-based site-specific recombinase activity
+362663	CL:8976	6	mixed, incl. Glycosyl transferases group 1, and Alpha/Beta hydrolase fold
+362663	CL:8995	12	mostly uncharacterized, incl. PapG, chaperone-binding, and P pili tip fibrillum PapE protein, Escherichia coli
+362663	CL:8997	5	mixed, incl. PapG, chaperone-binding, and P pili tip fibrillum PapF protein
+362663	CL:90	52	Ribosome
+362663	CL:9009	5	mixed, incl. Adhesin operon regulatory protein, and LytTR DNA-binding domain
+362663	CL:902	5	N-acetylmuramoyl-L-alanine amidase, and Peptidase M23
+362663	CL:9020	62	mixed, incl. DNA integration, and IstB-like ATP binding protein
+362663	CL:9022	38	mixed, incl. IstB-like ATP binding protein, and Helix-turn-helix domain of resolvase
+362663	CL:9023	28	mixed, incl. IstB-like ATP binding protein, and Helix-turn-helix domain of resolvase
+362663	CL:9024	20	IstB-like ATP binding protein, and Helix-turn-helix domain of resolvase
+362663	CL:9026	11	Helix-turn-helix domain of resolvase, and PhoH-like protein
+362663	CL:9052	6	mixed, incl. intron homing, and DDE domain
+362663	CL:9064	5	protein heterodimerization activity, and Excisionase-like
+362663	CL:9080	6	mixed, incl. Resolvase, HTH domain, and IstB-like ATP-binding protein
+362663	CL:9098	23	transposition, and Probable zinc-ribbon
+362663	CL:9099	15	transposition
+362663	CL:9101	5	mixed, incl. Transposase InsF-like, and Transposase, IS111A/IS1328/IS1533, N-terminal
+362663	CL:9117	6	mixed, incl. DDE domain, and Transposase
+362663	CL:9129	5	Inovirus Gp2, and DDE domain
+362663	CL:916	16	serine-type D-Ala-D-Ala carboxypeptidase activity, and Lipoic acid metabolism
+362663	CL:919	5	mixed, incl. Rare lipoprotein A, and mature ribosome assembly
+362663	CL:935	6	Beta-lactamase enzyme family, and Penicillin-binding protein OB-like domain
+362663	CL:94	47	Ribosome
+362663	CL:949	7	mixed, incl. Actin, and AsmA-like, C-terminal
+362663	CL:968	10	lytic transglycosylase activity, and 3D domain
+362663	CL:97	42	Ribosome
+362663	CL:971	5	lytic transglycosylase activity
+362663	CL:98	24	Ribosome
+362663	CL:987	7	alanine metabolic process
