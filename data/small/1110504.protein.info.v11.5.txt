@@ -1,0 +1,729 @@
+#string_protein_id	preferred_name	protein_size	annotation
+1110504.MAGb_0030	CDS17	928	DUF87 domain-containing protein
+1110504.MAGb_0040	MAGb_0040	128	Uncharacterized protein
+1110504.MAGb_0050	CDS16	357	Uncharacterized protein
+1110504.MAGb_0060	MAGb_0060	119	Uncharacterized protein
+1110504.MAGb_0070	MAGb_0070	79	Uncharacterized protein
+1110504.MAGb_0080	MAGb_0080	329	Uncharacterized protein
+1110504.MAGb_0090	CDS5	670	Uncharacterized protein
+1110504.MAGb_0100	MAGb_0100	225	Uncharacterized protein
+1110504.MAGb_0110	MAGb_0110	189	Uncharacterized protein
+1110504.MAGb_0120	MAGb_0120	231	Uncharacterized protein
+1110504.MAGb_0130	MAGb_0130	138	Uncharacterized protein
+1110504.MAGb_0140	MAGb_0140	337	Uncharacterized protein
+1110504.MAGb_0150	MAGb_0150	266	Uncharacterized protein
+1110504.MAGb_0160	MAGb_0160	1407	Uncharacterized protein
+1110504.MAGb_0170	MAGb_0170	410	Uncharacterized protein
+1110504.MAGb_0180	MAGb_0180	168	Uncharacterized protein
+1110504.MAGb_0190	plsY	241	Glycerol-3-phosphate acyltransferase; Catalyzes the transfer of an acyl group from acyl-phosphate (acyl-PO(4)) to glycerol-3-phosphate (G3P) to form lysophosphatidic acid (LPA). This enzyme utilizes acyl-phosphate as fatty acyl donor, but not acyl-CoA or acyl-ACP.
+1110504.MAGb_0200	lon	996	Endopeptidase La; Heat shock ATP-dependent protease
+1110504.MAGb_0210	leuS	779	Leucyl-tRNA synthetase; Belongs to the class-I aminoacyl-tRNA synthetase family. 
+1110504.MAGb_0220	MAGb_0220	239	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_0230	upp	208	Uracil phosphoribosyltransferase; Catalyzes the conversion of uracil and 5-phospho-alpha-D- ribose 1-diphosphate (PRPP) to UMP and diphosphate.
+1110504.MAGb_0240	ssb-1	186	Single-stranded DNA-binding protein
+1110504.MAGb_0250	pepO	648	Endopeptidase O
+1110504.MAGb_0260	rsmE	227	Ribosomal RNA small subunit methyltransferase E; Specifically methylates the N3 position of the uracil ring of uridine 1498 (m3U1498) in 16S rRNA. Acts on the fully assembled 30S ribosomal subunit.
+1110504.MAGb_0270	gcdH-1	125	Glycine cleavage system H protein
+1110504.MAGb_0280	ftsZ	380	Cell division protein FtsZ; Essential cell division protein that forms a contractile ring structure (Z ring) at the future cell division site. The regulation of the ring assembly controls the timing and the location of cell division. One of the functions of the FtsZ ring is to recruit other cell division proteins to the septum to produce a new cell wall between the dividing cells. Binds GTP and shows GTPase activity. 
+1110504.MAGb_0290	MAGb_0290	405	Uncharacterized protein
+1110504.MAGb_0300	mraW	300	Ribosomal RNA small subunit methyltransferase H; Specifically methylates the N4 position of cytidine in position 1402 (C1402) of 16S rRNA.
+1110504.MAGb_0310	mraZ	151	Transcriptional regulator MraZ; Protein MraZ; Belongs to the MraZ family.
+1110504.MAGb_0320	ktrA	222	Potassium uptake protein KtrA
+1110504.MAGb_0330	ktrB	536	Potassium uptake protein KtrB
+1110504.MAGb_0340	MAGb_0340	150	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_0350	uvrB	669	UvrABC system protein B; The UvrABC repair system catalyzes the recognition and processing of DNA lesions. A damage recognition complex composed of 2 UvrA and 2 UvrB subunits scans DNA for abnormalities. Upon binding of the UvrA(2)B(2) complex to a putative damaged site, the DNA wraps around one UvrB monomer. DNA wrap is dependent on ATP binding by UvrB and probably causes local melting of the DNA helix, facilitating insertion of UvrB beta-hairpin between the DNA strands. Then UvrB probes one DNA strand for the presence of a lesion. If a lesion is found the UvrA subunits dissociate and the Uvr
+1110504.MAGb_0360	uvrA	943	UvrABC system protein A; The UvrABC repair system catalyzes the recognition and processing of DNA lesions. UvrA is an ATPase and a DNA-binding protein. A damage recognition complex composed of 2 UvrA and 2 UvrB subunits scans DNA for abnormalities. When the presence of a lesion has been verified by UvrB, the UvrA molecules dissociate.
+1110504.MAGb_0370	MAGb_0370	228	NERD domain-containing protein; Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_0380	MAGb_0380	268	Uncharacterized protein
+1110504.MAGb_0390	ychF	367	Ribosome-binding ATPase YchF; ATPase that binds to both the 70S ribosome and the 50S ribosomal subunit in a nucleotide-independent manner. 
+1110504.MAGb_0430	hpt	182	Hypoxanthine-guanine phosphoribosyltransferase; Belongs to the purine/pyrimidine phosphoribosyltransferase family.
+1110504.MAGb_0440	greA	163	Transcription elongation factor GreA; Necessary for efficient RNA polymerase transcription elongation past template-encoded arresting sites. The arresting sites in DNA have the property of trapping a certain fraction of elongating RNA polymerases that pass through, resulting in locked ternary complexes. Cleavage of the nascent transcript by cleavage factors such as GreA or GreB allows the resumption of elongation from the new 3'terminus. GreA releases sequences of 2 to 3 nucleotides. 
+1110504.MAGb_0450	MAGb_0450	240	Oxidoreductase; Belongs to the short-chain dehydrogenases/reductases (SDR) family.
+1110504.MAGb_0460	MAGb_0460	727	DUF31 domain-containing protein; Hypothetical protein, predicted lipoprotein
+1110504.MAGb_0470	MAGb_0470	237	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_0480	MAGb_0480	146	Putative pre-16S rRNA nuclease; Could be a nuclease involved in processing of the 5'-end of pre-16S rRNA; Belongs to the YqgF HJR family.
+1110504.MAGb_0490	alaS	880	Alanine--tRNA ligase; Catalyzes the attachment of alanine to tRNA(Ala) in a two- step reaction: alanine is first activated by ATP to form Ala-AMP and then transferred to the acceptor end of tRNA(Ala). Also edits incorrectly charged Ser-tRNA(Ala) and Gly-tRNA(Ala) via its editing domain.
+1110504.MAGb_0500	trmU	374	tRNA-specific 2-thiouridylase MnmA; Catalyzes the 2-thiolation of uridine at the wobble position (U34) of tRNA, leading to the formation of s(2)U34.
+1110504.MAGb_0510	deoD-1	242	Purine nucleoside phosphorylase
+1110504.MAGb_0520	MAGb_0520	306	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_0530	MAGb_0530	959	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_0540	MAGb_0540	520	Hypothetical protein, predicted transmembrane protein, DUF285 family
+1110504.MAGb_0550	MAGb_0550	820	TGc domain-containing protein; Hypothetical protein, predicted lipoprotein
+1110504.MAGb_0580	MAGb_0580	407	Uncharacterized protein
+1110504.MAGb_0590	MAGb_0590	313	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_0600	adhT-1	344	Alcohol dehydrogenase
+1110504.MAGb_0610	MAGb_0610	316	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_0620	MAGb_0620	326	Hypothetical protein, DUF285 family
+1110504.MAGb_0630	MAGb_0630	873	Type III restriction modification system endonuclase subunit, Res
+1110504.MAGb_0640	MAGb_0640	707	Type III restriction modification system N6-adenine DNA methyltransferase subunit, Mod
+1110504.MAGb_0650	MAGb_0650	402	Hypothetical protein, predicted lipoprotein, DUF285 family
+1110504.MAGb_0660	adhT-2	346	Alcohol dehydrogenase
+1110504.MAGb_0670	MAGb_0670	243	DNA processing protein (SMF)
+1110504.MAGb_0680	MAGb_0680	278	Hydrolase
+1110504.MAGb_0690	MAGb_0690	450	ABC transporter permease protein
+1110504.MAGb_0700	smc	995	Chromosome partition protein Smc; Required for chromosome condensation and partitioning. ; Belongs to the SMC family.
+1110504.MAGb_0710	rnc	226	Ribonuclease 3; Digests double-stranded RNA. Involved in the processing of primary rRNA transcript to yield the immediate precursors to the large and small rRNAs (23S and 16S). Processes some mRNAs, and tRNAs when they are encoded in the rRNA operon. Processes pre-crRNA and tracrRNA of type II CRISPR loci if present in the organism.
+1110504.MAGb_0720	plsX	334	Phosphate acyltransferase; Catalyzes the reversible formation of acyl-phosphate (acyl- PO(4)) from acyl-[acyl-carrier-protein] (acyl-ACP). This enzyme utilizes acyl-ACP as fatty acyl donor, but not acyl-CoA. 
+1110504.MAGb_0730	MAGb_0730	548	DhaL domain-containing protein
+1110504.MAGb_0740	MAGb_0740	94	Uncharacterized protein
+1110504.MAGb_0750	MAGb_0750	247	DNA repair protein RecO; Involved in DNA repair and RecF pathway recombination. 
+1110504.MAGb_0760	MAGb_0760	322	Uncharacterized protein
+1110504.MAGb_0770	MAGb_0770	328	Uncharacterized protein
+1110504.MAGb_0780	MAGb_0780	468	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_0790	glpK	502	Glycerol kinase; Key enzyme in the regulation of glycerol uptake and metabolism. Catalyzes the phosphorylation of glycerol to yield sn- glycerol 3-phosphate; Belongs to the FGGY kinase family. Rule:MF_00186, ECO:0000256|RuleBase:RU003733,
+1110504.MAGb_0800	glpF	261	Glycerol facilitator factor; Belongs to the MIP/aquaporin (TC 1.A.8) family. 
+1110504.MAGb_0810	aspS	567	Aspartate--tRNA ligase; Catalyzes the attachment of L-aspartate to tRNA(Asp) in a two-step reaction: L-aspartate is first activated by ATP to form Asp- AMP and then transferred to the acceptor end of tRNA(Asp). ; Belongs to the class-II aminoacyl-tRNA synthetase family. Type 1 subfamily.
+1110504.MAGb_0820	hisS	443	Histidine--tRNA ligase; Histidyl-tRNA synthetase
+1110504.MAGb_0830	MAGb_0830	556	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_0840	MAGb_0840	151	YrdC-like domain-containing protein; Belongs to the SUA5 family. 
+1110504.MAGb_0850	MAGb_0850	442	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_0860	MAGb_0860	320	DNA_pol3_delta domain-containing protein
+1110504.MAGb_0890	MAGb_0890	301	Probable cell division protein WhiA; Involved in cell division and chromosome segregation. 
+1110504.MAGb_0900	MAGb_0900	235	Type II restriction modification system endonuclease
+1110504.MAGb_0910	MAGb_0910	352	Methyltransferase; Type II restriction modification system N4-cytosine or N6-adenine DNA methyltransferase; Belongs to the N(4)/N(6)-methyltransferase family. 
+1110504.MAGb_0940	rplM	144	50S ribosomal protein L13; This protein is one of the early assembly proteins of the 50S ribosomal subunit, although it is not seen to bind rRNA by itself. It is important during the early stages of 50S assembly. 
+1110504.MAGb_0950	rpsI	135	30S ribosomal protein S9; Belongs to the universal ribosomal protein uS9 family. 
+1110504.MAGb_0970	MAGb_0970	153	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_0980	gtaB	295	UTP-glucose-1-phosphate uridyltransferase
+1110504.MAGb_1000	MAGb_1000	912	Cation-transporting P-type ATPase
+1110504.MAGb_1010	MAGb_1010	621	ABC transporter, permease protein
+1110504.MAGb_1020	MAGb_1020	234	ABC transporter, ATP-binding protein
+1110504.MAGb_1030	MAGb_1030	378	Uncharacterized protein
+1110504.MAGb_1040	MAGb_1040	296	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_1050	MAGb_1050	293	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_1060	MAGb_1060	523	Phosphomannomutase
+1110504.MAGb_1070	MAGb_1070	319	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_1080	nusB	139	Transcription termination factor NusB
+1110504.MAGb_1090	acpD	200	Acyl carrier protein phosphodiesterase
+1110504.MAGb_1100	ptsH	90	Phosphocarrier protein HPr (Histidine-containing protein)
+1110504.MAGb_1110	oppB-1	311	Oligopeptide ABC transporter, permease protein
+1110504.MAGb_1120	oppC-1	372	Oligopeptide ABC transporter, permease protein
+1110504.MAGb_1130	MAGb_1130	740	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_1140	MAGb_1140	297	Uncharacterized protein; Belongs to the TmcAL family. 
+1110504.MAGb_1150	MAGb_1150	222	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_1160	infC	202	Translation initiation factor IF-3; IF-3 binds to the 30S ribosomal subunit and shifts the equilibrum between 70S ribosomes and their 50S and 30S subunits in favor of the free subunits, thus enhancing the availability of 30S subunits on which protein synthesis initiation begins. 
+1110504.MAGb_1170	rpmI	62	50S ribosomal protein L35; Belongs to the bacterial ribosomal protein bL35 family. 
+1110504.MAGb_1180	rplT	116	50S ribosomal protein L20; Binds directly to 23S ribosomal RNA and is necessary for the in vitro assembly process of the 50S ribosomal subunit. It is not involved in the protein synthesizing functions of that subunit. 
+1110504.MAGb_1190	MAGb_1190	1146	ATP-binding protein
+1110504.MAGb_1200	MAGb_1200	218	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_1210	licA	252	Phosphotransferase system PTS, lichenan-specific IIa component
+1110504.MAGb_1220	lepA	597	Elongation factor 4; Required for accurate and efficient protein synthesis under certain stress conditions. May act as a fidelity factor of the translation reaction, by catalyzing a one-codon backward translocation of tRNAs on improperly translocated ribosomes. Back-translocation proceeds from a post-translocation (POST) complex to a pre- translocation (PRE) complex, thus giving elongation factor G a second chance to translocate the tRNAs correctly. Binds to ribosomes in a GTP- dependent manner.
+1110504.MAGb_1230	MAGb_1230	483	Uncharacterized protein
+1110504.MAGb_1240	MAGb_1240	243	NADPH flavin oxidoreductase; Belongs to the flavin oxidoreductase frp family. 
+1110504.MAGb_1250	lip-1	264	Esterase/lipase
+1110504.MAGb_1260	MAGb_1260	533	Glycosyl transferase, group 2 family protein
+1110504.MAGb_1270	argS	539	Arginine--tRNA ligase; Arginyl-tRNA synthetase
+1110504.MAGb_1280	MAGb_1280	415	Malate permease
+1110504.MAGb_1290	ldh	323	L-lactate dehydrogenase; Belongs to the LDH/MDH superfamily. 
+1110504.MAGb_1300	MAGb_1300	78	Lipoyl-binding domain-containing protein
+1110504.MAGb_1310	pta-1	324	Phosphate acetyltransferase
+1110504.MAGb_1320	ackA-1	400	Acetate kinase; Catalyzes the formation of acetyl phosphate from acetate and ATP. Can also catalyze the reverse reaction; Belongs to the acetokinase family. Rule:MF_00020, ECO:0000256|RuleBase:RU003835,
+1110504.MAGb_1330	MAGb_1330	301	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_1340	MAGb_1340	741	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_1350	uhpT	498	Hexosephosphate transport protein
+1110504.MAGb_1360	MAGb_1360	278	Uncharacterized protein
+1110504.MAGb_1370	nfo	278	Probable endonuclease 4; Endonuclease IV plays a role in DNA repair. It cleaves phosphodiester bonds at apurinic or apyrimidinic sites (AP sites) to produce new 5'-ends that are base-free deoxyribose 5-phosphate residues. It preferentially attacks modified AP sites created by bleomycin and neocarzinostatin.
+1110504.MAGb_1380	MAGb_1380	570	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_1390	trxA-1	113	Thioredoxin
+1110504.MAGb_1400	uvrC	571	UvrABC system protein C; The UvrABC repair system catalyzes the recognition and processing of DNA lesions. UvrC both incises the 5' and 3' sides of the lesion. The N-terminal half is responsible for the 3' incision and the C-terminal half is responsible for the 5' incision.
+1110504.MAGb_1410	MAGb_1410	135	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_1420	MAGb_1420	720	P80, predicted lipoprotein
+1110504.MAGb_1430	MAGb_1430	391	TNase-like domain-containing protein; Hypothetical protein, predicted lipoprotein
+1110504.MAGb_1440	MAGb_1440	700	ABC transporter ATP-binding protein; Belongs to the ABC transporter superfamily. 
+1110504.MAGb_1450	MAGb_1450	355	ABC transporter permease protein
+1110504.MAGb_1460	MAGb_1460	327	ABC transporter permease protein
+1110504.MAGb_1470	MAGb_1470	92	Uncharacterized protein
+1110504.MAGb_1480	MAGb_1480	510	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_1490	obg	422	GTPase Obg; An essential GTPase which binds GTP, GDP and possibly (p)ppGpp with moderate affinity, with high nucleotide exchange rates and a fairly low GTP hydrolysis rate. Plays a role in control of the cell cycle, stress response, ribosome biogenesis and in those bacteria that undergo differentiation, in morphogenesis control. ; Belongs to the TRAFAC class OBG-HflX-like GTPase superfamily. OBG GTPase family.
+1110504.MAGb_1500	MAGb_1500	275	Uncharacterized protein
+1110504.MAGb_1510	deoD-2	233	Purine nucleoside phosphorylase
+1110504.MAGb_1520	deoA	431	Thymidine phosphorylase
+1110504.MAGb_1530	deoC	222	Deoxyribose-phosphate aldolase; Catalyzes a reversible aldol reaction between acetaldehyde and D-glyceraldehyde 3-phosphate to generate 2-deoxy-D-ribose 5- phosphate; Belongs to the DeoC/FbaB aldolase family. DeoC type 1 subfamily.
+1110504.MAGb_1540	tpiA	258	Triosephosphate isomerase; Involved in the gluconeogenesis. Catalyzes stereospecifically the conversion of dihydroxyacetone phosphate (DHAP) to D- glyceraldehyde-3-phosphate (G3P); Belongs to the triosephosphate isomerase family. 
+1110504.MAGb_1550	MAGb_1550	350	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_1560	MAGb_1560	301	ABC transporter permease protein
+1110504.MAGb_1570	MAGb_1570	313	Energy-coupling factor transporter ATP-binding protein EcfA; ATP-binding (A) component of a common energy-coupling factor (ECF) ABC-transporter complex. Unlike classic ABC transporters this ECF transporter provides the energy necessary to transport a number of different substrates.
+1110504.MAGb_1580	MAGb_1580	265	Energy-coupling factor transporter ATP-binding protein EcfA; ATP-binding (A) component of a common energy-coupling factor (ECF) ABC-transporter complex. Unlike classic ABC transporters this ECF transporter provides the energy necessary to transport a number of different substrates.
+1110504.MAGb_1590	rplQ	121	50S ribosomal protein L17
+1110504.MAGb_1600	rpoA	336	DNA-directed RNA polymerase subunit alpha; DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates. 
+1110504.MAGb_1610	rpsK	133	30S ribosomal protein S11; Located on the platform of the 30S subunit, it bridges several disparate RNA helices of the 16S rRNA. Forms part of the Shine- Dalgarno cleft in the 70S ribosome; Belongs to the universal ribosomal protein uS11 family. 
+1110504.MAGb_1620	rpsM	123	30S ribosomal protein S13; Located at the top of the head of the 30S subunit, it contacts several helices of the 16S rRNA. In the 70S ribosome it contacts the 23S rRNA (bridge B1a) and protein L5 of the 50S subunit (bridge B1b), connecting the 2 subunits; these bridges are implicated in subunit movement. Contacts the tRNAs in the A and P-sites. ; Belongs to the universal ribosomal protein uS13 family. 
+1110504.MAGb_1630	rpmJ	37	50S ribosomal protein L36; Belongs to the bacterial ribosomal protein bL36 family. 
+1110504.MAGb_1640	infA	72	Translation initiation factor IF-1; One of the essential components for the initiation of protein synthesis. Stabilizes the binding of IF-2 and IF-3 on the 30S subunit to which N-formylmethionyl-tRNA(fMet) subsequently binds. Helps modulate mRNA selection, yielding the 30S pre-initiation complex (PIC). Upon addition of the 50S ribosomal subunit IF-1, IF-2 and IF-3 are released leaving the mature 70S translation initiation complex. 
+1110504.MAGb_1650	map	249	Methionine aminopeptidase; Removes the N-terminal methionine from nascent proteins. The N-terminal methionine is often cleaved when the second residue in the primary sequence is small and uncharged (Met-Ala-, Cys, Gly, Pro, Ser, Thr, or Val). Requires deformylation of the N(alpha)-formylated initiator methionine before it can be hydrolyzed; Belongs to the peptidase M24A family. Methionine aminopeptidase type 1 subfamily.
+1110504.MAGb_1660	adk	204	Adenylate kinase; Catalyzes the reversible transfer of the terminal phosphate group between ATP and AMP. Plays an important role in cellular energy homeostasis and in adenine nucleotide metabolism; Belongs to the adenylate kinase family.
+1110504.MAGb_1670	secY	493	Protein translocase subunit SecY; The central subunit of the protein translocation channel SecYEG. Consists of two halves formed by TMs 1-5 and 6-10. These two domains form a lateral gate at the front which open onto the bilayer between TMs 2 and 7, and are clamped together by SecE at the back. The channel is closed by both a pore ring composed of hydrophobic SecY resides and a short helix (helix 2A) on the extracellular side of the membrane which forms a plug. The plug probably moves laterally to allow the channel to open. The ring and the pore may move independently. 
+1110504.MAGb_1680	MAGb_1680	330	Uncharacterized protein
+1110504.MAGb_1690	MAGb_1690	350	Hypothetical protein, predicted hydrolase of the HAD family
+1110504.MAGb_1700	rplO	144	50S ribosomal protein L15; Binds to the 23S rRNA; Belongs to the universal ribosomal protein uL15 family. 
+1110504.MAGb_1710	rpsE	231	30S ribosomal protein S5; Located at the back of the 30S subunit body where it stabilizes the conformation of the head with respect to the body. ; Belongs to the universal ribosomal protein uS5 family. 
+1110504.MAGb_1720	rplR	116	50S ribosomal protein L18; This is one of the proteins that binds and probably mediates the attachment of the 5S RNA into the large ribosomal subunit, where it forms part of the central protuberance.
+1110504.MAGb_1730	rplF	179	50S ribosomal protein L6; This protein binds to the 23S rRNA, and is important in its secondary structure. It is located near the subunit interface in the base of the L7/L12 stalk, and near the tRNA binding site of the peptidyltransferase center.
+1110504.MAGb_1740	rpsH	131	30S ribosomal protein S8; One of the primary rRNA binding proteins, it binds directly to 16S rRNA central domain where it helps coordinate assembly of the platform of the 30S subunit; Belongs to the universal ribosomal protein uS8 family. 
+1110504.MAGb_1750	rpsN	61	30S ribosomal protein S14 type Z; Binds 16S rRNA, required for the assembly of 30S particles and may also be responsible for determining the conformation of the 16S rRNA at the A site.
+1110504.MAGb_1760	rplE	181	50S ribosomal protein L5; This is 1 of the proteins that binds and probably mediates the attachment of the 5S RNA into the large ribosomal subunit, where it forms part of the central protuberance. In the 70S ribosome it contacts protein S13 of the 30S subunit (bridge B1b), connecting the 2 subunits; this bridge is implicated in subunit movement. Contacts the P site tRNA; the 5S rRNA and some of its associated proteins might help stabilize positioning of ribosome-bound tRNAs.
+1110504.MAGb_1770	rplX	108	50S ribosomal protein L24; One of the proteins that surrounds the polypeptide exit tunnel on the outside of the subunit.
+1110504.MAGb_1780	rplN	122	50S ribosomal protein L14; Binds to 23S rRNA. Forms part of two intersubunit bridges in the 70S ribosome; Belongs to the universal ribosomal protein uL14 family. 
+1110504.MAGb_1790	rpsQ	88	30S ribosomal protein S17; One of the primary rRNA binding proteins, it binds specifically to the 5'-end of 16S ribosomal RNA.
+1110504.MAGb_1800	rpmC	65	50S ribosomal protein L29; Belongs to the universal ribosomal protein uL29 family. 
+1110504.MAGb_1810	rplP	141	50S ribosomal protein L16; Binds 23S rRNA and is also seen to make contacts with the A and possibly P site tRNAs; Belongs to the universal ribosomal protein uL16 family. 
+1110504.MAGb_1820	rpsC	216	30S ribosomal protein S3; Binds the lower part of the 30S subunit head. Binds mRNA in the 70S ribosome, positioning it for translation; Belongs to the universal ribosomal protein uS3 family. 
+1110504.MAGb_1830	rplV	114	50S ribosomal protein L22; The globular domain of the protein is located near the polypeptide exit tunnel on the outside of the subunit, while an extended beta-hairpin is found that lines the wall of the exit tunnel in the center of the 70S ribosome.
+1110504.MAGb_1840	rpsS	92	30S ribosomal protein S19; Protein S19 forms a complex with S13 that binds strongly to the 16S ribosomal RNA.
+1110504.MAGb_1850	rplB	281	50S ribosomal protein L2; One of the primary rRNA binding proteins. Required for association of the 30S and 50S subunits to form the 70S ribosome, for tRNA binding and peptide bond formation. It has been suggested to have peptidyltransferase activity; this is somewhat controversial. Makes several contacts with the 16S rRNA in the 70S ribosome. ; Belongs to the universal ribosomal protein uL2 family. 
+1110504.MAGb_1860	rplW	146	50S ribosomal protein L23; One of the early assembly proteins it binds 23S rRNA. One of the proteins that surrounds the polypeptide exit tunnel on the outside of the ribosome. Forms the main docking site for trigger factor binding to the ribosome; Belongs to the universal ribosomal protein uL23 family. 
+1110504.MAGb_1870	rplD	309	50S ribosomal protein L4; Forms part of the polypeptide exit tunnel. 
+1110504.MAGb_1880	rplC	276	50S ribosomal protein L3; One of the primary rRNA binding proteins, it binds directly near the 3'-end of the 23S rRNA, where it nucleates assembly of the 50S subunit; Belongs to the universal ribosomal protein uL3 family. 
+1110504.MAGb_1890	rpsJ	107	30S ribosomal protein S10; Involved in the binding of tRNA to the ribosomes. ; Belongs to the universal ribosomal protein uS10 family. 
+1110504.MAGb_1900	hup	91	DNA-binding histone-like protein HU; Belongs to the bacterial histone-like protein family. 
+1110504.MAGb_1910	recU	163	Holliday junction resolvase RecU; Endonuclease that resolves Holliday junction intermediates in genetic recombination. Cleaves mobile four-strand junctions by introducing symmetrical nicks in paired strands. Promotes annealing of linear ssDNA with homologous dsDNA. Required for DNA repair, homologous recombination and chromosome segregation; Belongs to the RecU family.
+1110504.MAGb_1920	recA	330	Protein RecA; Can catalyze the hydrolysis of ATP in the presence of single- stranded DNA, the ATP-dependent uptake of single-stranded DNA by duplex DNA, and the ATP-dependent hybridization of homologous single-stranded DNAs. It interacts with LexA causing its activation and leading to its autocatalytic cleavage; Belongs to the RecA family. Rule:MF_00268, ECO:0000256|RuleBase:RU004527,
+1110504.MAGb_1930	MAGb_1930	269	Uncharacterized protein
+1110504.MAGb_1940	MAGb_1940	361	Aminopeptidase
+1110504.MAGb_1950	rsuA	232	Pseudouridine synthase; 16S rRNA uridine-516 pseudouridylate synthase; Belongs to the pseudouridine synthase RsuA family. 
+1110504.MAGb_1960	rpmA	92	50S ribosomal protein L27; Belongs to the bacterial ribosomal protein bL27 family. 
+1110504.MAGb_1970	rplU	99	50S ribosomal protein L21; This protein binds to 23S rRNA in the presence of protein L20; Belongs to the bacterial ribosomal protein bL21 family. 
+1110504.MAGb_1980	MAGb_1980	88	Uncharacterized protein
+1110504.MAGb_1990	mscL	140	Large-conductance mechanosensitive channel
+1110504.MAGb_2000	grpE	337	Heat shock protein GrpE; Participates actively in the response to hyperosmotic and heat shock by preventing the aggregation of stress-denatured proteins, in association with DnaK and GrpE. It is the nucleotide exchange factor for DnaK and may function as a thermosensor. Unfolded proteins bind initially to DnaJ; upon interaction with the DnaJ-bound protein, DnaK hydrolyzes its bound ATP, resulting in the formation of a stable complex. GrpE releases ADP from DnaK; ATP binding to DnaK triggers the release of the substrate protein, thus completing the reaction cycle. Several rounds of ATP-dependen
+1110504.MAGb_2010	hrcA	335	Heat-inducible transcription repressor HrcA; Negative regulator of class I heat shock genes (grpE-dnaK- dnaJ and groELS operons). Prevents heat-shock induction of these operons.
+1110504.MAGb_2020	rpmE	71	50S ribosomal protein L31; Belongs to the bacterial ribosomal protein bL31 family. 
+1110504.MAGb_2030	rpsD	198	30S ribosomal protein S4; One of the primary rRNA binding proteins, it binds directly to 16S rRNA where it nucleates assembly of the body of the 30S subunit. 
+1110504.MAGb_2040	MAGb_2040	501	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_2050	gyrA	919	DNA gyrase subunit A; A type II topoisomerase that negatively supercoils closed circular double-stranded (ds) DNA in an ATP-dependent manner to modulate DNA topology and maintain chromosomes in an underwound state. Negative supercoiling favors strand separation, and DNA replication, transcription, recombination and repair, all of which involve strand separation. Also able to catalyze the interconversion of other topological isomers of dsDNA rings, including catenanes and knotted rings. Type II topoisomerases break and join 2 DNA strands simultaneously in an ATP-dependent manner.
+1110504.MAGb_2060	hsdS	387	Type I restriction modification system specificity (S) subunit, HsdS
+1110504.MAGb_2070	hsdM	892	Type I restriction modification system N6-adenine DNA methyltransferase (M) subunit, HsdM
+1110504.MAGb_2080	MAGb_2080	179	Uncharacterized protein
+1110504.MAGb_2090	MAGb_2090	142	Uncharacterized protein
+1110504.MAGb_2100	MAGb_2100	187	5-formyltetrahydrofolate cyclo-ligase; Belongs to the 5-formyltetrahydrofolate cyclo-ligase family.
+1110504.MAGb_2110	MAGb_2110	646	TSPc domain-containing protein; Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_2120	MAGb_2120	686	TSPc domain-containing protein; Hypothetical protein, predicted lipoprotein
+1110504.MAGb_2130	gltX	463	Glutamate--tRNA ligase; Catalyzes the attachment of glutamate to tRNA(Glu) in a two- step reaction: glutamate is first activated by ATP to form Glu-AMP and then transferred to the acceptor end of tRNA(Glu); Belongs to the class-I aminoacyl-tRNA synthetase family. Glutamate--tRNA ligase type 1 subfamily.
+1110504.MAGb_2140	MAGb_2140	135	Uncharacterized protein
+1110504.MAGb_2150	metK	382	S-adenosylmethionine synthase; Catalyzes the formation of S-adenosylmethionine (AdoMet) from methionine and ATP. The overall synthetic reaction is composed of two sequential steps, AdoMet formation and the subsequent tripolyphosphate hydrolysis which occurs prior to release of AdoMet from the enzyme. 
+1110504.MAGb_2160	MAGb_2160	321	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_2170	ffh	452	Signal recognition particle protein; Involved in targeting and insertion of nascent membrane proteins into the cytoplasmic membrane. Binds to the hydrophobic signal sequence of the ribosome-nascent chain (RNC) as it emerges from the ribosomes. The SRP-RNC complex is then targeted to the cytoplasmic membrane where it interacts with the SRP receptor FtsY. ; Belongs to the GTP-binding SRP family. SRP54 subfamily. 
+1110504.MAGb_2180	MAGb_2180	271	Acetyltransferase
+1110504.MAGb_2190	MAGb_2190	79	PC4 domain-containing protein
+1110504.MAGb_2200	MAGb_2200	333	Nicotinate phosphoribosyltransferase; Belongs to the NAPRTase family. 
+1110504.MAGb_2210	pgk	394	Phosphoglycerate kinase; Belongs to the phosphoglycerate kinase family. 
+1110504.MAGb_2230	MAGb_2230	440	Uncharacterized protein
+1110504.MAGb_2240	MAGb_2240	298	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_2250	MAGb_2250	453	Leucyl aminopeptidase; Belongs to the peptidase M17 family. 
+1110504.MAGb_2260	MAGb_2260	404	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_2270	MAGb_2270	680	5'Nucleotidase, predicted lipoprotein; Belongs to the 5'-nucleotidase family. 
+1110504.MAGb_2280	fusA	697	Elongation factor G; Catalyzes the GTP-dependent ribosomal translocation step during translation elongation. During this step, the ribosome changes from the pre-translocational (PRE) to the post-translocational (POST) state as the newly formed A-site-bound peptidyl-tRNA and P-site-bound deacylated tRNA move to the P and E sites, respectively. Catalyzes the coordinated movement of the two tRNA molecules, the mRNA and conformational changes in the ribosome; Belongs to the TRAFAC class translation factor GTPase superfamily. Classic translation factor GTPase family. EF-G/EF-2 subfamily.
+1110504.MAGb_2290	rpsG	156	30S ribosomal protein S7; One of the primary rRNA binding proteins, it binds directly to 16S rRNA where it nucleates assembly of the head domain of the 30S subunit. Is located at the subunit interface close to the decoding center, probably blocks exit of the E-site tRNA; Belongs to the universal ribosomal protein uS7 family. 
+1110504.MAGb_2300	rpsL	137	30S ribosomal protein S12; Interacts with and stabilizes bases of the 16S rRNA that are involved in tRNA selection in the A site and with the mRNA backbone. Located at the interface of the 30S and 50S subunits, it traverses the body of the 30S subunit contacting proteins on the other side and probably holding the rRNA structure together. The combined cluster of proteins S8, S12 and S17 appears to hold together the shoulder and platform of the 30S subunit.
+1110504.MAGb_2310	MAGb_2310	405	Uncharacterized protein
+1110504.MAGb_2320	MAGb_2320	537	ABC transporter ATP-binding Protein
+1110504.MAGb_2350	MAGb_2350	610	ABC transporter, ATP-binding protein
+1110504.MAGb_2360	MAGb_2360	594	ABC transporter, ATP-binding protein
+1110504.MAGb_2370	MAGb_2370	673	Hypothetical protein, predicted lipoprotein, Spma family
+1110504.MAGb_2400	MAGb_2400	360	Hypothetical protein, predicted lipoprotein, Spma family
+1110504.MAGb_2410	MAGb_2410	1175	Hypothetical protein, predicted lipoprotein, Spma family
+1110504.MAGb_2420	MAGb_2420	600	Hypothetical protein, predicted lipoprotein, Spma family
+1110504.MAGb_2430	MAGb_2430	81	Uncharacterized protein
+1110504.MAGb_2440	MAGb_2440	362	Aminopeptidase
+1110504.MAGb_2450	MAGb_2450	2668	Lipase_GDSL domain-containing protein
+1110504.MAGb_2460	rpoC	1478	DNA-directed RNA polymerase subunit beta; DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates. 
+1110504.MAGb_2470	rpoB	1211	DNA-directed RNA polymerase subunit beta; DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates. 
+1110504.MAGb_2480	MAGb_2480	192	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_2490	MAGb_2490	168	Uncharacterized protein
+1110504.MAGb_2540	rplL	123	50S ribosomal protein L7/L12; Forms part of the ribosomal stalk which helps the ribosome interact with GTP-bound translation factors. Is thus essential for accurate translation; Belongs to the bacterial ribosomal protein bL12 family. 
+1110504.MAGb_2550	rplJ	173	50S ribosomal protein L10; Forms part of the ribosomal stalk, playing a central role in the interaction of the ribosome with GTP-bound translation factors. ; Belongs to the universal ribosomal protein uL10 family. 
+1110504.MAGb_2560	MAGb_2560	241	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_2570	lysS	489	Lysine--tRNA ligase; Lysyl-tRNA synthetase; Belongs to the class-II aminoacyl-tRNA synthetase family. 
+1110504.MAGb_2580	MAGb_2580	296	Uncharacterized protein
+1110504.MAGb_2590	MAGb_2590	721	S1 motif domain-containing protein
+1110504.MAGb_2600	clpB	722	ATP-dependent Clp protease ATP-binding subunit; Belongs to the ClpA/ClpB family. 
+1110504.MAGb_2620	MAGb_2620	666	Type II restriction modification system, endonuclease subunit
+1110504.MAGb_2630	MAGb_2630	366	Adenine-specific DNA methyltransferase; Overlaps another CDS with the same product name
+1110504.MAGb_2640	MAGb_2640	313	Site-specific DNA-methyltransferase (adenine-specific); Overlaps another CDS with the same product name
+1110504.MAGb_2650	rpsP	96	30S ribosomal protein S16; Belongs to the bacterial ribosomal protein bS16 family. 
+1110504.MAGb_2660	trmD	227	tRNA (guanine-N(1)-)-methyltransferase; Specifically methylates guanosine-37 in various tRNAs. ; Belongs to the RNA methyltransferase TrmD family. 
+1110504.MAGb_2670	rplS	116	50S ribosomal protein L19; This protein is located at the 30S-50S ribosomal subunit interface and may play a role in the structure and function of the aminoacyl-tRNA binding site.
+1110504.MAGb_2680	fmt	279	Methionyl-tRNA formyltransferase; Attaches a formyl group to the free amino group of methionyl- tRNA(fMet). The formyl group appears to play a dual role in the initiator identity of N-formylmethionyl-tRNA by promoting its recognition by IF2 and preventing the misappropriation of this tRNA by the elongation apparatus; Belongs to the Fmt family.
+1110504.MAGb_2690	MAGb_2690	934	PGM_PMM_I domain-containing protein; Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_2700	ptsI	569	Phosphoenolpyruvate-protein phosphotransferase; General (non sugar-specific) component of the phosphoenolpyruvate-dependent sugar phosphotransferase system (sugar PTS). This major carbohydrate active-transport system catalyzes the phosphorylation of incoming sugar substrates concomitantly with their translocation across the cell membrane. Enzyme I transfers the phosphoryl group from phosphoenolpyruvate (PEP) to the phosphoryl carrier protein (HPr).
+1110504.MAGb_2710	MAGb_2710	288	Transcriptional regulator
+1110504.MAGb_2720	MAGb_2720	156	Uncharacterized protein
+1110504.MAGb_2730	sgaE	243	Sugar isomerase SgaE
+1110504.MAGb_2740	sgaU	294	Hexulose-6-phosphate isomerase
+1110504.MAGb_2750	sgaH	217	Hexulose-6-phosphate synthase
+1110504.MAGb_2760	sgaA	161	Pentitol phosphotransferase enzyme II, A component
+1110504.MAGb_2770	sgaB	94	Pentitol phosphotransferase enzyme II, B component
+1110504.MAGb_2780	sgaT	602	Transport protein SgaT
+1110504.MAGb_2790	MAGb_2790	353	Hypothetical protein, predicted metallo-dependent hydrolase
+1110504.MAGb_2800	MAGb_2800	285	Hypothetical protein, predicted hydrolase of the HAD family
+1110504.MAGb_2840	MAGb_2840	593	Type II restriction modification system C5-cytosine and N4-cytosine or N6-adenine DNAmethyltransferase; Belongs to the class I-like SAM-binding methyltransferase superfamily. C5-methyltransferase family.
+1110504.MAGb_2850	MAGb_2850	755	TGc domain-containing protein; Hypothetical protein, predicted lipoprotein
+1110504.MAGb_2880	MAGb_2880	150	DUF4065 domain-containing protein
+1110504.MAGb_2890	MAGb_2890	129	Uncharacterized protein
+1110504.MAGb_2900	MAGb_2900	391	Hypothetical protein, predicted lipoprotein, DUF285 family
+1110504.MAGb_2910	MAGb_2910	300	Fido domain-containing protein; Hypothetical protein, Fic protein family
+1110504.MAGb_2920	MAGb_2920	438	Hypothetical protein, predicted lipoprotein, DUF285 family
+1110504.MAGb_2930	MAGb_2930	204	Uncharacterized protein
+1110504.MAGb_2940	MAGb_2940	174	Hypothetical protein, putative HNH endonuclease
+1110504.MAGb_2950	MAGb_2950	346	Hypothetical protein, predicted ATP-dependent endonuclease of the OLD family
+1110504.MAGb_2960	MAGb_2960	278	Lactamase_B domain-containing protein; Hypothetical protein, putative metallo-hydrolase/oxidoreductase
+1110504.MAGb_2970	MAGb_2970	121	Uncharacterized protein
+1110504.MAGb_2980	MAGb_2980	447	Hypothetical protein, putative helicase
+1110504.MAGb_2990	MAGb_2990	294	N6-adenine DNA methyltransferase
+1110504.MAGb_3000	MAGb_3000	206	Uncharacterized protein
+1110504.MAGb_3010	MAGb_3010	256	Hypothetical protein, putative C-5 cytosine-specific DNA methyltransferase (marMP)
+1110504.MAGb_3020	MAGb_3020	85	Uncharacterized protein
+1110504.MAGb_3030	MAGb_3030	91	Uncharacterized protein
+1110504.MAGb_3040	MAGb_3040	87	Uncharacterized protein
+1110504.MAGb_3050	MAGb_3050	175	Hypothetical protein, putative DUF669 family phage protein
+1110504.MAGb_3060	MAGb_3060	669	Hypothetical protein, putative Phage DNA polymerase
+1110504.MAGb_3070	MAGb_3070	676	SF3 helicase domain-containing protein; Hypothetical protein, putative phage/plasmid primase
+1110504.MAGb_3080	MAGb_3080	201	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_3090	MAGb_3090	191	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_3100	MAGb_3100	66	Uncharacterized protein
+1110504.MAGb_3110	MAGb_3110	125	Uncharacterized protein
+1110504.MAGb_3120	MAGb_3120	1008	Uncharacterized protein
+1110504.MAGb_3130	MAGb_3130	170	Uncharacterized protein
+1110504.MAGb_3140	MAGb_3140	531	Uncharacterized protein
+1110504.MAGb_3150	MAGb_3150	307	Uncharacterized protein
+1110504.MAGb_3160	MAGb_3160	132	Uncharacterized protein
+1110504.MAGb_3170	MAGb_3170	154	Uncharacterized protein
+1110504.MAGb_3180	MAGb_3180	146	Uncharacterized protein
+1110504.MAGb_3190	MAGb_3190	184	Uncharacterized protein
+1110504.MAGb_3200	MAGb_3200	882	Uncharacterized protein
+1110504.MAGb_3210	MAGb_3210	112	Uncharacterized protein
+1110504.MAGb_3220	MAGb_3220	618	Hypothetical protein, putative phage prohead protein
+1110504.MAGb_3230	MAGb_3230	404	Hypothetical protein, putative phage portal protein
+1110504.MAGb_3240	MAGb_3240	601	Hypothetical protein, putative phage terminase
+1110504.MAGb_3250	MAGb_3250	199	Uncharacterized protein
+1110504.MAGb_3260	MAGb_3260	53	Uncharacterized protein
+1110504.MAGb_3270	xer	250	Integrase-recombinase
+1110504.MAGb_3280	MAGb_3280	165	Uncharacterized protein
+1110504.MAGb_3310	gtsC-1	270	Glycerol ABC transporter, permease component
+1110504.MAGb_3320	gtsB-1	331	Glycerol ABC transporter, permease component
+1110504.MAGb_3330	gtsA-1	407	Glycerol ABC transporter, ATP-binding component
+1110504.MAGb_3340	MAGb_3340	916	Pept_C1 domain-containing protein; Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_3350	MAGb_3350	335	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_3360	MAGb_3360	245	Probable transcriptional regulatory protein MAGb_3360
+1110504.MAGb_3370	nadE	270	NH(3)-dependent NAD(+) synthetase; Catalyzes the ATP-dependent amidation of deamido-NAD to form NAD. Uses ammonia as a nitrogen source; Belongs to the NAD synthetase family. Rule:MF_00193, ECO:0000256|RuleBase:RU003811,
+1110504.MAGb_3380	MAGb_3380	301	Uncharacterized protein
+1110504.MAGb_3390	lip-2	307	Esterase/lipase
+1110504.MAGb_3400	MAGb_3400	441	TRAM domain-containing protein; Hypothetical protein, putative RNA methyltransferase; Belongs to the class I-like SAM-binding methyltransferase superfamily. RNA M5U methyltransferase family.
+1110504.MAGb_3410	dnaI	299	Putative DNA helicase
+1110504.MAGb_3420	MAGb_3420	334	DnaB_2 domain-containing protein
+1110504.MAGb_3430	MAGb_3430	190	Uncharacterized protein
+1110504.MAGb_3440	MAGb_3440	122	UPF0029 domain-containing protein
+1110504.MAGb_3460	MAGb_3460	376	Methyltransferase; N4-cytosine or N6-adenine DNA methyltransferase; Belongs to the N(4)/N(6)-methyltransferase family. 
+1110504.MAGb_3520	MAGb_3520	118	tRNA-synt_2 domain-containing protein
+1110504.MAGb_3530	rnhB-1	207	Ribonuclease HII; Endonuclease that specifically degrades the RNA of RNA-DNA hybrids.
+1110504.MAGb_3540	MAGb_3540	349	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_3550	rluD	305	Pseudouridine synthase; Responsible for synthesis of pseudouridine from uracil. ; Belongs to the pseudouridine synthase RluA family. 
+1110504.MAGb_3560	chrA-1	222	Chromate transport protein; Overlaps another CDS with the same product name
+1110504.MAGb_3570	chrA-2	217	Chromate transport protein; Overlaps another CDS with the same product name
+1110504.MAGb_3580	trmB	205	tRNA (guanine-N(7)-)-methyltransferase; Catalyzes the formation of N(7)-methylguanine at position 46 (m7G46) in tRNA.
+1110504.MAGb_3590	MAGb_3590	71	Uncharacterized protein
+1110504.MAGb_3600	MAGb_3600	207	DUF402 domain-containing protein
+1110504.MAGb_3610	MAGb_3610	557	RMMBL domain-containing protein
+1110504.MAGb_3620	MAGb_3620	245	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_3630	rsmI	239	Ribosomal RNA small subunit methyltransferase I; Catalyzes the 2'-O-methylation of the ribose of cytidine 1402 (C1402) in 16S rRNA.
+1110504.MAGb_3640	dnaH	300	DNA polymerase III subunit
+1110504.MAGb_3650	tmk	215	Thymidylate kinase; Phosphorylation of dTMP to form dTDP in both de novo and salvage pathways of dTTP synthesis; Belongs to the thymidylate kinase family. 
+1110504.MAGb_3660	recR	195	Recombination protein RecR; May play a role in DNA repair. It seems to be involved in an RecBC-independent recombinational process of DNA repair. It may act with RecF and RecO.
+1110504.MAGb_3670	MAGb_3670	88	Uncharacterized protein; Binds to DNA and alters its conformation. May be involved in regulation of gene expression, nucleoid organization and DNA protection.
+1110504.MAGb_3680	dnaX	620	DNA polymerase III subunit gamma/tau; DNA polymerase III is a complex, multichain enzyme responsible for most of the replicative synthesis in bacteria. This DNA polymerase also exhibits 3' to 5' exonuclease activity. 
+1110504.MAGb_3690	MAGb_3690	221	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_3700	pgm	498	2,3-bisphosphoglycerate-independent phosphoglycerate mutase; Catalyzes the interconversion of 2-phosphoglycerate and 3- phosphoglycerate.
+1110504.MAGb_3710	MAGb_3710	301	Hypothetical protein, predicted hydrolase of the HAD family
+1110504.MAGb_3720	MAGb_3720	233	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_3740	MAGb_3740	178	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_3750	pgsA	202	CDP-diacylglycerol-glycerol-3-phosphate3-phosphatidyltransferase; CDP-diacylglycerol-glycerol-3-phosphate3- phosphatidyltransferase; Belongs to the CDP-alcohol phosphatidyltransferase class-I family.
+1110504.MAGb_3760	cdsA	309	Phosphatidate cytidylyltransferase
+1110504.MAGb_3770	MAGb_3770	218	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_3780	apt	170	Adenine phosphoribosyltransferase; Catalyzes a salvage reaction resulting in the formation of AMP, that is energically less costly than de novo synthesis. 
+1110504.MAGb_3790	infB	601	Translation initiation factor IF-2; One of the essential components for the initiation of protein synthesis. Protects formylmethionyl-tRNA from spontaneous hydrolysis and promotes its binding to the 30S ribosomal subunits. Also involved in the hydrolysis of GTP during the formation of the 70S ribosomal complex; Belongs to the TRAFAC class translation factor GTPase superfamily. Classic translation factor GTPase family. IF-2 subfamily. 
+1110504.MAGb_3800	MAGb_3800	103	DUF448 domain-containing protein
+1110504.MAGb_3810	nusA	544	Transcription elongation protein Nus A
+1110504.MAGb_3820	MAGb_3820	148	Uncharacterized protein
+1110504.MAGb_3830	tdk	190	Thymidine kinase
+1110504.MAGb_3840	pepA	456	Leucyl aminopeptidase; Belongs to the peptidase M17 family. 
+1110504.MAGb_3850	MAGb_3850	335	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_3860	MAGb_3860	88	Uncharacterized protein
+1110504.MAGb_3870	vpmaK	210	Variable surface lipoprotein K' (VpmaK')
+1110504.MAGb_3880	MAGb_3880	298	Variable surface lipoprotein L (VpmaL)
+1110504.MAGb_3890	vpmaG-1	152	Variable surface lipoprotein G (VpmaG)
+1110504.MAGb_3900	abiGI	204	Abortive infection protein AbiGI
+1110504.MAGb_3910	abiGII	284	Abortive infection protein AbiGII
+1110504.MAGb_3920	vpmaG-2	231	Variable surface lipoprotein G (VpmaG)
+1110504.MAGb_3930	vpmaG-3	325	Variable surface lipoprotein G (VpmaG)
+1110504.MAGb_3940	MAGb_3940	209	Variable surface lipoprotein (Vpma)
+1110504.MAGb_3950	vpmaD1	256	Variable surface lipoprotein D1 (VpmaD1)
+1110504.MAGb_3960	VpmaW	293	Variable surface lipoprotein L (VpmaL)
+1110504.MAGb_3970	xer1	249	Integrase-recombinase, Xer1
+1110504.MAGb_3990	MAGb_3990	614	Lactamase_B domain-containing protein
+1110504.MAGb_4000	MAGb_4000	397	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_4010	MAGb_4010	805	DUF2779 domain-containing protein
+1110504.MAGb_4020	MAGb_4020	158	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_4030	gatB	473	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B; Allows the formation of correctly charged Asn-tRNA(Asn) or Gln-tRNA(Gln) through the transamidation of misacylated Asp-tRNA(Asn) or Glu-tRNA(Gln) in organisms which lack either or both of asparaginyl- tRNA or glutaminyl-tRNA synthetases. The reaction takes place in the presence of glutamine and ATP through an activated phospho-Asp- tRNA(Asn) or phospho-Glu-tRNA(Gln); Belongs to the GatB/GatE family. GatB subfamily. 
+1110504.MAGb_4040	gatA	437	Glutamyl-tRNA amidotransferase subunit A
+1110504.MAGb_4050	MAGb_4050	101	Uncharacterized protein; Allows the formation of correctly charged Asn-tRNA(Asn) or Gln-tRNA(Gln) through the transamidation of misacylated Asp-tRNA(Asn) or Glu-tRNA(Gln) in organisms which lack either or both of asparaginyl- tRNA or glutaminyl-tRNA synthetases. The reaction takes place in the presence of glutamine and ATP through an activated phospho-Asp- tRNA(Asn) or phospho-Glu-tRNA(Gln); Belongs to the GatC family. 
+1110504.MAGb_4060	rluC	284	Ribosomal large subunit pseudouridine synthase C; Belongs to the pseudouridine synthase RluA family. 
+1110504.MAGb_4070	spcB	192	Segregation and condensation protein B; Participates in chromosomal partition during cell division. May act via the formation of a condensin-like complex containing Smc and ScpA that pull DNA away from mid-cell into both cell halves. 
+1110504.MAGb_4080	scpA	253	Segregation and condensation protein A; Participates in chromosomal partition during cell division. May act via the formation of a condensin-like complex containing Smc and ScpB that pull DNA away from mid-cell into both cell halves. 
+1110504.MAGb_4090	plsC	246	1-acyl-SN-glycerol-3-phosphate acyltransferase
+1110504.MAGb_4100	acpS	104	Holo-[acyl-carrier protein]synthase; Belongs to the P-Pant transferase superfamily. 
+1110504.MAGb_4110	engA	436	GTPase Der; GTPase that plays an essential role in the late steps of ribosome biogenesis; Belongs to the TRAFAC class TrmE-Era-EngA-EngB-Septin-like GTPase superfamily. EngA (Der) GTPase family. Rule:MF_00195, ECO:0000256|PROSITE-ProRule:PRU01049,
+1110504.MAGb_4120	cmk	221	Cytidylate kinase
+1110504.MAGb_4130	MAGb_4130	153	Uncharacterized protein
+1110504.MAGb_4140	MAGb_4140	349	Hypothetical protein, DUF285 family
+1110504.MAGb_4150	dnaJ	376	Chaperone protein DnaJ; Participates actively in the response to hyperosmotic and heat shock by preventing the aggregation of stress-denatured proteins and by disaggregating proteins, also in an autonomous, DnaK-independent fashion. Unfolded proteins bind initially to DnaJ; upon interaction with the DnaJ-bound protein, DnaK hydrolyzes its bound ATP, resulting in the formation of a stable complex. GrpE releases ADP from DnaK; ATP binding to DnaK triggers the release of the substrate protein, thus completing the reaction cycle. Several rounds of ATP-dependent interactions between DnaJ, DnaK and 
+1110504.MAGb_4170	rbfA	113	Ribosome-binding factor A; One of several proteins that assist in the late maturation steps of the functional core of the 30S ribosomal subunit. Associates with free 30S ribosomal subunits (but not with 30S subunits that are part of 70S ribosomes or polysomes). Required for efficient processing of 16S rRNA. May interact with the 5'-terminal helix region of 16S rRNA.
+1110504.MAGb_4190	tyrS	411	Tyrosine--tRNA ligase; Catalyzes the attachment of tyrosine to tRNA(Tyr) in a two- step reaction: tyrosine is first activated by ATP to form Tyr-AMP and then transferred to the acceptor end of tRNA(Tyr); Belongs to the class-I aminoacyl-tRNA synthetase family. TyrS type 1 subfamily.
+1110504.MAGb_4200	MAGb_4200	200	Phenylalanine--tRNA ligase beta subunit; Belongs to the phenylalanyl-tRNA synthetase beta subunit family. Type 1 subfamily.
+1110504.MAGb_4210	MAGb_4210	300	Uncharacterized protein
+1110504.MAGb_4230	MAGb_4230	77	Acyl carrier protein
+1110504.MAGb_4240	hemK	240	DNA methyltransferase, HemK
+1110504.MAGb_4250	prfA	358	Peptide chain release factor 1; Peptide chain release factor 1 directs the termination of translation in response to the peptide chain termination codons UAG and UAA.
+1110504.MAGb_4260	MAGb_4260	473	DUF2179 domain-containing protein; Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_4270	gyrB	655	DNA topoisomerase (ATP-hydrolyzing); DNA gyrase subunit B
+1110504.MAGb_4280	trxA-2	104	Thioredoxin; Belongs to the thioredoxin family. 
+1110504.MAGb_4290	smpB	147	SsrA-binding protein; Required for rescue of stalled ribosomes mediated by trans- translation. Binds to transfer-messenger RNA (tmRNA), required for stable association of tmRNA with ribosomes. tmRNA and SmpB together mimic tRNA shape, replacing the anticodon stem-loop with SmpB. tmRNA is encoded by the ssrA gene; the 2 termini fold to resemble tRNA(Ala) and it encodes a 'tag peptide', a short internal open reading frame. During trans-translation Ala-aminoacylated tmRNA acts like a tRNA, entering the A-site of stalled ribosomes, displacing the stalled mRNA. The ribosome then switches to transla
+1110504.MAGb_4300	MAGb_4300	319	HTH lacI-type domain-containing protein; Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_4310	MAGb_4310	131	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_4330	mgtA	902	Cation-transporting P-ATPase
+1110504.MAGb_4340	MAGb_4340	357	ABC transporter ATP-binding protein
+1110504.MAGb_4350	MAGb_4350	2723	ABC transporter permease protein
+1110504.MAGb_4360	ftsH	675	ATP-dependent zinc metalloprotease FtsH; Acts as a processive, ATP-dependent zinc metallopeptidase for both cytoplasmic and membrane proteins. Plays a role in the quality control of integral membrane proteins.
+1110504.MAGb_4370	tilS	286	tRNA(Ile)-lysidine synthase; Ligates lysine onto the cytidine present at position 34 of the AUA codon-specific tRNA(Ile) that contains the anticodon CAU, in an ATP-dependent manner. Cytidine is converted to lysidine, thus changing the amino acid specificity of the tRNA from methionine to isoleucine. ; Belongs to the tRNA(Ile)-lysidine synthase family. 
+1110504.MAGb_4380	pth	188	Peptidyl-tRNA hydrolase; The natural substrate for this enzyme may be peptidyl-tRNAs which drop off the ribosome during protein synthesis. ; Belongs to the PTH family.
+1110504.MAGb_4390	recD-1	756	Exodeoxyribonuclease V alpha chain
+1110504.MAGb_4400	dnaA	466	Chromosomal replication initiator protein DnaA; Plays an important role in the initiation and regulation of chromosomal replication. Binds to the origin of replication; it binds specifically double-stranded DNA at a 9 bp consensus (dnaA box): 5'- TTATC[CA]A[CA]A-3'. DnaA binds to ATP and to acidic phospholipids. 
+1110504.MAGb_4410	dnaN	369	DNA polymerase III, beta chain
+1110504.MAGb_4420	MAGb_4420	74	S4 RNA-binding domain-containing protein
+1110504.MAGb_4450	lip-3	261	Esterase/lipase
+1110504.MAGb_4460	lip-4	272	Esterase/lipase
+1110504.MAGb_4470	MAGb_4470	395	NADH dependent flavin oxidoreductase
+1110504.MAGb_4480	lplA-1	348	Lipoate-protein ligase A
+1110504.MAGb_4490	lplA-2	345	Lipoate-protein ligase A
+1110504.MAGb_4500	MAGb_4500	289	Deacetylase sirtuin-type domain-containing protein
+1110504.MAGb_4510	gcdH-2	114	Glycine cleavage system H protein
+1110504.MAGb_4520	MAGb_4520	333	Bac_luciferase domain-containing protein
+1110504.MAGb_4530	MAGb_4530	272	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_4540	MAGb_4540	467	P48, predicted lipoprotein
+1110504.MAGb_4550	MAGb_4550	149	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_4560	MAGb_4560	534	ABC transporter, ATP-binding protein, P59
+1110504.MAGb_4570	MAGb_4570	662	Sugar ABC transporter Permease; Belongs to the binding-protein-dependent transport system permease family.
+1110504.MAGb_4580	MAGb_4580	325	Sugar ABC transporter permease protein; Belongs to the binding-protein-dependent transport system permease family.
+1110504.MAGb_4590	dgk-1	220	Deoxyguanosine kinase
+1110504.MAGb_4600	dgk-2	217	Deoxyguanosine kinase
+1110504.MAGb_4610	MAGb_4610	643	TSPc domain-containing protein; Hypothetical protein, predicted lipoprotein
+1110504.MAGb_4620	MAGb_4620	487	Hypothetical protein, predicted lipoprotein, DUF285 family
+1110504.MAGb_4630	MAGb_4630	484	Hypothetical protein, predicted lipoprotein, DUF285 family
+1110504.MAGb_4640	psuG	301	Pseudouridine-5'-phosphate glycosidase; Catalyzes the reversible cleavage of pseudouridine 5'- phosphate (PsiMP) to ribose 5-phosphate and uracil. Functions biologically in the cleavage direction, as part of a pseudouridine degradation pathway; Belongs to the pseudouridine-5'-phosphate glycosidase family.
+1110504.MAGb_4650	MAGb_4650	299	PfkB domain-containing protein; Hypothetical protein Yei C
+1110504.MAGb_4660	MAGb_4660	274	Hydrolase of the HAD superfamily
+1110504.MAGb_4670	MAGb_4670	655	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_4680	MAGb_4680	341	ABC transporter, ATP-binding protein
+1110504.MAGb_4690	MAGb_4690	115	Uncharacterized protein
+1110504.MAGb_4700	MAGb_4700	482	Uncharacterized protein
+1110504.MAGb_4710	MAGb_4710	147	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_4720	oppF-1	444	Oligopeptide ABC transporter, ATP-binding protein; Belongs to the ABC transporter superfamily. 
+1110504.MAGb_4730	oppD-1	529	Oligopeptide ABC transporter, ATP-binding protein; Belongs to the ABC transporter superfamily. 
+1110504.MAGb_4740	oppC-2	337	Oligopeptide ABC transporter, permease protein
+1110504.MAGb_4750	oppB-2	361	Oligopeptide ABC transporter, permease protein
+1110504.MAGb_4760	oppA	983	Oligopeptide ABC transporter, substrate-binding protein, predicted lipoprotein
+1110504.MAGb_4770	MAGb_4770	3326	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_4780	cysS	413	Cysteinyl-tRNA synthetase
+1110504.MAGb_4790	spoU-1	233	tRNA/rRNA methyltransferase; Belongs to the class IV-like SAM-binding methyltransferase superfamily. RNA methyltransferase TrmH family. 
+1110504.MAGb_4800	MAGb_4800	193	Uncharacterized protein
+1110504.MAGb_4810	rpmG-1	49	50S ribosomal protein L33; Belongs to the bacterial ribosomal protein bL33 family. 
+1110504.MAGb_4820	secE	78	Preprotein translocase, SecE subunit
+1110504.MAGb_4830	nusG	199	Transcription termination/antitermination protein NusG; Participates in transcription elongation, termination and antitermination.
+1110504.MAGb_4840	MAGb_4840	344	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_4850	pyrH	240	Uridylate kinase; Catalyzes the reversible phosphorylation of UMP to UDP. 
+1110504.MAGb_4860	rrf	182	Ribosome-recycling factor; Responsible for the release of ribosomes from messenger RNA at the termination of protein biosynthesis. May increase the efficiency of translation by recycling ribosomes from one round of translation to another; Belongs to the RRF family.
+1110504.MAGb_4890	MAGb_4890	462	Competence domain-containing protein; Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_4900	MAGb_4900	170	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_4910	gpsA	332	Glycerol-3-phosphate dehydrogenase [NAD(P)+]; Belongs to the NAD-dependent glycerol-3-phosphate dehydrogenase family.
+1110504.MAGb_4920	ksgA	262	Ribosomal RNA small subunit methyltransferase A; Specifically dimethylates two adjacent adenosines (A1518 and A1519) in the loop of a conserved hairpin near the 3'-end of 16S rRNA in the 30S particle. May play a critical role in biogenesis of 30S subunits.
+1110504.MAGb_4930	MAGb_4930	253	Hypothetical protein, Putative deoxyribonuclease
+1110504.MAGb_4940	trme	445	tRNA modification GTPase MnmE; Exhibits a very high intrinsic GTPase hydrolysis rate. Involved in the addition of a carboxymethylaminomethyl (cmnm) group at the wobble position (U34) of certain tRNAs, forming tRNA- cmnm(5)s(2)U34; Belongs to the TRAFAC class TrmE-Era-EngA-EngB-Septin-like GTPase superfamily. TrmE GTPase family. Rule:MF_00379, ECO:0000256|RuleBase:RU003313,
+1110504.MAGb_4950	MAGb_4950	224	Uncharacterized protein
+1110504.MAGb_4960	gap	336	Glyceraldehyde 3-phosphate dehydrogenase; Belongs to the glyceraldehyde-3-phosphate dehydrogenase family.
+1110504.MAGb_4970	serS	422	Serine--tRNA ligase; Catalyzes the attachment of serine to tRNA(Ser). Is also able to aminoacylate tRNA(Sec) with serine, to form the misacylated tRNA L- seryl-tRNA(Sec), which will be further converted into selenocysteinyl- tRNA(Sec).
+1110504.MAGb_4980	epsG	343	Glycosyl transferase
+1110504.MAGb_4990	rpmH	49	50S ribosomal protein L34; Belongs to the bacterial ribosomal protein bL34 family. 
+1110504.MAGb_5000	rnpA	107	Ribonuclease P protein component; RNaseP catalyzes the removal of the 5'-leader sequence from pre-tRNA to produce the mature 5'-terminus. It can also cleave other RNA substrates such as 4.5S RNA. The protein component plays an auxiliary but essential role in vivo by binding to the 5'-leader sequence and broadening the substrate specificity of the ribozyme. 
+1110504.MAGb_5010	MAGb_5010	715	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_5020	lplA-3	326	Lipoate-protein ligase A
+1110504.MAGb_5030	lip-5	273	Esterase/lipase
+1110504.MAGb_5040	MAGb_5040	252	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_5050	asnA	326	Aspartate-ammonia ligase
+1110504.MAGb_5060	polC	1459	DNA polymerase III PolC-type; Required for replicative DNA synthesis. This DNA polymerase also exhibits 3' to 5' exonuclease activity.
+1110504.MAGb_5090	ATPase	404	ATPase, AAA family
+1110504.MAGb_5100	pheS	321	Phenylalanine--tRNA ligase alpha subunit; Phenylalanyl-tRNA Synthetase alpha chain; Belongs to the class-II aminoacyl-tRNA synthetase family. Phe-tRNA synthetase alpha subunit type 1 subfamily. 
+1110504.MAGb_5110	ung	219	Uracil-DNA glycosylase; Excises uracil residues from the DNA which can arise as a result of misincorporation of dUMP residues by DNA polymerase or due to deamination of cytosine.
+1110504.MAGb_5120	pheT	726	Phenylalanine--tRNA ligase beta subunit; Phenylalanyl-tRNA synthetase beta chain; Belongs to the phenylalanyl-tRNA synthetase beta subunit family. Type 1 subfamily.
+1110504.MAGb_5130	glyA	421	Serine hydroxymethyltransferase; Catalyzes the reversible interconversion of serine and glycine with tetrahydrofolate (THF) serving as the one-carbon carrier. This reaction serves as the major source of one-carbon groups required for the biosynthesis of purines, thymidylate, methionine, and other important biomolecules. Also exhibits THF-independent aldolase activity toward beta-hydroxyamino acids, producing glycine and aldehydes, via a retro-aldol mechanism.
+1110504.MAGb_5140	pip	319	Proline iminopeptidase; Belongs to the peptidase S33 family. 
+1110504.MAGb_5150	nifS	386	Nitrogen fixation protein Nif S
+1110504.MAGb_5160	nifU	130	Nitrogen fixation protein Nif U
+1110504.MAGb_5170	mucB	415	DNA-damage repair protein Muc B
+1110504.MAGb_5180	nadD	364	Probable nicotinate-nucleotide adenylyltransferase; Catalyzes the reversible adenylation of nicotinate mononucleotide (NaMN) to nicotinic acid adenine dinucleotide (NaAD). 
+1110504.MAGb_5190	rluB	246	Ribosomal large subunit pseudouridine synthase B; Belongs to the pseudouridine synthase RsuA family. 
+1110504.MAGb_5200	MAGb_5200	397	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_5210	MAGb_5210	86	Uncharacterized protein
+1110504.MAGb_5220	fba	291	Fructose-bisphosphate aldolase
+1110504.MAGb_5230	MAGb_5230	190	Nuclease
+1110504.MAGb_5240	rplK	156	50S ribosomal protein L11; Forms part of the ribosomal stalk which helps the ribosome interact with GTP-bound translation factors.
+1110504.MAGb_5250	rplA	231	50S ribosomal protein L1; Binds directly to 23S rRNA. The L1 stalk is quite mobile in the ribosome, and is involved in E site tRNA release. 
+1110504.MAGb_5260	MAGb_5260	152	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_5270	MAGb_5270	459	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_5280	MAGb_5280	252	Uncharacterized protein
+1110504.MAGb_5290	cspR	177	Putative tRNA (cytidine(34)-2'-O)-methyltransferase; Could methylate the ribose at the nucleotide 34 wobble position in tRNA; Belongs to the class IV-like SAM-binding methyltransferase superfamily. RNA methyltransferase TrmH family. TrmL subfamily. 
+1110504.MAGb_5300	spoU-2	243	tRNA/rRNA methyltransferase; Belongs to the class IV-like SAM-binding methyltransferase superfamily. RNA methyltransferase TrmH family. 
+1110504.MAGb_5310	MAGb_5310	77	Uncharacterized protein
+1110504.MAGb_5320	MAGb_5320	286	Ribosome biogenesis GTPase A; Required for a late step of 50S ribosomal subunit assembly. Has GTPase activity; Belongs to the TRAFAC class YlqF/YawG GTPase family. MTG1 subfamily.
+1110504.MAGb_5330	MAGb_5330	129	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_5340	hprK	320	HPr kinase/phosphorylase; Belongs to the HPrK/P family. 
+1110504.MAGb_5350	lgt	327	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase; Catalyzes the transfer of the diacylglyceryl group from phosphatidylglycerol to the sulfhydryl group of the N-terminal cysteine of a prolipoprotein, the first step in the formation of mature lipoproteins; Belongs to the Lgt family.
+1110504.MAGb_5360	trxB	307	Thioredoxin reductase
+1110504.MAGb_5370	MAGb_5370	229	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_5380	pdhA	363	Pyruvate dehydrogenase E1 component, alpha subunit
+1110504.MAGb_5390	pdhB	328	Pyruvate dehydrogenase E1 component, beta subunit
+1110504.MAGb_5400	MAGb_5400	74	Uncharacterized protein
+1110504.MAGb_5410	pdhC	244	Dihydrolipoamide acetyltransferase component of pyruvate deshydrogenase complex
+1110504.MAGb_5420	pdhD	541	Dihydrolipoamide dehydrogenase
+1110504.MAGb_5430	rpmB	68	50S ribosomal protein L28; Belongs to the bacterial ribosomal protein bL28 family. 
+1110504.MAGb_5440	MAGb_5440	181	DJ-1_PfpI domain-containing protein
+1110504.MAGb_5450	MAGb_5450	300	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_5460	MAGb_5460	959	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_5470	oppB-3	373	Oligopeptide ABC transporter, permease protein
+1110504.MAGb_5480	oppC-3	422	Oligopeptide ABC transporter, permease protein
+1110504.MAGb_5490	oppD-2	382	Oligopeptide ABC transporter, ATP-binding protein; Belongs to the ABC transporter superfamily. 
+1110504.MAGb_5500	oppF-2	803	Oligopeptide ABC transporter, ATP-binding protein; Belongs to the ABC transporter superfamily. 
+1110504.MAGb_5510	MAGb_5510	327	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_5520	MAGb_5520	163	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_5530	MAGb_5530	404	DUF2179 domain-containing protein; Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_5540	MAGb_5540	643	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_5550	MAGb_5550	148	Ribose-5-phosphate isomerase
+1110504.MAGb_5560	MAGb_5560	685	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_5570	MAGb_5570	129	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_5580	ybeY	152	Endoribonuclease YbeY; Single strand-specific metallo-endoribonuclease involved in late-stage 70S ribosome quality control and in maturation of the 3' terminus of the 16S rRNA.
+1110504.MAGb_5590	cdd	130	Cytidine deaminase; This enzyme scavenges exogenous and endogenous cytidine and 2'-deoxycytidine for UMP synthesis; Belongs to the cytidine and deoxycytidylate deaminase family.
+1110504.MAGb_5600	era	290	GTPase Era; An essential GTPase that binds both GDP and GTP, with rapid nucleotide exchange. Plays a role in 16S rRNA processing and 30S ribosomal subunit biogenesis and possibly also in cell cycle regulation and energy metabolism.
+1110504.MAGb_5610	pepP	350	XAA-PRO aminopeptidase
+1110504.MAGb_5620	proS	478	Proline--tRNA ligase; Catalyzes the attachment of proline to tRNA(Pro) in a two- step reaction: proline is first activated by ATP to form Pro-AMP and then transferred to the acceptor end of tRNA(Pro).
+1110504.MAGb_5630	MAGb_5630	123	Uncharacterized protein
+1110504.MAGb_5640	MAGb_5640	606	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_5650	MAGb_5650	232	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_5660	MAGb_5660	795	Phosphoketolase
+1110504.MAGb_5670	pepF	612	Oligoendopeptidase F
+1110504.MAGb_5680	potA	470	Spermidine/putrescine ABC transporter ATP-binding protein PotA; Belongs to the ABC transporter superfamily. 
+1110504.MAGb_5690	potB	278	Spermidine/putrescine ABC transporter permease protein PotB
+1110504.MAGb_5700	potC	297	Spermidine/putrescine ABC transporter permease protein PotC
+1110504.MAGb_5710	MAGb_5710	633	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_5720	rpmF	66	50S ribosomal protein L32; Belongs to the bacterial ribosomal protein bL32 family. 
+1110504.MAGb_5730	MAGb_5730	542	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_5740	thiI	378	Probable tRNA sulfurtransferase; Catalyzes the ATP-dependent transfer of a sulfur to tRNA to produce 4-thiouridine in position 8 of tRNAs, which functions as a near-UV photosensor. Also catalyzes the transfer of sulfur to the sulfur carrier protein ThiS, forming ThiS-thiocarboxylate. This is a step in the synthesis of thiazole, in the thiamine biosynthesis pathway. The sulfur is donated as persulfide by IscS. 
+1110504.MAGb_5750	MAGb_5750	92	Uncharacterized protein
+1110504.MAGb_5760	MAGb_5760	457	Hypothetical protein, DUF285 family
+1110504.MAGb_5770	MAGb_5770	810	Uncharacterized protein
+1110504.MAGb_5780	valS	829	Valine--tRNA ligase; Catalyzes the attachment of valine to tRNA(Val). As ValRS can inadvertently accommodate and process structurally similar amino acids such as threonine, to avoid such errors, it has a 'posttransfer' editing activity that hydrolyzes mischarged Thr-tRNA(Val) in a tRNA- dependent manner; Belongs to the class-I aminoacyl-tRNA synthetase family. ValS type 1 subfamily.
+1110504.MAGb_5790	folD	286	Methenyltetrahydrofolate cyclohydrolase; Catalyzes the oxidation of 5,10-methylenetetrahydrofolate to 5,10-methenyltetrahydrofolate and then the hydrolysis of 5,10- methenyltetrahydrofolate to 10-formyltetrahydrofolate. 
+1110504.MAGb_5800	pta-2	318	Phosphate acetyltransferase
+1110504.MAGb_5810	ackA-2	397	Acetate kinase; Catalyzes the formation of acetyl phosphate from acetate and ATP. Can also catalyze the reverse reaction; Belongs to the acetokinase family. Rule:MF_00020, ECO:0000256|RuleBase:RU003835,
+1110504.MAGb_5820	coaD	140	Phosphopantetheine adenylyltransferase; Reversibly transfers an adenylyl group from ATP to 4'- phosphopantetheine, yielding dephospho-CoA (dPCoA) and pyrophosphate. ; Belongs to the bacterial CoaD family.
+1110504.MAGb_5830	engB	194	Probable GTP-binding protein EngB; Necessary for normal cell division and for the maintenance of normal septation; Belongs to the TRAFAC class TrmE-Era-EngA-EngB-Septin-like GTPase superfamily. EngB GTPase family.
+1110504.MAGb_5840	MAGb_5840	496	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_5850	pyk	478	Pyruvate kinase; Belongs to the pyruvate kinase family. 
+1110504.MAGb_5860	MAGb_5860	320	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_5870	MAGb_5870	1118	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_5880	dnaK	598	Chaperone protein DnaK; Acts as a chaperone; Belongs to the heat shock protein 70 family. 
+1110504.MAGb_5890	gidA-1	427	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO; Catalyzes the folate-dependent formation of 5-methyl-uridine at position 54 (M-5-U54) in all tRNAs; Belongs to the MnmG family. TrmFO subfamily. 
+1110504.MAGb_5900	MAGb_5900	108	Uncharacterized protein
+1110504.MAGb_5910	ldhD	329	D-lactate dehydrogenase; Belongs to the D-isomer specific 2-hydroxyacid dehydrogenase family.
+1110504.MAGb_5920	lip-6	268	Esterase/lipase
+1110504.MAGb_5930	tig	504	Trigger factor; Involved in protein export. Acts as a chaperone by maintaining the newly synthesized protein in an open conformation. ; Belongs to the FKBP-type PPIase family. Tig subfamily. 
+1110504.MAGb_5990	MAGb_5990	240	ABC transporter, ATP binding protein
+1110504.MAGb_6000	MAGb_6000	250	ABC2_membrane domain-containing protein; Hypothetical protein, predicted membrane protein
+1110504.MAGb_6010	polA	305	DNA polymerase I: 5'-3' exonuclease domain protein
+1110504.MAGb_6020	dnaE	977	DNA polymerase III, alpha subunit
+1110504.MAGb_6030	MAGb_6030	473	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_6080	MAGb_6080	149	Uncharacterized protein
+1110504.MAGb_6090	gidA-2	613	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG; NAD-binding protein involved in the addition of a carboxymethylaminomethyl (cmnm) group at the wobble position (U34) of certain tRNAs, forming tRNA-cmnm(5)s(2)U34; Belongs to the MnmG family.
+1110504.MAGb_6100	rlmH	150	Ribosomal RNA large subunit methyltransferase H; Specifically methylates the pseudouridine at position 1915 (m3Psi1915) in 23S rRNA; Belongs to the RNA methyltransferase RlmH family. 
+1110504.MAGb_6110	MAGb_6110	572	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_6120	MAGb_6120	331	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_6130	MAGb_6130	182	DNA methylase
+1110504.MAGb_6140	def	187	Peptide deformylase; Removes the formyl group from the N-terminal Met of newly synthesized proteins. Requires at least a dipeptide for an efficient rate of reaction. N-terminal L-methionine is a prerequisite for activity but the enzyme has broad specificity at other positions. 
+1110504.MAGb_6150	MAGb_6150	472	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_6160	parE	641	DNA topoisomerase (ATP-hydrolyzing); Topoisomerase IV subunit B
+1110504.MAGb_6170	parC	861	DNA topoisomerase (ATP-hydrolyzing); Topoisomerase IV subunit A
+1110504.MAGb_6180	MAGb_6180	309	Uncharacterized protein
+1110504.MAGb_6190	rnhB-2	237	Ribonuclease; Endonuclease that specifically degrades the RNA of RNA-DNA hybrids; Belongs to the RNase HII family. 
+1110504.MAGb_6200	MAGb_6200	268	Cytosine-specific methyltransferase
+1110504.MAGb_6230	MAGb_6230	108	Uncharacterized protein
+1110504.MAGb_6240	gidB	230	Ribosomal RNA small subunit methyltransferase G; Specifically methylates the N7 position of a guanine in 16S rRNA; Belongs to the methyltransferase superfamily. RNA methyltransferase RsmG family.
+1110504.MAGb_6250	prs	327	Ribose-phosphate pyrophosphokinase
+1110504.MAGb_6260	MAGb_6260	218	Uncharacterized protein
+1110504.MAGb_6270	MAGb_6270	322	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_6280	MAGb_6280	326	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_6290	bsn	314	Ribonuclease
+1110504.MAGb_6300	tkt	648	Transketolase I; Belongs to the transketolase family. 
+1110504.MAGb_6310	ppa	186	Inorganic pyrophosphatase; Catalyzes the hydrolysis of inorganic pyrophosphate (PPi) forming two phosphate ions.
+1110504.MAGb_6320	rpsT	89	30S ribosomal protein S20; Binds directly to 16S ribosomal RNA.
+1110504.MAGb_6330	MAGb_6330	195	Uncharacterized protein
+1110504.MAGb_6340	MAGb_6340	721	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_6350	MAGb_6350	461	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_6360	hit	111	HIT-like protein
+1110504.MAGb_6370	MAGb_6370	232	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_6380	rpmG-2	50	50S ribosomal protein L33; Belongs to the bacterial ribosomal protein bL33 family. 
+1110504.MAGb_6390	tpx	161	Thiol peroxidase
+1110504.MAGb_6400	MAGb_6400	78	Uncharacterized protein; Might take part in the signal recognition particle (SRP) pathway. This is inferred from the conservation of its genetic proximity to ftsY/ffh. May be a regulatory protein. 
+1110504.MAGb_6410	ftsY	354	Signal recognition particle receptor FtsY; Involved in targeting and insertion of nascent membrane proteins into the cytoplasmic membrane. Acts as a receptor for the complex formed by the signal recognition particle (SRP) and the ribosome-nascent chain (RNC).
+1110504.MAGb_6420	MAGb_6420	94	ABM domain-containing protein
+1110504.MAGb_6430	metS	515	Methionine--tRNA ligase; Methionyl-tRNA synthetase
+1110504.MAGb_6440	MAGb_6440	261	DNA methylase; Belongs to the methyltransferase superfamily. 
+1110504.MAGb_6450	vacB	729	Ribonuclease R; 3'-5' exoribonuclease that releases 5'-nucleoside monophosphates and is involved in maturation of structured RNAs. 
+1110504.MAGb_6460	secG	80	Protein-export membrane protein SecG; Involved in protein export. Participates in an early event of protein translocation; Belongs to the SecG family. 
+1110504.MAGb_6470	gmk	195	Guanylate kinase; Essential for recycling GMP and indirectly, cGMP. 
+1110504.MAGb_6480	MAGb_6480	250	Protein phosphatase
+1110504.MAGb_6490	pknB	331	Serine/threonine-protein kinase
+1110504.MAGb_6500	engC	281	Small ribosomal subunit biogenesis GTPase RsgA; One of several proteins that assist in the late maturation steps of the functional core of the 30S ribosomal subunit. Helps release RbfA from mature subunits. May play a role in the assembly of ribosomal proteins into the subunit. Circularly permuted GTPase that catalyzes slow GTP hydrolysis, GTPase activity is stimulated by the 30S ribosomal subunit; Belongs to the TRAFAC class YlqF/YawG GTPase family. RsgA subfamily.
+1110504.MAGb_6510	rpe	220	Ribulose-phosphate 3-epimerase
+1110504.MAGb_6520	recD-2	751	Exodeoxyribonuclease V alpha chain
+1110504.MAGb_6530	MAGb_6530	426	DUF4357 domain-containing protein
+1110504.MAGb_6620	pyrG	539	CTP synthase; Catalyzes the ATP-dependent amination of UTP to CTP with either L-glutamine or ammonia as the source of nitrogen. 
+1110504.MAGb_6630	ileS	892	Isoleucine--tRNA ligase; Catalyzes the attachment of isoleucine to tRNA(Ile). As IleRS can inadvertently accommodate and process structurally similar amino acids such as valine, to avoid such errors it has two additional distinct tRNA(Ile)-dependent editing activities. One activity is designated as 'pretransfer' editing and involves the hydrolysis of activated Val-AMP. The other activity is designated 'posttransfer' editing and involves deacylation of mischarged Val-tRNA(Ile). ; Belongs to the class-I aminoacyl-tRNA synthetase family. IleS type 1 subfamily.
+1110504.MAGb_6640	lsp	243	Lipoprotein signal peptidase; Belongs to the peptidase A8 family. 
+1110504.MAGb_6650	MAGb_6650	618	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_6710	ruvA	198	Holliday junction ATP-dependent DNA helicase RuvA; The RuvA-RuvB complex in the presence of ATP renatures cruciform structure in supercoiled DNA with palindromic sequence, indicating that it may promote strand exchange reactions in homologous recombination. RuvAB is a helicase that mediates the Holliday junction migration by localized denaturation and reannealing. RuvA stimulates, in the presence of DNA, the weak ATPase activity of RuvB. 
+1110504.MAGb_6720	ruvB	320	Holliday junction ATP-dependent DNA helicase RuvB; The RuvA-RuvB complex in the presence of ATP renatures cruciform structure in supercoiled DNA with palindromic sequence, indicating that it may promote strand exchange reactions in homologous recombination. RuvAB is a helicase that mediates the Holliday junction migration by localized denaturation and reannealing. 
+1110504.MAGb_6730	secD	788	Protein-export membrane protein
+1110504.MAGb_6740	truB	288	tRNA pseudouridine synthase B; Responsible for synthesis of pseudouridine from uracil-55 in the psi GC loop of transfer RNAs; Belongs to the pseudouridine synthase TruB family. Type 1 subfamily.
+1110504.MAGb_6750	MAGb_6750	280	Uncharacterized protein
+1110504.MAGb_6760	ribF	295	Riboflavin biosynthesis protein
+1110504.MAGb_6770	rpsO	88	30S ribosomal protein S15; Forms an intersubunit bridge (bridge B4) with the 23S rRNA of the 50S subunit in the ribosome.
+1110504.MAGb_6780	lip-7	263	Esterase/lipase
+1110504.MAGb_6790	gtsA-2	404	Glycerol ABC transporter, ATP-binding component
+1110504.MAGb_6800	gtsB-2	324	Glycerol ABC transporter, permease component
+1110504.MAGb_6810	gtsC-2	274	Glycerol ABC transporter, permease component
+1110504.MAGb_6820	MAGb_6820	592	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_6830	MAGb_6830	356	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_6840	MAGb_6840	666	Hypothetical protein, predicted lipoprotein, putative DHH phosphoesterase
+1110504.MAGb_6850	rplI	151	50S ribosomal protein L9; Binds to the 23S rRNA.
+1110504.MAGb_6860	dnaB	491	Replicative DNA helicase; Participates in initiation and elongation during chromosome replication; it exhibits DNA-dependent ATPase activity. ; Belongs to the helicase family. DnaB subfamily. 
+1110504.MAGb_6870	MAGb_6870	430	Hemolysin-like protein
+1110504.MAGb_6890	MAGb_6890	339	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_6900	MAGb_6900	353	P40, predicted lipoprotein
+1110504.MAGb_6910	MAGb_6910	229	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_6920	MAGb_6920	301	Hypothetical protein, predicted lipoprotein, DUF285 family
+1110504.MAGb_6930	MAGb_6930	101	PTS EIIB type-1 domain-containing protein
+1110504.MAGb_6940	MAGb_6940	219	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_6950	nox-1	450	NADH oxidase
+1110504.MAGb_6960	MAGb_6960	533	Proton/glutamate symporter; Belongs to the dicarboxylate/amino acid:cation symporter (DAACS) (TC 2.A.23) family.
+1110504.MAGb_6970	rmuC	478	DNA recombination protein
+1110504.MAGb_6980	MAGb_6980	693	TSPc domain-containing protein; Hypothetical protein, predicted lipoprotein
+1110504.MAGb_6990	MAGb_6990	602	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_7000	MAGb_7000	767	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_7010	MAGb_7010	554	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_7020	MAGb_7020	282	Type II restriction modification system N6-adenine DNA methyltransferase
+1110504.MAGb_7050	rpsB	317	30S ribosomal protein S2; Belongs to the universal ribosomal protein uS2 family. 
+1110504.MAGb_7060	tsf	298	Elongation factor Ts; Associates with the EF-Tu.GDP complex and induces the exchange of GDP to GTP. It remains bound to the aminoacyl-tRNA.EF- Tu.GTP complex up to the GTP hydrolysis stage on the ribosome. ; Belongs to the EF-Ts family.
+1110504.MAGb_7070	MAGb_7070	624	TSPc domain-containing protein; Hypothetical protein, predicted lipoprotein
+1110504.MAGb_7080	MAGb_7080	167	Hypothetical protein, putatived UTPase
+1110504.MAGb_7090	nox-2	454	NADH oxidase
+1110504.MAGb_7100	MAGb_7100	261	Hypothetical protein, putative NIF3-like protein
+1110504.MAGb_7110	rpoD	509	DNA-directed RNA polymerase sigma factor; Sigma factors are initiation factors that promote the attachment of RNA polymerase to specific initiation sites and are then released.
+1110504.MAGb_7120	dnaG	645	DNA primase; RNA polymerase that catalyzes the synthesis of short RNA molecules used as primers for DNA polymerase during DNA replication. 
+1110504.MAGb_7130	glyS	458	Glycine--tRNA ligase; Catalyzes the attachment of glycine to tRNA(Gly). ; Belongs to the class-II aminoacyl-tRNA synthetase family. 
+1110504.MAGb_7140	MAGb_7140	599	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_7150	phnD	460	Alkylphosphonate ABC transporter, substrate-binding protein, predicted lipoprotein
+1110504.MAGb_7160	MAGb_7160	303	ABC transporter, ATP-binding protein
+1110504.MAGb_7170	phnB	583	Alkylphosphonate ABC transporter, permease protein
+1110504.MAGb_7180	MAGb_7180	81	Uncharacterized protein
+1110504.MAGb_7190	secA	837	Protein translocase subunit SecA; Part of the Sec protein translocase complex. Interacts with the SecYEG preprotein conducting channel. Has a central role in coupling the hydrolysis of ATP to the transfer of proteins into and across the cell membrane, serving as an ATP-driven molecular motor driving the stepwise translocation of polypeptide chains across the membrane.
+1110504.MAGb_7200	MAGb_7200	348	Alcohol dehydrogenase
+1110504.MAGb_7210	topA	617	DNA topoisomerase 1; Releases the supercoiling and torsional tension of DNA, which is introduced during the DNA replication and transcription, by transiently cleaving and rejoining one strand of the DNA duplex. Introduces a single-strand break via transesterification at a target site in duplex DNA. The scissile phosphodiester is attacked by the catalytic tyrosine of the enzyme, resulting in the formation of a DNA- (5'-phosphotyrosyl)-enzyme intermediate and the expulsion of a 3'-OH DNA strand. The free DNA strand then undergoes passage around the unbroken strand, thus removing DNA supercoils. 
+1110504.MAGb_7220	rpsF	145	30S ribosomal protein S6; Binds together with S18 to 16S ribosomal RNA. 
+1110504.MAGb_7230	ssb-2	132	Single-stranded DNA-binding protein
+1110504.MAGb_7240	rpsR	107	30S ribosomal protein S18; Binds as a heterodimer with protein S6 to the central domain of the 16S rRNA, where it helps stabilize the platform of the 30S subunit; Belongs to the bacterial ribosomal protein bS18 family. 
+1110504.MAGb_7250	MAGb_7250	273	Probable cell division protein WhiA; Involved in cell division and chromosome segregation. 
+1110504.MAGb_7260	deoB	395	Phosphopentomutase; Phosphotransfer between the C1 and C5 carbon atoms of pentose; Belongs to the phosphopentomutase family. 
+1110504.MAGb_7270	MAGb_7270	416	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_7280	ligA	654	DNA ligase; DNA ligase that catalyzes the formation of phosphodiester linkages between 5'-phosphoryl and 3'-hydroxyl groups in double- stranded DNA using NAD as a coenzyme and as the energy source for the reaction. It is essential for DNA replication and repair of damaged DNA.
+1110504.MAGb_7290	MAGb_7290	736	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_7300	MAGb_7300	865	DUF31 domain-containing protein; Hypothetical protein, predicted lipoprotein
+1110504.MAGb_7310	MAGb_7310	743	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_7320	MAGb_7320	763	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_7330	MAGb_7330	858	DUF31 domain-containing protein; Hypothetical protein, predicted lipoprotein
+1110504.MAGb_7340	MAGb_7340	503	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_7350	MAGb_7350	164	Uncharacterized protein
+1110504.MAGb_7360	MAGb_7360	306	Uncharacterized protein
+1110504.MAGb_7370	MAGb_7370	154	Uncharacterized protein
+1110504.MAGb_7380	MAGb_7380	748	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_7390	atpA-1	524	ATP synthase alpha chain
+1110504.MAGb_7400	atpD-1	459	ATP synthase beta chain
+1110504.MAGb_7410	MAGb_7410	358	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_7420	MAGb_7420	777	DUF31 domain-containing protein; Hypothetical protein, predicted lipoprotein
+1110504.MAGb_7430	MAGb_7430	296	Uncharacterized protein
+1110504.MAGb_7440	MAGb_7440	548	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_7450	pcrA	734	ATP-dependent helicase
+1110504.MAGb_7460	MAGb_7460	223	RDD domain-containing protein; Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_7470	MAGb_7470	334	Glycosyltransferase
+1110504.MAGb_7480	asnS	452	Asparagine--tRNA ligase; Asparaginyl-tRNA synthetase
+1110504.MAGb_7490	MAGb_7490	253	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_7500	MAGb_7500	90	Uncharacterized protein
+1110504.MAGb_7510	MAGb_7510	192	Diadenylate cyclase; Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_7520	mgtE	487	Magnesium transporter MgtE; Acts as a magnesium transporter. 
+1110504.MAGb_7530	MAGb_7530	100	Uncharacterized protein
+1110504.MAGb_7540	efp	187	Elongation factor P; Involved in peptide bond synthesis. Stimulates efficient translation and peptide-bond synthesis on native or reconstituted 70S ribosomes in vitro. Probably functions indirectly by altering the affinity of the ribosome for aminoacyl-tRNA, thus increasing their reactivity as acceptors for peptidyl transferase.
+1110504.MAGb_7550	MAGb_7550	314	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_7570	MAGb_7570	605	ABC transporter ATP-binding protein
+1110504.MAGb_7580	MAGb_7580	598	ABC transporter ATP-binding protein
+1110504.MAGb_7590	MAGb_7590	651	Hypothetical protein, predicted lipoprotein, DUF31 family
+1110504.MAGb_7600	msrA	309	Peptide methionine sulfoxide reductase MsrA; Has an important function as a repair enzyme for proteins that have been inactivated by oxidation. Catalyzes the reversible oxidation-reduction of methionine sulfoxide in proteins to methionine. 
+1110504.MAGb_7610	MAGb_7610	91	Smr domain-containing protein
+1110504.MAGb_7620	mutM	279	Formamidopyrimidine-DNA glycosylase; Involved in base excision repair of DNA damaged by oxidation or by mutagenic agents. Acts as DNA glycosylase that recognizes and removes damaged bases. Has a preference for oxidized purines, such as 7,8-dihydro-8-oxoguanine (8-oxoG). Has AP (apurinic/apyrimidinic) lyase activity and introduces nicks in the DNA strand. Cleaves the DNA backbone by beta-delta elimination to generate a single-strand break at the site of the removed base with both 3'- and 5'-phosphates. 
+1110504.MAGb_7630	pgiB-1	430	Glucose-6-phosphate isomerase; Belongs to the GPI family. Rule:MF_00473, ECO:0000256|RuleBase:RU000612,
+1110504.MAGb_7640	pgiB-2	416	Glucose-6-phosphate isomerase
+1110504.MAGb_7650	rpsA	115	30S ribosomal protein S1
+1110504.MAGb_7660	eno	454	Enolase; Catalyzes the reversible conversion of 2-phosphoglycerate into phosphoenolpyruvate. It is essential for the degradation of carbohydrates via glycolysis; Belongs to the enolase family.
+1110504.MAGb_7670	tufA	396	Elongation factor Tu; This protein promotes the GTP-dependent binding of aminoacyl- tRNA to the A-site of ribosomes during protein biosynthesis. 
+1110504.MAGb_7680	MAGb_7680	134	Uncharacterized protein
+1110504.MAGb_7690	MAGb_7690	185	Peptidase_M22 domain-containing protein
+1110504.MAGb_7700	gcp	310	tRNA N6-adenosine threonylcarbamoyltransferase; Required for the formation of a threonylcarbamoyl group on adenosine at position 37 (t(6)A37) in tRNAs that read codons beginning with adenine. Is involved in the transfer of the threonylcarbamoyl moiety of threonylcarbamoyl-AMP (TC-AMP) to the N6 group of A37, together with TsaE and TsaB. TsaD likely plays a direct catalytic role in this reaction; Belongs to the KAE1 / TsaD family.
+1110504.MAGb_7710	MAGb_7710	623	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_7720	ptsG	123	Phosphotransferase system PTS, glucose-specific IIBC component
+1110504.MAGb_7730	MAGb_7730	426	Uncharacterized protein
+1110504.MAGb_7740	MAGb_7740	74	Uncharacterized protein
+1110504.MAGb_7750	MAGb_7750	253	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_7760	trpS	330	Tryptophan--tRNA ligase; Catalyzes the attachment of tryptophan to tRNA(Trp). ; Belongs to the class-I aminoacyl-tRNA synthetase family. 
+1110504.MAGb_7770	thrS	582	Threonine--tRNA ligase; Threonyl-tRNA synthetase; Belongs to the class-II aminoacyl-tRNA synthetase family. 
+1110504.MAGb_7780	MAGb_7780	143	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_7790	MAGb_7790	462	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_7800	p30	266	P30, predicted lipoprotein
+1110504.MAGb_7810	MAGb_7810	556	Type III restriction modification system endonuclease subunit, Res
+1110504.MAGb_7820	MAGb_7820	145	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_7830	atpB	271	ATP synthase A chain
+1110504.MAGb_7840	atpE	75	ATP synthase subunit c; F(1)F(0) ATP synthase produces ATP from ADP in the presence of a proton or sodium gradient. F-type ATPases consist of two structural domains, F(1) containing the extramembraneous catalytic core and F(0) containing the membrane proton channel, linked together by a central stalk and a peripheral stalk. During catalysis, ATP synthesis in the catalytic domain of F(1) is coupled via a rotary mechanism of the central stalk subunits to proton translocation.
+1110504.MAGb_7850	atpF	189	ATP synthase subunit b; Component of the F(0) channel, it forms part of the peripheral stalk, linking F(1) to F(0); Belongs to the ATPase B chain family. Rule:MF_01398, ECO:0000256|RuleBase:RU003848,
+1110504.MAGb_7860	atpH	186	ATP synthase subunit delta; F(1)F(0) ATP synthase produces ATP from ADP in the presence of a proton or sodium gradient. F-type ATPases consist of two structural domains, F(1) containing the extramembraneous catalytic core and F(0) containing the membrane proton channel, linked together by a central stalk and a peripheral stalk. During catalysis, ATP synthesis in the catalytic domain of F(1) is coupled via a rotary mechanism of the central stalk subunits to proton translocation.
+1110504.MAGb_7870	atpA-2	528	ATP synthase subunit alpha; Produces ATP from ADP in the presence of a proton gradient across the membrane. The alpha chain is a regulatory subunit. 
+1110504.MAGb_7880	atpG	287	ATP synthase gamma chain; Produces ATP from ADP in the presence of a proton gradient across the membrane. The gamma chain is believed to be important in regulating ATPase activity and the flow of protons through the CF(0) complex.
+1110504.MAGb_7890	atpD-2	487	ATP synthase subunit beta; Produces ATP from ADP in the presence of a proton gradient across the membrane. The catalytic sites are hosted primarily by the beta subunits.
+1110504.MAGb_7900	atpC	137	ATP synthase epsilon chain; Produces ATP from ADP in the presence of a proton gradient across the membrane.
+1110504.MAGb_7910	MAGb_7910	304	Hypothetical protein, predicted transmembrane protein
+1110504.MAGb_7920	dcm	339	Cytosine-specific methyltransferase
+1110504.MAGb_7930	MAGb_7930	54	Uncharacterized protein
+1110504.MAGb_7940	MAGb_7940	339	Hypothetical protein, predicted lipoprotein
+1110504.MAGb_7970	MAGb_7970	705	Type III restriction modification system endonuclease subunit, Res
+1110504.MAGb_7980	CDSG	279	AAA_31 domain-containing protein
+1110504.MAGb_7990	MAGb_7990	117	Uncharacterized protein
+1110504.MAGb_8000	MAGb_8000	420	Uncharacterized protein
+1110504.MAGb_8010	MAGb_8010	571	DUF2326 domain-containing protein
+1110504.MAGb_8020	MAGb_8020	81	Uncharacterized protein
+1110504.MAGb_8030	MAGb_8030	321	Uncharacterized protein
+1110504.MAGb_8040	MAGb_8040	150	DUF4065 domain-containing protein
+1110504.MAGb_8050	vpmaX	229	Variable surface lipoprotein X (VpmaX)
+1110504.MAGb_8060	vpmaC	312	Variable surface lipoprotein C like protein (VpmaC)
