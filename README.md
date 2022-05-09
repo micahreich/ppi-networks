@@ -14,4 +14,4 @@ Being able to predict protein functions allows for better understanding of key b
 In the current literature, a plethora of methods for function annotation exist. These include analysis of sequence similarity, gene expression, structure, phylogeny, and more, employing graph analysis, deep learning, and traditional biological experimentation. We focus on graph theoretic methods within protein-protein interaction networks for the purpose of function annotation.
 
 ## Final Paper
-To read the full paper, please visit [this link](https://github.com/micahreich/mnist-pca/blob/main/final-paper-v6.pdf).
+To read the full paper, please visit [this link](https://github.com/micahreich/ppi-networks/blob/main/02251fnl_paper-3.pdf).
