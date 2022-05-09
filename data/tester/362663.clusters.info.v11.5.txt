@@ -1,3 +1,0 @@
-#ncbi_taxid	cluster_id	cluster_size	best_described_by
-362663	CL:0	4	biological_process
-362663	CL:8	1	biological_process
