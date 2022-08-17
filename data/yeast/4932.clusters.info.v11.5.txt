@@ -1,0 +1,1567 @@
+#ncbi_taxid	cluster_id	cluster_size	best_described_by
+4932	CL:1	6393	biological_process
+4932	CL:10015	5	nitrile metabolic process, and Vacuolar protein sorting-associated protein 62
+4932	CL:10030	5	mixed, incl. Flocculin, and Major facilitator superfamily
+4932	CL:10044	29	mostly uncharacterized, incl. Glycosyl hydrolase family 76 , and Concanavalin A-like lectin/glucanase domain superfamily
+4932	CL:10045	16	mostly uncharacterized, incl. Glycosyl hydrolase family 76 , and Staphylococcal nuclease homologue
+4932	CL:10047	5	mixed, incl. Globin, and 3-UTR-mediated mRNA destabilization
+4932	CL:10063	7	mixed, incl. Glycosyl hydrolase family 76 , and Staphylococcal nuclease homologue
+4932	CL:10077	12	mostly uncharacterized, incl. LCCL domain, and Rft protein
+4932	CL:10078	6	mixed, incl. LCCL domain, and Rft protein
+4932	CL:10090	5	mixed, incl. Acid Phosphatase, and BSD domain
+4932	CL:10101	50	mostly uncharacterized, incl. Chitin degradation, and PIN domain
+4932	CL:10102	39	mostly uncharacterized, incl. Chitin degradation, and Aquaporin transporter
+4932	CL:10103	27	mixed, incl. Chitin degradation, and Aquaporin transporter
+4932	CL:10105	19	mixed, incl. Chitin degradation, and Beta-glucanase
+4932	CL:10106	13	mixed, incl. Chitin degradation, and Beta-glucanase
+4932	CL:10108	5	mixed, incl. Beta-glucanase, and Protein of unknown function DUF4451
+4932	CL:10131	6	mixed, incl. acyl-CoA binding, and Protein of unknown function DUF3605
+4932	CL:1015	6	mixed, incl. Cgr1-like, and GNL3L/Grn1 putative GTPase
+4932	CL:10156	12	mostly uncharacterized, incl. Ribosome-releasing factor 2, mitochondrial, and FMN-binding split barrel
+4932	CL:10158	5	mixed, incl. FMN-binding split barrel, and mitochondrion disassembly
+4932	CL:10168	6	mixed, incl. Yeast membrane protein DUP/COS, and hexose transmembrane transporter activity
+4932	CL:10179	11	mixed, incl. PIN domain, and histidine transport
+4932	CL:10181	5	PIN domain
+4932	CL:10191	5	mixed, incl. histidine transport, and protein phosphatase 1 binding
+4932	CL:10200	39	mixed, incl. eisosome, and Platelet degranulation
+4932	CL:10202	22	mixed, incl. eisosome, and PX-associated
+4932	CL:10203	15	mixed, incl. eisosome, and PX-associated
+4932	CL:10205	8	eisosome, and protein localization to eisosome filament
+4932	CL:10223	5	mixed, incl. PX-associated, and Domain of unknown function DUF2415
+4932	CL:10232	7	mixed, incl. Putative peptidase family, and 5-flap-structured DNA binding
+4932	CL:10253	12	mostly uncharacterized, incl. mRNA biogenesis factor, and Aminoglycoside phosphotransferase
+4932	CL:10254	6	mixed, incl. mRNA biogenesis factor, and Aminoglycoside phosphotransferase
+4932	CL:10265	6	mixed, incl. regulation of G protein-coupled receptor signaling pathway, and 10TM putative phosphate transporter, extracellular tail
+4932	CL:10277	51	mostly uncharacterized, incl. protein folding in endoplasmic reticulum, and Putative threonine/serine exporter
+4932	CL:10278	46	mixed, incl. protein folding in endoplasmic reticulum, and Putative threonine/serine exporter
+4932	CL:10279	26	mostly uncharacterized, incl. Putative threonine/serine exporter, and P-body
+4932	CL:10280	21	mostly uncharacterized, incl. Putative threonine/serine exporter, and Protein kish
+4932	CL:10282	12	mixed, incl. Putative threonine/serine exporter, and Protein kish
+4932	CL:10284	6	mixed, incl. Putative threonine/serine exporter, and cellular bud membrane
+4932	CL:10312	5	mixed, incl. PSP1, C-terminal, and AMP-activated protein kinase, glycogen-binding domain
+4932	CL:10321	5	mixed, incl. Peptidase family M49, and Protein of unknown function DUF1776, fungi
+4932	CL:1033	10	mixed, incl. Rix1 complex, and Sda1
+4932	CL:10330	20	mixed, incl. protein folding in endoplasmic reticulum, and Fyv7/TAP26
+4932	CL:10332	10	ER membrane protein complex, and Protein Sop4
+4932	CL:10335	5	ER membrane protein complex
+4932	CL:1035	5	Rix1 complex, and Sda1
+4932	CL:10355	7	mixed, incl. Fyv7/TAP26, and Tapt1 family
+4932	CL:10369	5	Domain of unknown function DUF155, and MIOREX complex component 11
+4932	CL:10379	40	mixed, incl. negative regulation of gluconeogenesis, and protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway
+4932	CL:10380	25	negative regulation of gluconeogenesis, and protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway
+4932	CL:10381	14	mixed, incl. protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway, and Yippee family
+4932	CL:10383	5	mixed, incl. Yippee family, and Phospholipase C/D
+4932	CL:10396	5	protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway
+4932	CL:104	6288	biological_process
+4932	CL:10411	7	GID complex
+4932	CL:10429	15	mostly uncharacterized, incl. Cwf19-like protein, and Kelch repeat type 2
+4932	CL:10431	6	mixed, incl. LIM-domain binding protein, and Gti1/Pac2 family
+4932	CL:10446	5	mixed, incl. Kelch repeat type 2, and response to hexose
+4932	CL:10459	41	mostly uncharacterized, incl. Serine aminopeptidase, S33, and cinnamic acid metabolic process
+4932	CL:10460	29	mixed, incl. Serine aminopeptidase, S33, and cinnamic acid metabolic process
+4932	CL:10462	14	mixed, incl. Lipid-droplet associated hydrolase, and Marvel domain
+4932	CL:10464	5	Lipid-droplet associated hydrolase, and protein depalmitoylation
+4932	CL:10480	5	Marvel domain, and GAG-pre-integrase domain
+4932	CL:10491	13	mixed, incl. AB hydrolase 4 family, and cinnamic acid metabolic process
+4932	CL:10494	5	alcohol O-acyltransferase activity, and SGNH hydrolase superfamily
+4932	CL:10507	5	cinnamic acid metabolic process, and Protein of unknown function (DUF2420)
+4932	CL:10517	12	mixed, incl. protein phosphatase 1 binding, and Protein Sip5/DA2
+4932	CL:10519	5	mixed, incl. Protein Sip5/DA2, and Carbonic anhydrase
+4932	CL:1052	18	RNA helicase, DEAD-box type, Q motif, and WD40 repeat, conserved site
+4932	CL:10531	5	mixed, incl. Aromatic acid exporter family member 2, and Uncharacterised protein family UPF0052
+4932	CL:10542	13	mixed, incl. mitochondrial inner membrane peptidase complex, and Rhomboid family
+4932	CL:10544	7	mixed, incl. Rhomboid family, and TMEM115/Pdh1/Rbl19
+4932	CL:1055	11	mixed, incl. RNA helicase, DEAD-box type, Q motif, and TRASH domain
+4932	CL:10569	95	mixed, incl. spore wall assembly, and enzyme inhibitor activity
+4932	CL:1057	6	mixed, incl. DBP10, C-terminal, and WD repeat BOP1/Erb1
+4932	CL:10570	59	mostly uncharacterized, incl. Major facilitator superfamily, and medial cortex
+4932	CL:10571	47	mostly uncharacterized, incl. Major facilitator superfamily, and medial cortex
+4932	CL:10572	25	mostly uncharacterized, incl. medial cortex, and FAD transport
+4932	CL:10573	16	mixed, incl. medial cortex, and FAD transport
+4932	CL:10574	11	mixed, incl. FAD transport, and Protein of unknown function (DUF2462)
+4932	CL:10576	5	mixed, incl. RNA polymerase III assembly, and Insulin-induced protein family
+4932	CL:10595	5	mixed, incl. medial cortex, and Uncharacterised protein (DUF2406)
+4932	CL:10605	5	mixed, incl. Protein of unknown function DUF5427, and Glycoside hydrolase family 63
+4932	CL:10622	21	mixed, incl. Major facilitator superfamily, and NT-type C2 domain
+4932	CL:10623	15	mixed, incl. Major facilitator superfamily, and Yqey-like protein
+4932	CL:10625	5	mixed, incl. polyamine homeostasis, and Vacuole effluxer Atg22 like
+4932	CL:10640	5	mixed, incl. Yqey-like protein, and NADH dehydrogenase complex assembly
+4932	CL:10652	6	mixed, incl. NT-type C2 domain, and Glycine zipper 2TM domain
+4932	CL:10664	12	mostly uncharacterized, incl. Zn_pept, and carboxymethylenebutenolidase activity
+4932	CL:10666	5	SKG6/AXL2 alpha-helix transmembrane domain, and establishment or maintenance of actin cytoskeleton polarity
+4932	CL:10687	36	mixed, incl. spore wall assembly, and ribonucleoside-diphosphate reductase inhibitor activity
+4932	CL:10689	19	spore wall assembly, and Protein Zds1/2
+4932	CL:10691	11	spore wall assembly
+4932	CL:10693	6	mixed, incl. ascus lipid droplet, and Etoposide-induced protein 2.4 (EI24)
+4932	CL:10717	5	mixed, incl. Outer spore wall 5, and Protein of unknown function (DUF1674)
+4932	CL:10733	13	mixed, incl. ribonucleoside-diphosphate reductase inhibitor activity, and Mak32
+4932	CL:10735	6	mixed, incl. Mak32, and TenA_E protein
+4932	CL:10749	5	ribonucleoside-diphosphate reductase inhibitor activity, and Serine hydrolase FSH
+4932	CL:10758	41	mostly uncharacterized, incl. Rhodanese-like domain, and Macro domain
+4932	CL:10759	26	mostly uncharacterized, incl. Rhodanese-like domain, and Protein Fmp23
+4932	CL:10760	18	mixed, incl. Rhodanese-like domain, and Protein Fmp23
+4932	CL:10761	12	mostly uncharacterized, incl. Protein Fmp23, and MTH1187/YkoF-like
+4932	CL:10764	5	mixed, incl. MTH1187/YkoF-like, and GYF domain
+4932	CL:1078	5	Domain of unknown function DUF4217, and ABT1/Esf2
+4932	CL:10784	6	Rhodanese-like domain, and Yeast membrane protein DUP/COS
+4932	CL:10796	5	uncharacterized
+4932	CL:108	6283	biological_process
+4932	CL:10810	15	mixed, incl. Macro domain, and RWD domain
+4932	CL:10812	7	mixed, incl. Macro domain, and SWIB domain
+4932	CL:10830	5	RWD domain, and WD repeat-containing protein WDR44/Dgr2
+4932	CL:10839	5	mixed, incl. Single-stranded DNA-binding protein, and Transcriptional Coactivator p15 (PC4)
+4932	CL:10848	41	uncharacterized
+4932	CL:10850	20	mostly uncharacterized, incl. Gdt1 family, and Tubulin domain
+4932	CL:10852	11	mostly uncharacterized, incl. Gdt1 family, and Tubulin domain
+4932	CL:10854	6	mixed, incl. Gdt1 family, and Tubulin domain
+4932	CL:10874	8	mixed, incl. Laa1/Sip1/HEATR5, and Choline transporter-like
+4932	CL:10890	20	mostly uncharacterized, incl. Chromatin SPT2, and Oxidoreductase-like, N-terminal
+4932	CL:10891	13	mostly uncharacterized, incl. Chromatin SPT2, and Caffeine-induced death protein 2
+4932	CL:10892	7	mixed, incl. Caffeine-induced death protein 2, and Protein of unknown function DUF5341
+4932	CL:10905	6	mixed, incl. Chromatin SPT2, and HD domain
+4932	CL:1091	5	RIO kinase, and RNA-binding protein NOB1
+4932	CL:10918	5	mixed, incl. GPR1/FUN34/yaaH family, and Mitochondrial protein Pet20
+4932	CL:10930	26	mixed, incl. nucleotide-sugar transmembrane transporter activity, and Yeast membrane protein DUP/COS
+4932	CL:10931	17	mixed, incl. nucleotide-sugar transmembrane transporter activity, and Yeast membrane protein DUP/COS
+4932	CL:10934	5	nucleotide-sugar transmembrane transporter activity
+4932	CL:10950	7	Yeast membrane protein DUP/COS
+4932	CL:10965	7	mixed, incl. chloride transport, and Anion exchange
+4932	CL:10984	6	mixed, incl. Leucine-rich repeat, cysteine-containing subtype, and Sortilin, C-terminal
+4932	CL:10996	58	mixed, incl. mitochondrial genome maintenance, and glutamyl-tRNA(Gln) amidotransferase complex
+4932	CL:10999	48	mixed, incl. mitochondrial genome maintenance, and glutamyl-tRNA(Gln) amidotransferase complex
+4932	CL:11	6383	biological_process
+4932	CL:11000	33	mixed, incl. mitochondrial genome maintenance, and glutamyl-tRNA(Gln) amidotransferase complex
+4932	CL:11001	23	mixed, incl. mitochondrial genome maintenance, and glutamyl-tRNA(Gln) amidotransferase complex
+4932	CL:11002	16	mixed, incl. glutamyl-tRNA(Gln) amidotransferase complex, and mitochondrial genome maintenance
+4932	CL:11004	11	mixed, incl. glutamyl-tRNA(Gln) amidotransferase complex, and Neugrin
+4932	CL:11006	5	mixed, incl. Neugrin, and PPR repeat
+4932	CL:11033	7	mixed, incl. Y-form DNA binding, and Mitochondrial genome maintenance MGM101
+4932	CL:11048	6	mixed, incl. Pet100, and Rtr1/RPAP2
+4932	CL:11065	15	mostly uncharacterized, incl. Pectin lyase fold, and Life-span regulatory factor
+4932	CL:11069	5	mixed, incl. Domain of unknown function DUF1279, and Sbe2/Sbe22
+4932	CL:11083	6	mixed, incl. spore membrane bending pathway, and Domain of unknown function DUF676, lipase-like
+4932	CL:11098	5	Mitochondrion
+4932	CL:11113	100	mostly uncharacterized, incl. BLOC complex, and magnesium ion transport
+4932	CL:11114	71	mostly uncharacterized, incl. magnesium ion transport, and proton-transporting ATP synthase complex assembly
+4932	CL:11115	46	mostly uncharacterized, incl. magnesium ion transport, and pheromone-dependent signal transduction involved in conjugation with cellular fusion
+4932	CL:11116	39	mixed, incl. magnesium ion transport, and pheromone-dependent signal transduction involved in conjugation with cellular fusion
+4932	CL:11117	24	mostly uncharacterized, incl. ATP10 protein, and CNNM, transmembrane domain
+4932	CL:11118	15	mostly uncharacterized, incl. CNNM, transmembrane domain, and Protein of unknown function DUF3128
+4932	CL:11121	10	mixed, incl. Protein of unknown function DUF3128, and PGAP1-like protein
+4932	CL:11125	5	mixed, incl. PGAP1-like protein, and pheromone-dependent signal transduction involved in conjugation with cellular fusion
+4932	CL:11149	5	mixed, incl. Rrt5, RNA recognition motif 1, and Aminopeptidase P, N-terminal
+4932	CL:1115	13	mixed, incl. box H/ACA RNP complex, and box C/D snoRNP complex
+4932	CL:11164	15	mixed, incl. magnesium ion transport, and Aldolase/RraA
+4932	CL:11166	5	mixed, incl. response to drug
+4932	CL:1118	6	box H/ACA RNP complex, and box C/D snoRNP complex
+4932	CL:11181	6	magnesium ion transport
+4932	CL:11194	5	uncharacterized
+4932	CL:11206	25	mostly uncharacterized, incl. INA complex, and Protein of unknown function (DUF3808)
+4932	CL:11208	10	mixed, incl. INA complex, and Unfolded protein response
+4932	CL:11211	5	mixed, incl. Unfolded protein response, and Protein of unknown function DUF4668
+4932	CL:11232	12	mixed, incl. Protein of unknown function (DUF3808), and Rit1 DUSP-like domain
+4932	CL:11234	5	mixed, incl. Glycosyl transferase, family 15
+4932	CL:11246	5	Protein of unknown function (DUF3808), and Rit1 DUSP-like domain
+4932	CL:11258	26	mixed, incl. BLOC complex, and mRNA capping
+4932	CL:11259	16	mostly uncharacterized, incl. Protein Csf1, and UNC-50 family
+4932	CL:11260	10	mixed, incl. Protein Csf1, and Transmembrane protein 170
+4932	CL:11262	5	mixed, incl. Transmembrane protein 170, and Defect at low temperature protein 1
+4932	CL:11280	5	mixed, incl. UNC-50 family, and PSP1, C-terminal
+4932	CL:11290	10	BLOC complex, and mRNA capping
+4932	CL:11292	5	BLOC complex
+4932	CL:113	6278	biological_process
+4932	CL:11312	44	mostly uncharacterized, incl. PX domain, and membrane assembly
+4932	CL:11313	23	mostly uncharacterized, incl. nuclear-transcribed mRNA catabolic process, no-go decay, and heme transmembrane transport
+4932	CL:11314	14	mixed, incl. nuclear-transcribed mRNA catabolic process, no-go decay, and Protein of unknown function DUF2841
+4932	CL:11317	5	nuclear-transcribed mRNA catabolic process, no-go decay, and pantothenate transmembrane transport
+4932	CL:11332	5	mixed, incl. Protein of unknown function DUF2841, and Transcription factor Vhr
+4932	CL:11343	6	mixed, incl. heme transmembrane transport, and Vps5 C terminal like
+4932	CL:11358	21	mixed, incl. membrane assembly, and PX domain
+4932	CL:11360	12	mixed, incl. membrane assembly, and Ypt35, PX domain
+4932	CL:11362	5	mixed, incl. Mug56/Spo71, and Ypt35, PX domain
+4932	CL:11374	5	PH domain, and hexose catabolic process
+4932	CL:11386	5	mixed, incl. Sorting nexin C terminal, and Regulator of G protein signaling domain
+4932	CL:11399	32	mostly uncharacterized, incl. Zinc finger, BED-type, and Cytosine metabolism
+4932	CL:1140	5	mixed, incl. Urb2/Npa2 family, and Ribosome-assembly protein 3
+4932	CL:11400	25	mostly uncharacterized, incl. Zinc finger, BED-type, and Cytosine metabolism
+4932	CL:11402	12	mostly uncharacterized, incl. Cytosine metabolism, and Mitochondrial biogenesis regulation protein 1
+4932	CL:11404	7	mixed, incl. Fungal lipase-like domain, and plasma membrane organization
+4932	CL:11428	10	mixed, incl. Zinc finger, BED-type, and telomeric loop formation
+4932	CL:11429	5	Zinc finger, BED-type, and telomeric loop formation
+4932	CL:11438	5	mixed, incl. Nonaspanin (TM9SF), and prospore membrane leading edge
+4932	CL:11450	6	mixed, incl. Putative redox protein Fmp46, and Protein adenylyltransferase SelO
+4932	CL:11462	17	mostly uncharacterized, incl. NUMOD1 domain, and 4F5 protein family
+4932	CL:11463	12	mostly uncharacterized, incl. M28 Zn-Peptidase Glutaminyl Cyclase, and Gfo/Idh/MocA-like oxidoreductase, C-terminal
+4932	CL:11464	7	mixed, incl. M28 Zn-Peptidase Glutaminyl Cyclase, and Gfo/Idh/MocA-like oxidoreductase, C-terminal
+4932	CL:11477	5	mixed, incl. Kelch motif, and S-adenosyl-L-methionine-dependent methyltransferase
+4932	CL:11486	5	mixed, incl. NUMOD1 domain, and 4F5 protein family
+4932	CL:11495	305	mixed, incl. retrotransposon nucleocapsid, and Seripauperin and TIP1 family
+4932	CL:11496	166	mixed, incl. Seripauperin and TIP1 family, and Regulatory protein Sir1
+4932	CL:11497	152	mixed, incl. Seripauperin and TIP1 family, and Regulatory protein Sir1
+4932	CL:11498	145	mixed, incl. Seripauperin and TIP1 family, and Regulatory protein Sir1
+4932	CL:11499	94	mixed, incl. Regulatory protein Sir1, and Protein of unknown function DUF468
+4932	CL:11500	71	mixed, incl. Regulatory protein Sir1, and Protein of unknown function DUF468
+4932	CL:11501	50	mixed, incl. Regulatory protein Sir1, and Helicase conserved C-terminal domain
+4932	CL:11502	45	mixed, incl. Regulatory protein Sir1, and Helicase conserved C-terminal domain
+4932	CL:11504	36	mixed, incl. Regulatory protein Sir1, and Helicase conserved C-terminal domain
+4932	CL:11506	30	mixed, incl. Regulatory protein Sir1, and Helicase conserved C-terminal domain
+4932	CL:11508	22	mixed, incl. Regulatory protein Sir1, and Helicase conserved C-terminal domain
+4932	CL:11509	17	mixed, incl. Regulatory protein Sir1, and DEAD/DEAH box helicase
+4932	CL:11511	10	Regulatory protein Sir1, and DEAD-like helicases superfamily
+4932	CL:11513	5	ORC1-binding domain, and telomere maintenance via recombination
+4932	CL:11542	5	mixed, incl. Sir1, ORC-binding domain, and Protein of unknown function DUF468
+4932	CL:11556	5	mixed, incl. Sir1, ORC-binding domain
+4932	CL:1156	5	protein kinase CK2 complex
+4932	CL:11580	6	mixed, incl. ORC1-binding domain, and Regulatory protein Sir1
+4932	CL:11591	5	mixed, incl. Protein of unknown function DUF468
+4932	CL:11600	21	mixed, incl. Protein of unknown function DUF468, and Regulatory protein Sir1
+4932	CL:11602	15	Protein of unknown function DUF468, and Regulatory protein Sir1
+4932	CL:11604	10	Protein of unknown function DUF468
+4932	CL:11606	5	Protein of unknown function DUF468
+4932	CL:11641	23	mixed, incl. Yeast membrane protein DUP/COS, and Detoxification
+4932	CL:11642	17	mixed, incl. Yeast membrane protein DUP/COS, and Protein of unknown function DUF2015
+4932	CL:11644	10	mixed, incl. Transport of organic anions, and Yeast membrane protein DUP/COS
+4932	CL:11646	5	mixed, incl. Yeast membrane protein DUP/COS
+4932	CL:1166	11	mixed, incl. Putative RNA methyltransferase, and rRNA base methylation
+4932	CL:11675	6	mixed, incl. Detoxification, and sulfite transport
+4932	CL:1168	5	mixed, incl. Protein Hgh1, and Cns1/TTC4, wheel domain
+4932	CL:11686	51	mixed, incl. Seripauperin and TIP1 family, and fluoride transmembrane transport
+4932	CL:11687	40	Seripauperin and TIP1 family, and fluoride transmembrane transport
+4932	CL:11688	32	Seripauperin and TIP1 family, and Fungal transcription factor
+4932	CL:11690	18	Seripauperin and TIP1 family
+4932	CL:11691	12	Seripauperin and TIP1 family
+4932	CL:11693	7	Stress-induced protein SRP1/TIP1
+4932	CL:11714	6	Seripauperin and TIP1 family
+4932	CL:11730	11	mixed, incl. Fungal transcription factor, and sterol transporter activity
+4932	CL:11732	5	ATPase-coupled sterol transmembrane transporter activity, and Stress-induced protein SRP1/TIP1
+4932	CL:11753	5	mixed, incl. fluoride transmembrane transport, and ML-like domain
+4932	CL:11766	11	mostly uncharacterized, incl. THO1_MOS11, C-terminal domain, and aldose 1-epimerase activity
+4932	CL:11769	5	mixed, incl. aldose 1-epimerase activity, and GATA zinc finger
+4932	CL:11787	7	mixed, incl. retrotransposon nucleocapsid
+4932	CL:118	6273	biological_process
+4932	CL:11800	14	mostly uncharacterized, incl. Protein of unknown function DUF726, and MINDY deubiquitinase
+4932	CL:11802	6	mixed, incl. Peptidase inhibitor I9, and CYTH-like domain superfamily
+4932	CL:11818	5	mixed, incl. Protein of unknown function DUF726, and MINDY deubiquitinase
+4932	CL:11827	139	mixed, incl. retrotransposon nucleocapsid, and Zinc finger C2H2 superfamily
+4932	CL:11828	131	mixed, incl. retrotransposon nucleocapsid, and Zinc finger C2H2 superfamily
+4932	CL:11829	117	retrotransposon nucleocapsid, and Zinc finger C2H2 superfamily
+4932	CL:11830	91	retrotransposon nucleocapsid, and Zinc finger C2H2 superfamily
+4932	CL:11835	85	TYA transposon protein, and Zinc finger C2H2 superfamily
+4932	CL:11839	80	TYA transposon protein, and Zinc finger C2H2 superfamily
+4932	CL:11844	75	TYA transposon protein, and Zinc finger C2H2 superfamily
+4932	CL:11849	70	TYA transposon protein, and Zinc finger C2H2 superfamily
+4932	CL:11854	65	retrotransposon nucleocapsid, and Zinc finger C2H2 superfamily
+4932	CL:11859	60	retrotransposon nucleocapsid, and Zinc finger C2H2 superfamily
+4932	CL:11861	39	TYA transposon protein, and Zinc finger, C2H2 type
+4932	CL:11866	27	mixed, incl. TYA transposon protein, and GATA zinc finger
+4932	CL:11868	15	TYA transposon protein, and GATA zinc finger
+4932	CL:11873	10	mixed, incl. Aspartic peptidase, active site, and Zinc finger, C2H2 type
+4932	CL:11878	5	GATA zinc finger, and Zinc finger, C2H2 type
+4932	CL:11898	11	mostly uncharacterized, incl. regulation of transcription from RNA polymerase II promoter in response to UV-induced DNA damage, and Retrotransposon gag domain
+4932	CL:11901	5	mixed, incl. HAD-hyrolase-like
+4932	CL:11925	5	mixed, incl. YML108W-like superfamily, and Protein of unknown function DUF4112
+4932	CL:11939	20	mixed, incl. spermine transport, and C2H2-type zinc finger
+4932	CL:11940	12	mixed, incl. spermine transport, and C2H2-type zinc finger
+4932	CL:11943	5	spermine transport, and Copper-Fist
+4932	CL:11965	5	retrotransposon nucleocapsid
+4932	CL:1198	30	transcription by RNA polymerase III, and RNA polymerase I complex
+4932	CL:1199	21	RNA polymerase
+4932	CL:1200	11	RNA polymerase III complex
+4932	CL:12011	26	mixed, incl. Haemolysin-III related, and Yeast-specific zinc responsive
+4932	CL:12015	21	mixed, incl. Haemolysin-III related, and Yeast-specific zinc responsive
+4932	CL:12018	7	mixed, incl. Haemolysin-III related, and Zap1, zinc finger 2
+4932	CL:1202	5	RNA polymerase III complex
+4932	CL:12038	6	mixed, incl. Yeast-specific zinc responsive, and Zinc knuckle
+4932	CL:12062	14	mixed, incl. Virion maturation, and negative regulation of transcription from RNA polymerase II promoter in response to hypoxia
+4932	CL:12067	5	mixed, incl. negative regulation of transcription from RNA polymerase II promoter in response to hypoxia, and GAG-pre-integrase domain
+4932	CL:12080	5	mixed, incl. Retrotransposon Ty1 A, N-terminal
+4932	CL:12090	5	mixed, incl. Protein Ecm3-like, and PA14 domain
+4932	CL:12104	33	mixed, incl. RNA polymerase I transcription regulator complex, and Sodium/Calcium exchangers
+4932	CL:12107	25	mixed, incl. RNA polymerase I transcription regulator complex, and Sodium/Calcium exchangers
+4932	CL:12112	19	mixed, incl. RNA polymerase I transcription regulator complex, and Sodium/Calcium exchangers
+4932	CL:12114	8	RNA polymerase I transcription regulator complex
+4932	CL:12134	5	uncharacterized
+4932	CL:12160	5	mixed, incl. Disordered region of unknown function (DUF5315), and response to water deprivation
+4932	CL:12172	140	mixed, incl. re-entry into mitotic cell cycle after pheromone arrest, and Transmembrane helix
+4932	CL:12174	86	mixed, incl. re-entry into mitotic cell cycle after pheromone arrest, and Transmembrane helix
+4932	CL:12175	56	mostly uncharacterized, incl. re-entry into mitotic cell cycle after pheromone arrest, and COPI-independent Golgi-to-ER retrograde traffic
+4932	CL:12176	41	mostly uncharacterized, incl. re-entry into mitotic cell cycle after pheromone arrest, and COPI-independent Golgi-to-ER retrograde traffic
+4932	CL:12178	27	mostly uncharacterized, incl. COPI-independent Golgi-to-ER retrograde traffic, and Ser-tRNA(Ala) hydrolase activity
+4932	CL:12180	16	mostly uncharacterized, incl. Glycosyl hydrolases family 17, and GTPase activity
+4932	CL:12182	11	mostly uncharacterized, incl. GTPase activity
+4932	CL:12185	5	uncharacterized
+4932	CL:122	6268	biological_process
+4932	CL:1221	10	RNA polymerase I complex
+4932	CL:12217	5	COPI-independent Golgi-to-ER retrograde traffic, and AN1-like Zinc finger
+4932	CL:1223	5	RNA polymerase I complex
+4932	CL:12236	11	re-entry into mitotic cell cycle after pheromone arrest, and Actin patches distal protein 1
+4932	CL:12239	6	re-entry into mitotic cell cycle after pheromone arrest
+4932	CL:12257	15	mostly uncharacterized, incl. Aquaporin transporter, and Maltose fermentation regulatory protein, DNA-binding domain
+4932	CL:12259	5	uncharacterized
+4932	CL:12275	6	uncharacterized
+4932	CL:12286	30	mostly uncharacterized, incl. Mss4, and VanZ-like
+4932	CL:12288	15	mostly uncharacterized, incl. Mss4, and Dilute domain-containing protein, fungi, CBD domain
+4932	CL:12290	10	mostly uncharacterized, incl. Dilute domain-containing protein, fungi, CBD domain
+4932	CL:12293	5	uncharacterized
+4932	CL:12323	11	mostly uncharacterized, incl. Inositol transporters, and ethanol biosynthetic process
+4932	CL:12326	5	mixed, incl. ethanol biosynthetic process
+4932	CL:12347	52	mostly uncharacterized, incl. NAD-specific glutamate dehydrogenase, and Signal
+4932	CL:12351	42	uncharacterized
+4932	CL:12354	37	mostly uncharacterized, incl. NAD-specific glutamate dehydrogenase, and Protein kinase inhibitor
+4932	CL:12357	28	mostly uncharacterized, incl. NAD-specific glutamate dehydrogenase, and ANTH domain
+4932	CL:12359	23	mostly uncharacterized, incl. NAD-specific glutamate dehydrogenase, and ANTH domain
+4932	CL:12361	18	mostly uncharacterized, incl. NAD-specific glutamate dehydrogenase, and ANTH domain
+4932	CL:12363	13	mostly uncharacterized, incl. NAD-specific glutamate dehydrogenase
+4932	CL:12366	5	uncharacterized
+4932	CL:12416	6	mixed, incl. Protein kinase inhibitor, and Signal
+4932	CL:1242	6	transcription factor TFIIIC complex
+4932	CL:12439	6	uncharacterized
+4932	CL:12453	5	mixed, incl. FMP27, N-terminal, and Impact family
+4932	CL:12472	15	mostly uncharacterized, incl. Hypothetical protein (DUF2410), and NAD-specific glutamate dehydrogenase
+4932	CL:12473	10	mostly uncharacterized, incl. NAD-specific glutamate dehydrogenase
+4932	CL:12476	5	uncharacterized
+4932	CL:12492	5	mixed, incl. Hypothetical protein (DUF2410), and Peptidase family M20/M25/M40
+4932	CL:12551	10	uncharacterized
+4932	CL:12553	5	uncharacterized
+4932	CL:1258	23	nuclear ncRNA surveillance, and Ski complex
+4932	CL:1259	18	nuclear ncRNA surveillance
+4932	CL:1261	11	nuclear exosome (RNase complex)
+4932	CL:127	6263	biological_process
+4932	CL:1285	5	TRAMP complex
+4932	CL:1294	5	Ski complex, and Pelota/DOM34, N-terminal domain
+4932	CL:1304	5	cleavage in ITS2 between 5.8S rRNA and LSU-rRNA of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+4932	CL:131	6258	biological_process
+4932	CL:1313	40	tRNA methylation, and pseudouridine synthase activity
+4932	CL:1314	35	tRNA methylation, and pseudouridine synthase activity
+4932	CL:1315	25	tRNA methylation
+4932	CL:1317	17	tRNA methylation, and Eukaryotic/archaeal PrmC-related
+4932	CL:1319	10	tRNA methyltransferase complex, and tRNA methyltransferase activity
+4932	CL:1322	5	tRNA methyltransferase complex
+4932	CL:135	6253	biological_process
+4932	CL:1355	5	wybutosine metabolic process
+4932	CL:1365	7	tRNA pseudouridine synthesis
+4932	CL:1383	5	adenosine deaminase activity, and cytidine deamination
+4932	CL:1392	61	tRNA aminoacylation for protein translation, and tRNA threonylcarbamoyladenosine metabolic process
+4932	CL:1393	49	tRNA aminoacylation for protein translation, and EKC/KEOPS complex
+4932	CL:1395	41	tRNA aminoacylation for protein translation
+4932	CL:1397	35	tRNA aminoacylation for protein translation
+4932	CL:140	6248	biological_process
+4932	CL:1400	28	tRNA aminoacylation for protein translation
+4932	CL:1402	16	Cytoplasmic tRNA synthetases, and aminoacyl-tRNA synthetase multienzyme complex
+4932	CL:1403	8	Cytoplasmic tRNA synthetases, and Valine-tRNA ligase
+4932	CL:1420	5	methionyl glutamyl tRNA synthetase complex, and Isoleucine-tRNA ligase, type 2
+4932	CL:1441	5	tRNA synthetases class I (W and Y), and mitochondrial lysyl-tRNA aminoacylation
+4932	CL:145	6243	biological_process
+4932	CL:1478	5	EKC/KEOPS complex
+4932	CL:149	6238	biological_process
+4932	CL:1490	12	mixed, incl. mitochondrial tRNA wobble uridine modification, and Flavocytochrome c
+4932	CL:1493	5	RNA 2-O-methyltransferase activity, and GTP1/OBG domain
+4932	CL:1504	5	mitochondrial tRNA wobble uridine modification, and Flavocytochrome c
+4932	CL:1513	14	guanyl-nucleotide exchange factor complex, and positive regulation of cellular response to amino acid starvation
+4932	CL:1515	5	eukaryotic translation initiation factor 2B complex
+4932	CL:1527	7	positive regulation of cellular response to amino acid starvation, and Gcn1, N-terminal
+4932	CL:154	6233	biological_process
+4932	CL:1540	61	mixed, incl. nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay, and polysome
+4932	CL:1542	34	mixed, incl. nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay, and FDF domain
+4932	CL:1544	20	RNA decapping, and CCR4-NOT complex
+4932	CL:1545	10	CCR4-NOT complex
+4932	CL:1547	5	CCR4-NOT core complex
+4932	CL:1564	10	RNA decapping
+4932	CL:1567	5	deadenylation-independent decapping of nuclear-transcribed mRNA, and Xrn1, D1 domain
+4932	CL:158	6227	biological_process
+4932	CL:1592	6	mixed, incl. AAA domain, and UPF3 domain
+4932	CL:16	6378	biological_process
+4932	CL:1616	23	mixed, incl. negative regulation of translation, and KH domain
+4932	CL:1617	17	mixed, incl. Pumilio homology domain, and regulation of mRNA stability
+4932	CL:162	6222	biological_process
+4932	CL:1620	5	Pumilio homology domain, and Pub1, RNA recognition motif 1
+4932	CL:1636	5	mixed, incl. She2 domain superfamily, and SWI5-dependent HO expression protein 3
+4932	CL:1651	5	La domain, and Cap associated factor 
+4932	CL:166	6217	biological_process
+4932	CL:1661	129	protein folding, and protein targeting to ER
+4932	CL:1663	77	protein folding, and lactate metabolic process
+4932	CL:1664	67	protein folding, and vacuolar transporter chaperone complex
+4932	CL:1666	49	protein folding, and HSP20-like chaperone
+4932	CL:1667	44	mixed, incl. protein refolding, and DnaJ domain
+4932	CL:1668	31	protein refolding, and HSP90 chaperone cycle for steroid hormone receptors (SHR)
+4932	CL:1669	21	protein refolding, and HSP90 chaperone cycle for steroid hormone receptors (SHR)
+4932	CL:1670	15	HSP90 chaperone cycle for steroid hormone receptors (SHR), and ClpA/B family
+4932	CL:1672	10	protein refolding, and STI1 domain
+4932	CL:1674	5	stress granule disassembly, and STI1 domain
+4932	CL:1700	5	protein refolding
+4932	CL:171	6212	biological_process
+4932	CL:1710	10	mixed, incl. Inflammasomes, and Activator of Hsp90 ATPase, Aha1
+4932	CL:1713	5	Activator of Hsp90 ATPase, Aha1, and positive regulation of telomere maintenance
+4932	CL:1729	13	DnaJ domain, and translational frameshifting
+4932	CL:1733	7	DnaJ domain
+4932	CL:1754	5	mixed, incl. OPI10 family, and Alpha crystallin/Hsp20 domain
+4932	CL:176	6207	biological_process
+4932	CL:1769	13	chaperone complex
+4932	CL:1770	8	chaperonin-containing T-complex
+4932	CL:1785	5	vacuolar transporter chaperone complex
+4932	CL:1798	8	methylglyoxal catabolic process, and (D)-2-hydroxyglutarate-pyruvate transhydrogenase activity
+4932	CL:181	6202	biological_process
+4932	CL:1823	48	protein targeting to ER, and protein disulfide isomerase activity
+4932	CL:1824	33	Protein export, and protein disulfide isomerase activity
+4932	CL:1825	25	Protein export, and Sec62/Sec63 complex
+4932	CL:1826	17	posttranslational protein targeting to membrane, translocation, and signal peptidase complex
+4932	CL:1828	12	posttranslational protein targeting to membrane, translocation
+4932	CL:1831	5	posttranslational protein targeting to membrane, translocation
+4932	CL:186	6197	biological_process
+4932	CL:1861	5	Signal recognition particle
+4932	CL:1875	5	protein disulfide isomerase activity
+4932	CL:1890	12	mixed, incl. protein insertion into ER membrane, and TRC complex
+4932	CL:1892	7	protein insertion into ER membrane, and Haem-degrading
+4932	CL:191	6190	biological_process
+4932	CL:1918	23	tRNA wobble uridine modification, and peptidyl-diphthamide metabolic process
+4932	CL:1920	12	Elongator holoenzyme complex, and tRNA wobble position uridine thiolation
+4932	CL:1922	6	Elongator holoenzyme complex
+4932	CL:1934	5	tRNA wobble position uridine thiolation
+4932	CL:1947	6	peptidyl-diphthamide metabolic process
+4932	CL:196	6176	biological_process
+4932	CL:1963	212	mRNA processing, and nuclear pore
+4932	CL:1965	114	mRNA transport, and mRNA cleavage factor complex
+4932	CL:1966	80	mRNA transport, and Ran GTPase binding
+4932	CL:1967	61	protein import into nucleus, and nuclear pore
+4932	CL:1968	37	nuclear pore
+4932	CL:1969	31	nuclear pore
+4932	CL:1970	25	Nuclear pore complex
+4932	CL:1971	20	structural constituent of nuclear pore
+4932	CL:1972	15	nuclear pore central transport channel, and nuclear pore inner ring
+4932	CL:1974	6	nuclear pore central transport channel
+4932	CL:1990	6	nuclear pore inner ring, and Nucleoporin, NUP53
+4932	CL:200	6171	biological_process
+4932	CL:2001	5	nuclear pore outer ring
+4932	CL:2010	5	nuclear pore cytoplasmic filaments
+4932	CL:2019	6	nuclear pore nuclear basket, and TAP C-terminal domain
+4932	CL:2030	6	nuclear pore transmembrane ring, and Nuclear pore assembly and biogenesis
+4932	CL:204	6164	biological_process
+4932	CL:2043	20	Ran GTPase binding, and Ran GTPase
+4932	CL:2044	12	Importin-beta N-terminal domain, and tRNA re-export from nucleus
+4932	CL:2046	5	Importin-beta N-terminal domain
+4932	CL:2058	5	tRNA re-export from nucleus, and Armadillo
+4932	CL:2069	5	Postmitotic nuclear pore complex (NPC) reformation, and CRM1 C terminal
+4932	CL:2088	19	mixed, incl. transcription export complex, and transcription export complex 2
+4932	CL:2089	11	transcription export complex, and Npl3, RNA recognition motif 1
+4932	CL:209	6159	biological_process
+4932	CL:2092	5	nucleoplasmic THO complex
+4932	CL:21	6373	biological_process
+4932	CL:2111	5	transcription export complex 2
+4932	CL:2126	30	mRNA cleavage factor complex, and Nrd1 complex
+4932	CL:2129	17	mRNA cleavage factor complex
+4932	CL:2131	9	mRNA cleavage and polyadenylation specificity factor complex
+4932	CL:214	6154	biological_process
+4932	CL:2166	10	mixed, incl. Nrd1 complex, and SPOC domain
+4932	CL:2168	5	Nrd1 complex, and RNA polymerase Rpb1, domain 6
+4932	CL:219	6149	biological_process
+4932	CL:2193	97	spliceosomal complex
+4932	CL:2195	90	spliceosomal complex
+4932	CL:2196	55	spliceosomal snRNP complex
+4932	CL:2197	37	spliceosomal snRNP complex
+4932	CL:2199	28	U4/U6 x U5 tri-snRNP complex, and U2 snRNP
+4932	CL:2200	15	U2 snRNP
+4932	CL:2201	8	U2 snRNP
+4932	CL:2216	7	U4 snRNP, and U4/U6 snRNP
+4932	CL:2229	13	U4/U6 x U5 tri-snRNP complex
+4932	CL:223	6143	biological_process
+4932	CL:2231	5	U6 snRNP
+4932	CL:2261	5	U5 snRNP
+4932	CL:227	6138	biological_process
+4932	CL:2270	18	commitment complex, and prespliceosome
+4932	CL:2272	13	U1 snRNP, and pre-mRNA branch point binding
+4932	CL:2274	7	U1 snRNP
+4932	CL:230	6118	biological_process
+4932	CL:2305	35	spliceosomal conformational changes to generate catalytic conformation, and Prp19 complex
+4932	CL:2306	30	spliceosomal conformational changes to generate catalytic conformation, and Prp19 complex
+4932	CL:2309	20	catalytic step 1 spliceosome, and generation of catalytic spliceosome for second transesterification step
+4932	CL:231	6111	biological_process
+4932	CL:2310	15	generation of catalytic spliceosome for second transesterification step, and catalytic step 1 spliceosome
+4932	CL:2313	5	U2-type catalytic step 2 spliceosome
+4932	CL:2327	5	mixed, incl. RNA exon ligation, and Saf4/Yju2 protein
+4932	CL:2339	5	U2-type post-mRNA release spliceosomal complex, and Hfq protein
+4932	CL:234	5968	biological_process
+4932	CL:235	5935	biological_process
+4932	CL:2354	6	RES complex, and snoRNA splicing
+4932	CL:236	5630	biological_process
+4932	CL:2365	5	G-patch domain, and Torus domain
+4932	CL:237	5613	biological_process
+4932	CL:2377	5	7-methylguanosine cap hypermethylation, and Gemin2/Brr1
+4932	CL:238	5581	biological_process
+4932	CL:2387	15	N-terminal protein acetyltransferase complex, and protein initiator methionine removal
+4932	CL:2389	10	N-terminal protein acetyltransferase complex
+4932	CL:239	5537	biological_process
+4932	CL:2392	5	N-terminal protein acetyltransferase complex
+4932	CL:241	5436	biological_process
+4932	CL:2419	204	ubiquitin-dependent protein catabolic process, and protein modification by small protein conjugation or removal
+4932	CL:242	5377	biological_process
+4932	CL:2421	182	ubiquitin-dependent protein catabolic process, and Ubl conjugation pathway
+4932	CL:2423	160	ubiquitin-dependent protein catabolic process, and proteasome assembly
+4932	CL:2424	114	proteasome complex, and Ubl conjugation pathway
+4932	CL:2425	95	proteasome complex, and ubiquitin-dependent ERAD pathway
+4932	CL:2426	65	proteasome complex, and proteasome assembly
+4932	CL:2429	57	proteasome complex, and Proteasome chaperone 3/4
+4932	CL:243	5371	biological_process
+4932	CL:2431	38	Proteasome
+4932	CL:2433	30	Proteasome
+4932	CL:2434	24	Antigen processing-Cross presentation
+4932	CL:2436	17	proteasome accessory complex, and Proteasome beta-type subunit, conserved site
+4932	CL:244	5343	biological_process
+4932	CL:245	5302	biological_process
+4932	CL:246	5297	biological_process
+4932	CL:247	5256	biological_process
+4932	CL:2472	5	proteasomal ubiquitin-independent protein catabolic process
+4932	CL:248	5161	cellular anatomical entity
+4932	CL:2481	6	Proteasome subunit
+4932	CL:249	5146	cellular anatomical entity
+4932	CL:2497	5	proteasome regulatory particle assembly
+4932	CL:250	5105	cellular anatomical entity
+4932	CL:251	5064	cellular anatomical entity
+4932	CL:2513	15	mixed, incl. Ubiquitin homologues, and HECT domain
+4932	CL:2516	5	Ubiquitin homologues, and Aspartyl protease
+4932	CL:252	5013	cellular process
+4932	CL:2529	7	HECT domain, and Ubiquitin-conjugating enzyme, active site
+4932	CL:253	4974	cellular process
+4932	CL:254	4924	cellular process
+4932	CL:2546	5	MUB1-RAD6-UBR2 ubiquitin ligase complex, and T-complex 11
+4932	CL:255	4563	cellular process
+4932	CL:2555	30	mixed, incl. ER ubiquitin ligase complex, and UBX domain
+4932	CL:2557	22	ER ubiquitin ligase complex, and UBX domain
+4932	CL:2558	12	ER ubiquitin ligase complex, and Protein OS9-like
+4932	CL:256	4524	cellular process
+4932	CL:2561	6	Hrd1p ubiquitin ligase complex
+4932	CL:257	4501	cellular process
+4932	CL:258	3295	cellular process
+4932	CL:2581	10	UBX domain, and VCP-NPL4-UFD1 AAA ATPase complex
+4932	CL:2583	5	UBX domain
+4932	CL:259	2042	macromolecule metabolic process, and microtubule cytoskeleton
+4932	CL:26	6368	biological_process
+4932	CL:260	2023	macromolecule metabolic process, and microtubule cytoskeleton
+4932	CL:2603	6	Dsc E3 ubiquitin ligase complex, and Domain of unknown function DUF1746
+4932	CL:261	1283	gene expression, and proteolysis involved in cellular protein catabolic process
+4932	CL:2614	19	ubiquitinyl hydrolase activity, and Hid-1/Ecm30
+4932	CL:2616	12	ubiquitinyl hydrolase activity
+4932	CL:2618	5	OTU domain, and Ubiquitinyl hydrolase
+4932	CL:262	1079	gene expression, and protein folding
+4932	CL:263	1062	gene expression, and protein folding
+4932	CL:2630	5	Recognition of DNA damage by PCNA-containing replication complex
+4932	CL:264	850	ribonucleoprotein complex, and tRNA metabolic process
+4932	CL:265	827	ribonucleoprotein complex, and ncRNA metabolic process
+4932	CL:2651	46	nuclear ubiquitin ligase complex, and SCF ubiquitin ligase complex
+4932	CL:2652	24	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process, and protein neddylation
+4932	CL:2654	15	protein neddylation, and SCF-dependent proteasomal ubiquitin-dependent protein catabolic process
+4932	CL:2656	8	protein neddylation, and COP9 signalosome complex subunit 5
+4932	CL:266	698	ribonucleoprotein complex, and tRNA metabolic process
+4932	CL:267	637	ribonucleoprotein complex, and tRNA metabolic process
+4932	CL:2672	6	mixed, incl. nuclear SCF ubiquitin ligase complex, and Cullin
+4932	CL:268	623	ribonucleoprotein complex, and tRNA metabolic process
+4932	CL:2686	5	FBXL7 down-regulates AURKA during mitotic entry and in early mitosis, and GTPase inhibitor activity
+4932	CL:269	562	ribonucleoprotein complex, and ncRNA processing
+4932	CL:270	284	ribosomal subunit, and translation factor activity, RNA binding
+4932	CL:2700	18	nuclear ubiquitin ligase complex
+4932	CL:2701	13	anaphase-promoting complex
+4932	CL:2702	8	anaphase-promoting complex
+4932	CL:2717	5	metaphase/anaphase transition of cell cycle, and Cdc23
+4932	CL:272	199	cytoplasmic translation, and translation factor activity, RNA binding
+4932	CL:2726	5	Asi complex, and SUMO-targeted ubiquitin ligase complex
+4932	CL:273	173	cytosolic ribosome
+4932	CL:2749	18	mixed, incl. Ring finger domain, and rescue of stalled ribosome
+4932	CL:275	168	cytosolic ribosome
+4932	CL:2750	11	mixed, incl. rescue of stalled ribosome, and HBS1 N-terminus
+4932	CL:2752	5	rescue of stalled ribosome, and HBS1 N-terminus
+4932	CL:276	144	cytosolic ribosome
+4932	CL:2771	7	Ring finger domain, and Cell division cycle protein 123
+4932	CL:279	136	cytosolic ribosome
+4932	CL:2791	18	mixed, incl. Signalosome, and IBR domain
+4932	CL:2792	10	mixed, incl. IBR domain, and Nucleoside transporter
+4932	CL:2795	5	mixed, incl. Ctr copper transporter, and Glutathione S-transferase Omega/GSH
+4932	CL:280	131	cytosolic ribosome
+4932	CL:281	116	cytosolic ribosome
+4932	CL:2813	6	Signalosome
+4932	CL:2826	740	chromosome organization, and cellular response to DNA damage stimulus
+4932	CL:2827	674	chromosome organization, and cellular response to DNA damage stimulus
+4932	CL:2828	648	chromosome organization, and DNA damage
+4932	CL:2829	633	chromosome organization, and DNA damage
+4932	CL:283	106	cytosolic ribosome
+4932	CL:2830	319	DNA repair, and chromosome segregation
+4932	CL:2831	308	DNA repair, and condensed chromosome, centromeric region
+4932	CL:2832	247	DNA repair, and sister chromatid segregation
+4932	CL:2834	236	DNA repair, and mitotic sister chromatid segregation
+4932	CL:2835	124	Cell Cycle, and mitotic sister chromatid segregation
+4932	CL:2836	84	DNA replication, and Mitotic Prometaphase
+4932	CL:2837	62	DNA replication, and deoxyribonucleoside triphosphate metabolic process
+4932	CL:2838	55	DNA Replication, and DNA replication checkpoint
+4932	CL:2839	43	DNA Replication, and DNA replication checkpoint
+4932	CL:284	93	cytosolic ribosome
+4932	CL:2840	37	DNA replication preinitiation complex, and Removal of the Flap Intermediate
+4932	CL:2841	23	Synthesis of DNA, and replication fork protection
+4932	CL:2843	10	DNA replication initiation, and Primase zinc finger
+4932	CL:2845	5	alpha DNA polymerase:primase complex
+4932	CL:285	72	Cytoplasmic ribosomal proteins
+4932	CL:286	45	cytosolic large ribosomal subunit, and cytosolic small ribosomal subunit
+4932	CL:2868	7	CMG complex
+4932	CL:287	35	cytosolic large ribosomal subunit, and Ribosomal family S4e
+4932	CL:288	20	cytosolic large ribosomal subunit
+4932	CL:2886	14	DNA replication preinitiation complex
+4932	CL:2888	5	pre-replicative complex
+4932	CL:2904	5	DNA replication preinitiation complex assembly, and Sld7, N-terminal
+4932	CL:2913	6	premeiotic DNA replication, and regulation of cell budding
+4932	CL:2924	12	Ctf18 RFC-like complex, and DNA clamp loader activity
+4932	CL:2926	5	Elg1 RFC-like complex
+4932	CL:2938	5	Ctf18 RFC-like complex, and ATP-dependent RNA helicase CHL1/DDX11
+4932	CL:2947	7	De novo biosynthesis of pyrimidine deoxyribonucleotides
+4932	CL:2960	22	mitotic chromosome condensation, and Smc5-Smc6 complex
+4932	CL:2961	14	mitotic chromosome condensation, and mitotic cohesin complex
+4932	CL:2964	6	Establishment of Sister Chromatid Cohesion
+4932	CL:2979	5	DNA condensation
+4932	CL:2989	6	Smc5-Smc6 complex
+4932	CL:3005	36	mixed, incl. microtubule-based movement, and Regulation of mitotic cell cycle
+4932	CL:3006	26	microtubule-based movement, and Mitotic Spindle Checkpoint
+4932	CL:3008	13	Mitotic Spindle Checkpoint, and spindle assembly
+4932	CL:3010	6	mixed, incl. spindle pole body separation, and POLO box domain
+4932	CL:3022	6	mitotic checkpoint complex, and Protein kinase Mps1 family
+4932	CL:3039	8	negative regulation of microtubule polymerization or depolymerization, and tubulin complex
+4932	CL:3058	6	14-3-3 domain, and negative regulation of spindle checkpoint
+4932	CL:3082	112	DNA damage, and telomere maintenance via telomere lengthening
+4932	CL:3083	96	DNA damage
+4932	CL:3084	86	DNA repair
+4932	CL:3085	73	DNA repair, and DNA topological change
+4932	CL:3086	64	DNA damage
+4932	CL:3087	45	mixed, incl. Homologous recombination, and error-prone translesion synthesis
+4932	CL:3088	34	Homologous recombination, and DNA damage checkpoint
+4932	CL:3089	22	Homologous recombination, and 5-flap endonuclease activity
+4932	CL:3090	17	Homologous recombination, and Slx1-Slx4 complex
+4932	CL:3092	7	RecQ family helicase-topoisomerase III complex, and endodeoxyribonuclease complex
+4932	CL:31	6363	biological_process
+4932	CL:3112	5	recombinase activity
+4932	CL:3123	5	PIF1-like helicase, and Topoisomerase
+4932	CL:3132	12	mixed, incl. checkpoint clamp complex, and DNA replication factor A complex
+4932	CL:3134	5	DNA damage induced protein phosphorylation, and DNA damage checkpoint protein
+4932	CL:3156	10	error-prone translesion synthesis, and ubiquitin conjugating enzyme complex
+4932	CL:3158	5	ubiquitin conjugating enzyme complex, and error-free postreplication DNA repair
+4932	CL:3176	19	DNA repair complex
+4932	CL:3177	11	DNA repair complex
+4932	CL:3179	5	nucleotide-excision repair factor 1 complex, and Rad4 beta-hairpin domain 2
+4932	CL:3200	5	Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)
+4932	CL:3214	7	Mre11 complex, and DNA ligase IV complex
+4932	CL:3231	11	mixed, incl. DNA-(apurinic or apyrimidinic site) endonuclease activity, and DNA polymerase X family
+4932	CL:3232	6	DNA-(apurinic or apyrimidinic site) endonuclease activity
+4932	CL:3243	5	mixed, incl. DNA polymerase X family, and single strand break repair
+4932	CL:3255	10	SUMO is transferred from E1 to E2 (UBE2I, UBC9), and PINIT domain
+4932	CL:3258	5	SUMO is transferred from E1 to E2 (UBE2I, UBC9), and PINIT domain
+4932	CL:327	15	mixed, incl. Ribosomal family S4e, and Ubiquitin domain
+4932	CL:3274	16	telomeric DNA binding, and chromatin silencing complex
+4932	CL:3275	11	telomere cap complex, and Ku70:Ku80 complex
+4932	CL:3276	6	telomere cap complex
+4932	CL:3287	5	Ku70:Ku80 complex, and telomerase RNA binding
+4932	CL:3296	5	chromatin silencing complex
+4932	CL:3313	6	ribonuclease H2 complex, and RNase H
+4932	CL:3325	61	Kinetochore, and spindle pole body duplication
+4932	CL:3327	41	Kinetochore
+4932	CL:3328	31	Kinetochore
+4932	CL:3329	24	Kinetochore
+4932	CL:3332	11	establishment of mitotic sister chromatid cohesion, and COMA complex
+4932	CL:3334	5	establishment of meiotic sister chromatid cohesion, and establishment of mitotic sister chromatid cohesion
+4932	CL:3360	8	MIS12/MIND type complex, and NMS complex
+4932	CL:3376	7	chromosome passenger complex, and CBF3 complex
+4932	CL:3392	6	DASH complex
+4932	CL:3414	14	central plaque of spindle pole body, and outer plaque of spindle pole body
+4932	CL:3416	5	central plaque of spindle pole body
+4932	CL:3432	5	spindle pole body duplication
+4932	CL:3446	11	nucleolus organization, and monopolin complex
+4932	CL:3447	6	Dnt1/Tof2/Net1, and maintenance of rDNA
+4932	CL:3458	5	monopolin complex
+4932	CL:3467	314	chromatin organization, and RNA polymerase II transcription regulator complex
+4932	CL:3468	298	chromatin organization, and RNA polymerase II transcription regulator complex
+4932	CL:3469	257	nucleoplasm, and SWI/SNF superfamily-type complex
+4932	CL:3470	148	nuclear chromatin, and histone acetylation
+4932	CL:3471	114	SWI/SNF superfamily-type complex, and nucleosome assembly
+4932	CL:3472	72	nucleosome organization, and ISWI-type complex
+4932	CL:3473	41	nucleosome assembly, and ISWI-type complex
+4932	CL:3476	28	nucleosome assembly, and Nucleosome core
+4932	CL:3477	16	nuclear nucleosome, and HATs acetylate histones
+4932	CL:3479	10	nuclear nucleosome
+4932	CL:3481	5	nuclear nucleosome
+4932	CL:3508	12	DNA replication-independent nucleosome assembly, and CAF-1 complex
+4932	CL:3509	7	DNA replication-dependent nucleosome assembly, and PCNA complex
+4932	CL:3522	5	DNA replication-independent nucleosome assembly
+4932	CL:3538	8	ISWI-type complex
+4932	CL:3554	31	RSC-type complex, and HMG-box domain
+4932	CL:3555	25	RSC-type complex, and SWI/SNF complex
+4932	CL:3556	17	RSC-type complex
+4932	CL:3558	8	RSC-type complex
+4932	CL:356	10	mixed, incl. Ribosomal protein S2, eukaryotic, and Zinc-binding ribosomal protein
+4932	CL:3580	5	RSC-type complex
+4932	CL:3590	6	SWI/SNF complex
+4932	CL:36	6358	biological_process
+4932	CL:3604	6	HMG-box domain
+4932	CL:3615	42	INO80-type complex, and NuA4 histone acetyltransferase complex
+4932	CL:3616	36	INO80-type complex, and NuA4 histone acetyltransferase complex
+4932	CL:3619	18	INO80-type complex
+4932	CL:3620	10	Ino80 complex
+4932	CL:3621	5	Ino80 complex
+4932	CL:3630	5	Ino80 complex
+4932	CL:3641	5	Swr1 complex
+4932	CL:3656	16	NuA4 histone acetyltransferase complex
+4932	CL:3658	11	NuA4 histone acetyltransferase complex
+4932	CL:3660	6	mixed, incl. histone H2A acetylation, and Yaf9
+4932	CL:3687	6	H3 histone acetyltransferase complex, and Acetyltransferase HPA2/HPA3
+4932	CL:3698	34	histone deacetylation, and Sin3-type complex
+4932	CL:3699	28	Rpd3L-Expanded complex, and Set3 complex
+4932	CL:3700	16	Sin3-type complex
+4932	CL:3704	10	Rpd3L complex
+4932	CL:3705	5	Rpd3S/Clr6-CII complex
+4932	CL:3714	5	negative regulation of ribosomal DNA heterochromatin assembly
+4932	CL:3731	12	Set3 complex, and positive regulation of DNA-dependent DNA replication initiation
+4932	CL:3734	5	Set3 complex
+4932	CL:375	27	Cytoplasmic ribosomal proteins
+4932	CL:3754	6	HDA1 complex, and Sirtuin, class I
+4932	CL:3766	106	RNA Polymerase II Pre-transcription Events, and mediator complex
+4932	CL:3767	76	RNA Polymerase II Pre-transcription Events, and mediator complex
+4932	CL:3769	47	RNA Polymerase II Transcription Elongation, and transcription preinitiation complex
+4932	CL:377	15	Cytoplasmic ribosomal proteins
+4932	CL:3770	34	Formation of the Early Elongation Complex, and transcription preinitiation complex
+4932	CL:3771	18	transcription, RNA-templated, and transcription factor TFIIF complex
+4932	CL:3774	12	transcription, RNA-templated, and transcription factor TFIIF complex
+4932	CL:3776	7	transcription, RNA-templated, and RNA polymerase II complex recruiting activity
+4932	CL:3806	16	transcription factor TFIIH holo complex, and transcription factor TFIIA complex
+4932	CL:3809	9	transcription factor TFIIH holo complex
+4932	CL:3838	11	regulation of nucleotide-excision repair, and FACT complex
+4932	CL:3839	6	FACT complex, and regulation of nucleosome density
+4932	CL:3850	5	Cdc73/Paf1 complex
+4932	CL:3869	25	mediator complex
+4932	CL:3870	19	core mediator complex
+4932	CL:3872	14	core mediator complex
+4932	CL:3874	7	core mediator complex
+4932	CL:3908	5	regulation of transcription by galactose
+4932	CL:3919	26	SAGA complex, and transcription factor TFIID complex
+4932	CL:3923	10	SLIK (SAGA-like) complex
+4932	CL:3948	8	transcription factor TFIID complex
+4932	CL:3982	41	protein alkylation, and JmjC domain
+4932	CL:3984	19	histone lysine methylation, and JmjC domain
+4932	CL:3985	12	Set1C/COMPASS complex, and JmjC domain
+4932	CL:3988	6	Set1C/COMPASS complex
+4932	CL:4008	7	SET domain
+4932	CL:4027	15	protein methyltransferase activity, and Lysine methyltransferase
+4932	CL:4029	7	mixed, incl. Lysine methyltransferase, and Histidine catabolism
+4932	CL:4044	6	peptidyl-lysine monomethylation, and Creatine metabolism
+4932	CL:4063	16	mixed, incl. ASTRA complex, and GPN-loop GTPase
+4932	CL:4064	8	ASTRA complex, and R2TP complex
+4932	CL:4080	6	GPN-loop GTPase, and RPAP1-like, N-terminal
+4932	CL:4094	15	mixed, incl. mitochondrial DNA metabolic process, and SNF2-like, N-terminal domain superfamily
+4932	CL:4096	5	mixed, incl. oxidoreductase activity, acting on NAD(P)H, oxygen as acceptor, and Cytochrome b5, heme-binding site
+4932	CL:41	6353	biological_process
+4932	CL:4111	5	uncharacterized
+4932	CL:4124	24	tubulin complex assembly, and dynein complex
+4932	CL:4125	13	tubulin complex assembly, and Alpha tubulin
+4932	CL:4126	7	post-chaperonin tubulin folding pathway, and tubulin complex assembly
+4932	CL:413	8	mixed, incl. Ribosomal protein L13e, and Ribosomal protein L27e
+4932	CL:4140	5	prefoldin complex
+4932	CL:4151	10	dynein complex, and LIS1, N-terminal
+4932	CL:4152	5	dynactin complex
+4932	CL:4161	5	positive regulation of microtubule motor activity, and Dynein light intermediate chain (DLIC)
+4932	CL:4174	66	Meiosis, and Pip2-Oaf1 complex
+4932	CL:4176	55	Meiosis, and Pip2-Oaf1 complex
+4932	CL:4177	41	mixed, incl. homologous recombination, and meiotic spindle pole body
+4932	CL:4178	33	homologous chromosome pairing at meiosis, and Meiotic recombination genes
+4932	CL:4180	25	homologous chromosome pairing at meiosis, and Meiotic recombination genes
+4932	CL:4181	18	homologous chromosome pairing at meiosis, and Mnd1 family
+4932	CL:4183	11	mixed, incl. positive regulation of protein sumoylation, and chiasma assembly
+4932	CL:4184	6	mixed, incl. chiasma assembly, and Type IIB DNA topoisomerase
+4932	CL:4195	5	positive regulation of protein sumoylation
+4932	CL:4207	5	lateral element, and Rad21/Rec8-like protein
+4932	CL:4217	5	Meiotic recombination genes
+4932	CL:4244	6	meiotic spindle pole body, and prospore membrane leading edge
+4932	CL:4259	10	mixed, incl. She1, and YTH domain
+4932	CL:4261	5	mixed, incl. 5-Nucleotidase/apyrase, and Acyltransferase C-terminus
+4932	CL:428	21	cytosolic small ribosomal subunit, and Ribosomal protein L44
+4932	CL:4286	10	mixed, incl. negative regulation of transcription involved in meiotic cell cycle, and Respiration factor 1
+4932	CL:429	13	mixed, incl. Ribosomal protein S14/S29, and rRNA transport
+4932	CL:4290	5	mixed, incl. Respiration factor 1, and Glycogen synthase kinase 3, catalytic domain
+4932	CL:4305	19	mixed, incl. Exonuclease, RNase T/DNA polymerase III, and Lung seven transmembrane receptor
+4932	CL:4306	10	mixed, incl. Exonuclease, RNase T/DNA polymerase III, and Lung seven transmembrane receptor
+4932	CL:4307	5	Lung seven transmembrane receptor, and AVL9/DENND6 domain
+4932	CL:4316	5	Exonuclease, RNase T/DNA polymerase III, and Uncharacterised protein (DUF2406)
+4932	CL:4326	5	mixed, incl. PhoD-like phosphatase, and Proline-rich protein Hua1-like
+4932	CL:4342	1253	Metabolic pathways, and Mitochondrion
+4932	CL:4343	1011	Metabolic pathways, and mitochondrial envelope
+4932	CL:4344	985	Metabolic pathways, and mitochondrial envelope
+4932	CL:4345	542	small molecule metabolic process, and Starch and sucrose metabolism
+4932	CL:4347	499	small molecule metabolic process, and Starch and sucrose metabolism
+4932	CL:4348	456	small molecule metabolic process, and Starch and sucrose metabolism
+4932	CL:4349	426	Biosynthesis of secondary metabolites, and small molecule metabolic process
+4932	CL:4351	228	mixed, incl. Principal pathways of carbon metabolism, and carbohydrate metabolic process
+4932	CL:4352	215	mixed, incl. Principal pathways of carbon metabolism, and carbohydrate metabolic process
+4932	CL:4353	136	Principal pathways of carbon metabolism, and Arginine and proline metabolism
+4932	CL:4354	122	Principal pathways of carbon metabolism, and Arginine and proline metabolism
+4932	CL:4355	99	Principal pathways of carbon metabolism, and Carbon metabolism
+4932	CL:4356	53	Glycolysis / Gluconeogenesis, and Pentose phosphate pathway 2
+4932	CL:4357	39	Glycolysis / Gluconeogenesis
+4932	CL:4358	28	Glycolysis, and transferase activity, transferring aldehyde or ketonic groups
+4932	CL:4359	21	Glycolysis, and Transketolase family
+4932	CL:4360	15	Glycolysis
+4932	CL:4361	8	gluconeogenesis
+4932	CL:4376	7	transferase activity, transferring aldehyde or ketonic groups, and Phosphofructokinase
+4932	CL:4389	6	Enolase, N-terminal domain, and Phosphoglycerate mutase 1
+4932	CL:4401	5	Hexokinase
+4932	CL:4413	11	Phenylalanine degradation, and acetate metabolic process
+4932	CL:4416	5	pyruvate decarboxylase activity, and HpcH/HpaI aldolase/citrate lyase family
+4932	CL:4434	14	Pentose phosphate pathway 2, and Xylose metabolism
+4932	CL:4436	6	pentose-phosphate shunt, oxidative branch
+4932	CL:4451	5	pentose catabolic process
+4932	CL:4462	43	TCA cycle, and Alanine metabolism
+4932	CL:4464	28	Citrate cycle (TCA cycle), and Alanine metabolism
+4932	CL:4465	21	TCA cycle
+4932	CL:4467	8	Malate dehydrogenase, type 1, and Aspartate biosynthesis
+4932	CL:4487	10	pyruvate dehydrogenase complex, and Glutamate degradation III
+4932	CL:4489	5	pyruvate dehydrogenase complex
+4932	CL:45	6348	biological_process
+4932	CL:4507	5	isocitrate metabolic process
+4932	CL:4526	11	mixed, incl. Glyoxylate bypass, and carnitine metabolic process
+4932	CL:4529	5	Glyoxylate bypass, and Fructose-1,6-bisphosphatase
+4932	CL:454	8	mixed, incl. Ribosomal protein S30, and Ribosomal protein S13
+4932	CL:4553	19	Arginine and proline metabolism, and Nitrogen metabolism
+4932	CL:4555	10	Nitrogen metabolism, and Glutamate degradation I
+4932	CL:4557	5	oxidoreductase activity, acting on the CH-NH2 group of donors, NAD or NADP as acceptor
+4932	CL:4578	6	proline metabolic process
+4932	CL:4599	10	glycerol metabolic process
+4932	CL:4601	5	Glycerol metabolism
+4932	CL:4625	77	mixed, incl. Starch and sucrose metabolism, and 6-phosphofructo-2-kinase
+4932	CL:4626	65	mixed, incl. Starch and sucrose metabolism, and 6-phosphofructo-2-kinase
+4932	CL:4628	57	mixed, incl. Starch and sucrose metabolism, and peptidase inhibitor activity
+4932	CL:4630	25	mixed, incl. peptidase inhibitor activity, and RNA 7-methylguanosine cap binding
+4932	CL:4632	18	mixed, incl. RNA 7-methylguanosine cap binding, and Nicotinamide salvaging
+4932	CL:4635	8	mixed, incl. Heat shock protein 9/12, and Putative stress-responsive protein
+4932	CL:4656	6	mixed, incl. RNA 7-methylguanosine cap binding, and Ribonuclease T2-like
+4932	CL:4686	28	Starch and sucrose metabolism, and Zinc-finger double domain
+4932	CL:4687	19	Trehalose anabolism, and Glycogen biosynthesis
+4932	CL:4688	12	Glycogen metabolism
+4932	CL:469	13	mixed, incl. Zinc-binding ribosomal protein, and Ribosomal L39 protein
+4932	CL:4690	5	Glycogen breakdown (glycogenolysis), and 1,4-alpha-glucan-branching enzyme
+4932	CL:4702	5	Glycerol teichoic acid biosynthesis
+4932	CL:471	5	Ribosomal protein L37e, and Ribosomal protein L44e
+4932	CL:4712	5	Glycosyltransferase family 20
+4932	CL:4725	6	mixed, incl. Zinc-finger double domain, and negative regulation of glycogen catabolic process
+4932	CL:4756	11	mixed, incl. SUR7/PalI family, and Protease A inhibitor IA3
+4932	CL:4758	5	10TM putative phosphate transporter, extracellular tail, and SUR7/PalI family
+4932	CL:4781	13	Galactose metabolism, and UDP-N-acetylglucosamine metabolic process
+4932	CL:4783	5	Galactose metabolism
+4932	CL:4795	6	UDP-N-acetylglucosamine metabolic process
+4932	CL:4811	195	cellular amino acid biosynthetic process, and nucleoside monophosphate metabolic process
+4932	CL:4812	190	cellular amino acid biosynthetic process, and nucleoside monophosphate metabolic process
+4932	CL:4813	139	cellular amino acid biosynthetic process, and one-carbon metabolic process
+4932	CL:4814	101	cellular amino acid biosynthetic process, and de novo IMP biosynthetic process
+4932	CL:4815	83	Amino-acid biosynthesis, and de novo IMP biosynthetic process
+4932	CL:4816	60	Amino-acid biosynthesis, and de novo IMP biosynthetic process
+4932	CL:4817	47	Amino-acid biosynthesis, and de novo IMP biosynthetic process
+4932	CL:4818	41	mixed, incl. branched-chain amino acid biosynthetic process, and de novo IMP biosynthetic process
+4932	CL:4819	21	Branched-chain amino acid biosynthesis, and threonine metabolic process
+4932	CL:4820	13	Branched-chain amino acid biosynthesis
+4932	CL:4822	5	Isoleucine biosynthesis
+4932	CL:4846	5	Threonine biosynthesis
+4932	CL:4860	20	de novo IMP biosynthetic process, and Histidine biosynthesis
+4932	CL:4862	11	Histidine biosynthesis, and Tryptophan biosynthesis
+4932	CL:4864	5	Histidine biosynthesis
+4932	CL:4885	5	de novo IMP biosynthetic process
+4932	CL:4899	6	Serine biosynthesis, and Aluminium induced protein 
+4932	CL:49	6343	biological_process
+4932	CL:4911	10	chorismate metabolic process, and ADC synthase
+4932	CL:4913	5	L-phenylalanine biosynthetic process, and Chorismate synthase
+4932	CL:4935	23	lysine biosynthetic process, and arginine biosynthetic process
+4932	CL:4937	10	arginine biosynthetic process
+4932	CL:4939	5	Glutamate degradation VIII
+4932	CL:4963	7	Lysine biosynthesis
+4932	CL:498	6	mixed, incl. Peptide chain elongation, and Translationally controlled tumour protein
+4932	CL:4981	17	one-carbon metabolic process
+4932	CL:4982	10	one-carbon metabolic process
+4932	CL:4984	5	Glycine degradation, and methylenetetrahydrofolate dehydrogenase (NAD+) activity
+4932	CL:5001	7	folic acid-containing compound biosynthetic process
+4932	CL:5015	38	sulfur amino acid metabolic process, and glutathione catabolic process
+4932	CL:5016	30	Methionine biosynthesis, and Methionine degradation
+4932	CL:5019	12	homocysteine metabolic process, and Methionine degradation
+4932	CL:5021	5	Homocysteine and cysteine interconversion
+4932	CL:5033	5	S-adenosylmethionine metabolic process
+4932	CL:5048	14	Cysteine biosynthesis, and siroheme metabolic process
+4932	CL:5051	5	Sulfate assimilation pathway II
+4932	CL:5066	5	Cbf1-Met4-Met28 complex, and regulation of sulfur amino acid metabolic process
+4932	CL:5076	5	Glutathione synthesis and recycling
+4932	CL:5090	51	nucleoside monophosphate metabolic process, and L-methionine salvage from methylthioadenosine
+4932	CL:5091	37	nucleoside monophosphate metabolic process, and pyrimidine nucleoside triphosphate metabolic process
+4932	CL:5092	25	Metabolism of nucleotides, and purine nucleotide salvage
+4932	CL:5094	13	AMP metabolic process, and nucleoside monophosphate phosphorylation
+4932	CL:5097	6	AMP metabolic process
+4932	CL:512	15	cytosolic small ribosomal subunit
+4932	CL:5127	6	GMP biosynthesis, and CTP synthase
+4932	CL:5141	12	Pyrimidine biosynthesis, and CTP salvage
+4932	CL:5144	5	de novo UMP biosynthetic process
+4932	CL:5164	14	mixed, incl. Polyamine biosynthesis, and Methionine salvage pathway
+4932	CL:5165	8	Polyamine biosynthesis, and Hypusine synthesis from eIF5A-lysine
+4932	CL:5181	5	Methionine salvage pathway
+4932	CL:5191	5	ATP adenylyltransferase, and FHIT family
+4932	CL:5200	30	NAD biosynthetic process, and NUDIX domain
+4932	CL:5202	22	NAD biosynthetic process, and Nicotinate and nicotinamide metabolism
+4932	CL:5204	11	NAD biosynthetic process
+4932	CL:5207	5	NAD biosynthesis, and Nicotinate phosphoribosyltransferase-like, C-terminal
+4932	CL:5231	6	kynurenine metabolic process
+4932	CL:5248	6	NUDIX domain
+4932	CL:5259	43	mixed, incl. Panothenate and coenzyme A biosynthesis, and Riboflavin, FMN, and FAD biosynthesis
+4932	CL:5260	32	mixed, incl. Panothenate and coenzyme A biosynthesis, and Riboflavin, FMN, and FAD biosynthesis
+4932	CL:5261	20	Riboflavin, FMN, and FAD biosynthesis, and NAD(P)H dehydrogenase (quinone) activity
+4932	CL:5262	14	Riboflavin, FMN, and FAD biosynthesis, and Electron transfer flavoprotein domain
+4932	CL:5265	5	Riboflavin biosynthesis
+4932	CL:5276	7	mixed, incl. Electron transfer flavoprotein domain, and Vitamin B2 (riboflavin) metabolism
+4932	CL:5289	6	NAD(P)H dehydrogenase (quinone) activity, and ICln/Lot5
+4932	CL:5300	12	Panothenate and coenzyme A biosynthesis
+4932	CL:5302	6	CoA-synthesizing protein complex
+4932	CL:5323	11	mixed, incl. Biotin metabolism, and biotin transport
+4932	CL:5327	5	Biotin biosynthesis, and biotin transport
+4932	CL:5345	42	mixed, incl. thiamine biosynthetic process, and vitamin B6 metabolic process
+4932	CL:5346	34	thiamine biosynthetic process, and vitamin B6 metabolic process
+4932	CL:5348	13	pyridoxine metabolic process, and Ribose-phosphate pyrophosphokinase
+4932	CL:5349	7	Ribose-phosphate pyrophosphokinase, and D-ribose metabolic process
+4932	CL:5362	6	amine-lyase activity
+4932	CL:5380	17	Thiamine biosynthesis, and regulation of vitamin metabolic process
+4932	CL:5383	11	thiamine diphosphate metabolic process, and Thi4 family
+4932	CL:5388	6	thiamine diphosphate metabolic process
+4932	CL:54	6338	biological_process
+4932	CL:541	5	eukaryotic translation elongation factor 1 complex
+4932	CL:5415	5	uncharacterized
+4932	CL:5428	443	mitochondrial envelope, and inorganic ion homeostasis
+4932	CL:5429	292	mitochondrial inner membrane, and regulation of pH
+4932	CL:5430	271	mitochondrial inner membrane, and regulation of pH
+4932	CL:5431	220	mitochondrial inner membrane, and regulation of pH
+4932	CL:5432	190	inner mitochondrial membrane protein complex, and mitochondrion organization
+4932	CL:5434	139	Mitochondrion inner membrane, and outer mitochondrial membrane protein complex
+4932	CL:5435	72	protein localization to mitochondrion, and cristae formation
+4932	CL:5436	66	protein localization to mitochondrion, and MICOS complex
+4932	CL:5437	47	mitochondrial membrane organization, and TIM23 mitochondrial import inner membrane translocase complex
+4932	CL:5438	40	protein targeting to mitochondrion, and MICOS complex
+4932	CL:5439	21	outer mitochondrial membrane protein complex, and MICOS complex
+4932	CL:5440	15	outer mitochondrial membrane protein complex
+4932	CL:5441	10	mitochondrial outer membrane translocase complex, and SAM complex
+4932	CL:5443	5	mitochondrial outer membrane translocase complex
+4932	CL:5460	5	ERMES complex
+4932	CL:5469	6	MICOS complex
+4932	CL:5481	17	TIM23 mitochondrial import inner membrane translocase complex, and TIM22 mitochondrial import inner membrane insertion complex
+4932	CL:5486	6	TIM23 mitochondrial import inner membrane translocase complex
+4932	CL:5502	5	TIM22 mitochondrial import inner membrane insertion complex
+4932	CL:5517	7	mixed, incl. Prohibitin, and DNA transport
+4932	CL:5530	19	mixed, incl. protein insertion into membrane from inner side, and Peptidase M41
+4932	CL:5532	7	protein insertion into membrane from inner side, and Cox20
+4932	CL:5552	8	mixed, incl. m-AAA complex, and ATP-dependent peptidase activity
+4932	CL:5568	5	TP53 Regulates Transcription of Genes Involved in Cytochrome C Release, and Yeast mitochondrial distribution and morphology (MDM) proteins 
+4932	CL:5578	67	oxidative phosphorylation, and mitochondrial intermembrane space
+4932	CL:5579	45	oxidative phosphorylation, and NADH dehydrogenase activity
+4932	CL:5580	33	cytochrome complex, and Cytochrome c
+4932	CL:5583	27	cytochrome complex
+4932	CL:5587	13	respiratory chain complex IV, and Cytochrome b-c1 complex subunit 10, fungi
+4932	CL:5589	8	respiratory chain complex IV
+4932	CL:5617	10	mitochondrial electron transport, ubiquinol to cytochrome c
+4932	CL:5619	5	mitochondrial electron transport, ubiquinol to cytochrome c
+4932	CL:563	24	preribosome, large subunit precursor, and mature ribosome assembly
+4932	CL:5645	12	fumarate reductase complex, and respiratory chain complex II assembly
+4932	CL:5648	5	fumarate reductase complex
+4932	CL:566	18	preribosome, large subunit precursor
+4932	CL:5668	22	mixed, incl. respiratory chain complex IV assembly, and CHCH domain
+4932	CL:5669	13	mixed, incl. mitochondrial intermembrane space protein transporter complex, and copper chaperone activity
+4932	CL:5672	7	mitochondrial intermembrane space protein transporter complex, and thiol oxidase activity
+4932	CL:568	13	mixed, incl. 5S rRNA binding, and Circularly permuted (CP)-type guanine nucleotide-binding (G) domain
+4932	CL:5696	6	SCO1/SenC, and heme a metabolic process
+4932	CL:570	8	mixed, incl. eIF-6 family, and NGP1NT (NUC091) domain
+4932	CL:5716	48	proton-transporting two-sector ATPase complex, and proton-transporting V-type ATPase complex assembly
+4932	CL:5718	43	Hydrogen ion transport, and tRNA Aminoacylation
+4932	CL:5720	32	proton-transporting two-sector ATPase complex
+4932	CL:5721	17	proton-transporting ATP synthase complex
+4932	CL:5723	12	proton-transporting ATP synthase complex
+4932	CL:5724	6	Cristae formation
+4932	CL:5735	6	CF(0)
+4932	CL:5754	15	proton-transporting V-type ATPase complex
+4932	CL:5757	10	Insulin receptor recycling
+4932	CL:5791	5	tRNA Aminoacylation, and P-type ATPase, subfamily IIIA
+4932	CL:5811	30	mixed, incl. quinone metabolic process, and Hypoxia induced protein, domain
+4932	CL:5812	18	mixed, incl. Hypoxia induced protein, domain, and Altered inheritance of mitochondria protein 11
+4932	CL:5814	5	mixed, incl. Mitochondrial peculiar membrane protein 1, and cytoplasmic side of mitochondrial outer membrane
+4932	CL:5831	7	mixed, incl. Hypoxia induced protein, domain, and Respiratory complex factor Rcf3
+4932	CL:5848	11	Ubiquinone biosynthesis
+4932	CL:5852	6	Ubiquinone biosynthesis
+4932	CL:5870	51	mixed, incl. regulation of mitochondrial gene expression, and Group I intron splicing
+4932	CL:5871	38	mixed, incl. positive regulation of mitochondrial translation, and cytochrome complex assembly
+4932	CL:5872	20	mixed, incl. positive regulation of mitochondrial translation, and mitochondrial translational initiation
+4932	CL:5875	13	positive regulation of mitochondrial translation, and mitochondrial translational initiation
+4932	CL:5877	6	positive regulation of mitochondrial translation
+4932	CL:5891	5	mixed, incl. Formyl transferase, C-terminal, and Translation initiation factor IF-2, N-terminal
+4932	CL:59	6333	biological_process
+4932	CL:5911	18	cytochrome complex assembly, and Cyclic phosphodiesterase
+4932	CL:5913	10	respiratory chain complex III assembly, and mitochondrial mRNA catabolic process
+4932	CL:5914	5	respiratory chain complex III assembly
+4932	CL:5923	5	mixed, incl. mitochondrial mRNA catabolic process, and Cytochrome B pre-mRNA-processing protein 2
+4932	CL:5937	5	mixed, incl. Cyclic phosphodiesterase, and Phosphotransferase KptA/Tpt1
+4932	CL:5946	13	Group I intron splicing, and mitochondrial DNA-directed RNA polymerase complex
+4932	CL:5948	5	Homing endonuclease, LAGLIDADG
+4932	CL:5960	6	mitochondrial transcription, and mitochondrial degradosome
+4932	CL:5971	21	mixed, incl. regulation of mitochondrial translation, and Mitochondrial protein Pet20
+4932	CL:5972	16	mixed, incl. regulation of mitochondrial translation, and Mitochondrial protein Pet20
+4932	CL:5973	11	mixed, incl. negative regulation of mitochondrial translation, and Glutaredoxin-like
+4932	CL:5974	6	mixed, incl. negative regulation of mitochondrial translation, and Elongation factor 4
+4932	CL:5985	5	mixed, incl. Glutaredoxin-like, and Mitochondrial biogenesis AIM24
+4932	CL:5994	5	Mitochondrial protein Pet20, and Mitochondrial glycoprotein
+4932	CL:6	6388	biological_process
+4932	CL:6003	5	mixed, incl. Tma16 superfamily, and Domain of unknown function DUF1713
+4932	CL:6012	151	mixed, incl. transition metal ion homeostasis, and antioxidant activity
+4932	CL:6013	137	mixed, incl. transition metal ion homeostasis, and antioxidant activity
+4932	CL:6014	90	mixed, incl. iron-sulfur cluster assembly, and antioxidant activity
+4932	CL:6015	57	mixed, incl. iron-sulfur cluster assembly, and heme metabolic process
+4932	CL:6016	41	mixed, incl. iron-sulfur cluster assembly, and Lipoic acid metabolism
+4932	CL:6018	30	iron-sulfur cluster assembly, and Transcription factor AFT
+4932	CL:6019	25	iron-sulfur cluster assembly
+4932	CL:6020	14	iron-sulfur cluster assembly
+4932	CL:6022	8	Mitochondrial iron-sulfur cluster biogenesis, and NFU1-like
+4932	CL:6047	11	iron-sulfur cluster assembly, and Essential protein Yae1, N terminal
+4932	CL:6050	5	ATPase MipZ, and regulation of response to oxidative stress
+4932	CL:6068	5	Transcription factor AFT, and negative regulation of transcription regulatory region DNA binding
+4932	CL:6082	8	proton-transporting ATP synthase complex assembly, and Complex1_LYR-like
+4932	CL:6098	13	protoporphyrinogen IX metabolic process, and oligopeptide export from mitochondrion
+4932	CL:6102	8	protoporphyrinogen IX metabolic process
+4932	CL:6129	29	antioxidant activity, and oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor
+4932	CL:6132	19	antioxidant activity
+4932	CL:6134	12	Antioxidant, and thioredoxin-disulfide reductase activity
+4932	CL:6135	7	thioredoxin-disulfide reductase activity, and protein glutathionylation
+4932	CL:6148	5	Redoxin
+4932	CL:6176	5	oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor
+4932	CL:618	26	translation initiation factor activity
+4932	CL:6194	44	transition metal ion transport, and response to copper ion
+4932	CL:6195	24	zinc ion transport, and Copper transport
+4932	CL:6196	12	zinc ion transport
+4932	CL:6199	6	Zinc transport
+4932	CL:620	21	Initiation factor
+4932	CL:6219	12	Copper transport, and response to copper ion
+4932	CL:622	12	multi-eIF complex, and RLI, domain 1
+4932	CL:6221	5	Copper transport
+4932	CL:624	6	translation preinitiation complex
+4932	CL:6243	16	iron ion transport
+4932	CL:6244	10	siderophore transport, and ferroxidase complex
+4932	CL:6246	5	ferroxidase complex, and siderophore transmembrane transport
+4932	CL:6263	6	iron ion transmembrane transporter activity, and NRAMP family
+4932	CL:6287	10	Apoptosis, and apoptotic nuclear changes
+4932	CL:6290	5	Apoptosis
+4932	CL:6313	26	Mitochondrial carrier protein, and Mitochondrial pyruvate carrier
+4932	CL:6315	19	Mitochondrial carrier protein, and Mitochondrial pyruvate carrier
+4932	CL:6317	12	pyruvate transmembrane transporter activity, and Mitochondrial carrier protein
+4932	CL:6319	5	mixed, incl. guanine nucleotide transport, and alpha-ketoglutarate transport
+4932	CL:6355	5	mixed, incl. CLU domain, and KIN17-like protein
+4932	CL:6364	242	Lipid metabolism, and microbody membrane
+4932	CL:6365	196	Lipid metabolism, and microbody membrane
+4932	CL:6366	145	Lipid metabolism, and palmitoyltransferase complex
+4932	CL:6367	74	Lipid biosynthesis, and Sphingolipid metabolism
+4932	CL:6368	44	ergosterol biosynthetic process, and Fatty acid biosynthesis
+4932	CL:6369	29	ergosterol biosynthetic process, and IPT domain
+4932	CL:6370	23	ergosterol biosynthetic process
+4932	CL:6372	12	Steroid biosynthesis
+4932	CL:6373	6	Cholesterol biosynthesis
+4932	CL:6384	6	Sterol metabolism
+4932	CL:64	6328	biological_process
+4932	CL:6400	5	Synthesis and degradation of ketone bodies, and Mvd1, C-terminal
+4932	CL:6415	6	IPT domain, and Cytochrome b5, heme-binding site
+4932	CL:6426	15	Fatty acid biosynthesis
+4932	CL:6428	7	Fatty acid biosynthesis, initial steps
+4932	CL:6444	6	very long-chain fatty acid biosynthetic process
+4932	CL:6456	26	Sphingolipid metabolism, and palmitoyltransferase complex
+4932	CL:6457	19	Sphingolipid metabolism, and inositol phosphoceramide metabolic process
+4932	CL:6458	13	Sphingolipid metabolism
+4932	CL:6460	6	Sphingolipid de novo biosynthesis
+4932	CL:6474	5	acyl-CoA ceramide synthase complex, and Fatty acid hydroxylase
+4932	CL:648	7	eukaryotic translation initiation factor 4F complex
+4932	CL:6483	6	inositol phosphoceramide metabolic process
+4932	CL:6495	5	SPOTS complex
+4932	CL:6514	71	Glycerophospholipid metabolism, and Lipid degradation
+4932	CL:6515	66	Glycerophospholipid metabolism, and neutral lipid metabolic process
+4932	CL:6516	59	Glycerophospholipid metabolism, and neutral lipid metabolic process
+4932	CL:6517	35	Glycerolipid metabolism, and phospholipase activity
+4932	CL:6518	24	Glycerolipid metabolism, and Partial alpha/beta-hydrolase lipase region
+4932	CL:6519	14	neutral lipid metabolic process, and Partial alpha/beta-hydrolase lipase region
+4932	CL:6521	6	Triacylglycerol lipase, and acylglycerol catabolic process
+4932	CL:6536	5	sterol O-acyltransferase activity, and acylglycerol biosynthetic process
+4932	CL:6547	6	1-acylglycerol-3-phosphate O-acyltransferase activity, and glycerone-phosphate O-acyltransferase activity
+4932	CL:6565	11	Acyl chain remodeling of CL, and glycerophospholipid catabolic process
+4932	CL:6567	5	lysophospholipase activity
+4932	CL:6586	24	Phospholipid biosynthesis
+4932	CL:6587	17	Phospholipid biosynthesis
+4932	CL:6588	11	phosphatidylcholine biosynthetic process
+4932	CL:6590	5	Phospholipid biosynthesis
+4932	CL:6609	6	phosphatidylglycerol biosynthetic process
+4932	CL:6620	7	mixed, incl. inositol biosynthetic process, and choline transport
+4932	CL:6634	5	lipid droplet organization
+4932	CL:6646	5	mixed, incl. Beta-lactamase superfamily domain, and phosphatidylglycerol catabolic process
+4932	CL:6656	48	microbody membrane, and Fatty acid oxidation
+4932	CL:6657	38	Peroxisome
+4932	CL:6658	25	peroxisomal transport
+4932	CL:6660	16	protein targeting to peroxisome
+4932	CL:6662	11	Pex17p-Pex14p docking complex
+4932	CL:6665	5	Pex, N-terminal, and Peroxisomal membrane protein 14
+4932	CL:6698	5	fatty acid transmembrane transport, and AAA domain
+4932	CL:670	84	organellar ribosome
+4932	CL:6708	11	Fatty acid oxidation, and Beta-oxidation of pristanoyl-CoA
+4932	CL:6711	5	Beta-oxidation of pristanoyl-CoA, and 2,4-dienoyl-CoA reductase (NADPH) activity
+4932	CL:672	79	organellar ribosome
+4932	CL:6732	10	Peroxin domain, and peroxisome inheritance
+4932	CL:6733	5	Peroxin domain
+4932	CL:6742	5	peroxisome inheritance, and Peroxisomal biogenesis factor 11
+4932	CL:675	72	organellar ribosome
+4932	CL:6756	46	mixed, incl. endoplasmic reticulum subcompartment, and nucleus-vacuole junction
+4932	CL:6757	35	mixed, incl. endoplasmic reticulum subcompartment, and nucleus-vacuole junction
+4932	CL:6758	29	mixed, incl. endoplasmic reticulum subcompartment, and CRAL/TRIO, N-terminal domain
+4932	CL:6759	22	Lipid transport, and endoplasmic reticulum membrane organization
+4932	CL:676	42	organellar large ribosomal subunit
+4932	CL:6760	17	oxysterol binding, and endoplasmic reticulum membrane organization
+4932	CL:6762	8	oxysterol binding, and FFAT motif binding
+4932	CL:677	30	organellar large ribosomal subunit
+4932	CL:678	23	organellar large ribosomal subunit
+4932	CL:6784	5	nucleus-vacuole junction
+4932	CL:6793	5	phosphatidylinositol transfer activity
+4932	CL:6804	5	endoplasmic reticulum tubular network organization
+4932	CL:681	17	organellar large ribosomal subunit
+4932	CL:6815	6	mixed, incl. Actin patch protein 1, and Stress response protein NST1
+4932	CL:682	10	organellar large ribosomal subunit
+4932	CL:6826	11	VASt domain, and ML domain
+4932	CL:6828	5	VASt domain
+4932	CL:683	5	mixed, incl. Ribosomal protein S18, and Ribosomal protein L16
+4932	CL:6847	1206	membrane, and regulation of molecular function
+4932	CL:6848	1152	membrane, and regulation of molecular function
+4932	CL:6849	952	mixed, incl. vesicle-mediated transport, and cell communication
+4932	CL:6850	946	mixed, incl. vesicle-mediated transport, and cell communication
+4932	CL:6851	916	mixed, incl. vesicle-mediated transport, and cell communication
+4932	CL:6852	461	mixed, incl. cell communication, and regulation of phosphate metabolic process
+4932	CL:6853	412	mixed, incl. cell communication, and mitotic cell cycle
+4932	CL:6854	395	mixed, incl. signaling, and DNA-binding transcription factor activity
+4932	CL:6855	382	mixed, incl. signaling, and DNA-binding transcription factor activity
+4932	CL:6856	252	signaling, and DNA-binding transcription factor activity
+4932	CL:6857	141	MAPK signaling pathway - yeast, and cellular bud neck
+4932	CL:6858	134	MAPK signaling pathway - yeast, and cytoskeleton-dependent cytokinesis
+4932	CL:6859	67	mixed, incl. cytoskeleton-dependent cytokinesis, and septin cytoskeleton
+4932	CL:6860	34	establishment of cell polarity, and formin-nucleated actin cable assembly
+4932	CL:6861	24	mixed, incl. budding cell apical bud growth, and CRIB domain
+4932	CL:6863	13	mixed, incl. CD28 dependent Vav1 pathway, and PB1 domain
+4932	CL:6865	7	mixed, incl. split septin rings, and Cdc42
+4932	CL:6897	5	polarisome
+4932	CL:69	6323	biological_process
+4932	CL:6909	6	axial cellular bud site selection
+4932	CL:692	5	mixed, incl. Ribosomal protein L36, and Ribosomal L27 protein
+4932	CL:6927	33	septin cytoskeleton, and cytokinetic process
+4932	CL:6928	19	cytokinetic process, and Hippo signaling pathway - multiple species
+4932	CL:6929	10	Hippo signaling pathway - multiple species, and Bfa1-Bub2 complex
+4932	CL:6930	5	Bfa1-Bub2 complex, and protein localization to spindle pole body
+4932	CL:6939	5	Hippo signaling pathway - multiple species
+4932	CL:6949	8	myosin II complex, and HICS complex
+4932	CL:6966	11	cellular bud neck septin ring, and morphogenesis checkpoint
+4932	CL:6970	5	Septin
+4932	CL:6993	65	MAPK signaling pathway - yeast, and RhoGAP domain
+4932	CL:6994	40	osmosensory signaling pathway, and MAPK signaling pathway
+4932	CL:6996	19	osmosensory signaling pathway
+4932	CL:6997	11	phosphorelay signal transduction system, and osmosensor activity
+4932	CL:6999	5	Mitogen-activated protein (MAP) kinase kinase kinase Ssk2/Ssk22, and osmosensor activity
+4932	CL:701	7	organellar large ribosomal subunit
+4932	CL:7020	5	PTP type protein phosphatase, and Mitogen-activated protein (MAP) kinase p38-like
+4932	CL:7040	14	pheromone-dependent signal transduction involved in conjugation with cellular fusion, and Ste12p-Dig1p-Dig2p complex
+4932	CL:7043	5	GTPase complex, and positive regulation of protein export from nucleus
+4932	CL:7058	5	Ste12p-Dig1p-Dig2p complex, and TEA domain
+4932	CL:7073	25	mixed, incl. regulation of fungal-type cell wall organization, and WSC domain
+4932	CL:7074	19	mixed, incl. regulation of fungal-type cell wall organization, and WSC domain
+4932	CL:7075	13	autophagy of peroxisome, and MAP kinase tyrosine phosphatase activity
+4932	CL:7076	7	mixed, incl. NOD1/2 Signaling Pathway, and NIK-->noncanonical NF-kB signaling
+4932	CL:7089	6	WSC domain, and Mid2 domain
+4932	CL:7100	6	negative regulation of protein kinase C signaling, and CNH domain
+4932	CL:7111	6	RhoGAP domain, and Rho (Ras homology) subfamily of Ras-like small GTPases
+4932	CL:7126	6	Kelch-containing formin regulatory complex, and Kinase associated domain 1
+4932	CL:7138	111	mixed, incl. DNA-binding transcription factor activity, and Integration of energy metabolism
+4932	CL:7139	56	mixed, incl. Longevity regulating pathway - multiple species, and Energy dependent regulation of mTOR by LKB1-AMPK
+4932	CL:7140	31	mixed, incl. Energy dependent regulation of mTOR by LKB1-AMPK, and mannose transmembrane transport
+4932	CL:7141	17	Energy dependent regulation of mTOR by LKB1-AMPK, and carbon utilization
+4932	CL:7142	11	Energy dependent regulation of mTOR by LKB1-AMPK, and protein localization to septin ring
+4932	CL:7144	5	nucleotide-activated protein kinase complex
+4932	CL:7164	5	carbon catabolite repression of transcription from RNA polymerase II promoter, and regulation of ethanol catabolic process
+4932	CL:7176	11	mixed, incl. Std1/Mth1, and Glucose sensor Rgt2/Snf3
+4932	CL:7179	5	Std1/Mth1, and Glucose sensor Rgt2/Snf3
+4932	CL:7201	25	mixed, incl. cAMP, and regulation of lyase activity
+4932	CL:7203	16	cAMP, and regulation of lyase activity
+4932	CL:7205	11	cAMP, and regulation of lyase activity
+4932	CL:7207	5	PKA activation
+4932	CL:7237	7	age-dependent general metabolic decline involved in chronological cell aging, and Endosulphine
+4932	CL:724	6	mixed, incl. Ribosomal protein L19, and Ribosomal protein L33
+4932	CL:7250	55	mixed, incl. regulation of transcription involved in G1/S transition of mitotic cell cycle, and Basic-leucine zipper domain
+4932	CL:7251	43	mixed, incl. regulation of transcription involved in G1/S transition of mitotic cell cycle, and Basic-leucine zipper domain
+4932	CL:7252	22	Basic-leucine zipper domain, and CCAAT-binding factor complex
+4932	CL:7254	15	Basic-leucine zipper domain, and KilA, N-terminal/APSES-type HTH, DNA-binding
+4932	CL:7256	10	bZIP transcription factor, and KilA, N-terminal/APSES-type HTH, DNA-binding
+4932	CL:7258	5	hyperosmotic salinity response, and Aft1 osmotic stress response (OSM) domain
+4932	CL:7297	17	regulation of transcription involved in G1/S transition of mitotic cell cycle, and positive regulation of transcription involved in G2/M transition of mitotic cell cycle
+4932	CL:7299	5	positive regulation of transcription involved in G2/M transition of mitotic cell cycle, and positive regulation of transcription involved in exit from mitosis
+4932	CL:7316	5	SBF transcription complex, and Cyclin-F, metazoan
+4932	CL:7336	12	mixed, incl. Nutrient control of ribosomal gene expression, and Myb-like DNA-binding domain
+4932	CL:7338	7	mixed, incl. positive regulation of ribosomal protein gene transcription by RNA polymerase II, and Sin3 binding protein
+4932	CL:7359	130	mixed, incl. phosphatase complex, and TOR signaling
+4932	CL:736	12	organellar large ribosomal subunit
+4932	CL:7360	98	mixed, incl. phosphatase complex, and TOR signaling
+4932	CL:7361	64	mixed, incl. phosphatase complex, and protein serine/threonine phosphatase activity
+4932	CL:7362	42	phosphatase complex, and Calcineurin-like phosphoesterase
+4932	CL:7365	33	phosphatase complex, and SIT4 phosphatase-associated protein
+4932	CL:7366	17	phosphatase complex
+4932	CL:7368	7	protein phosphatase 4 complex, and Fungal protein of unknown function (DUF1752)
+4932	CL:738	7	mixed, incl. Mitochondrial ribosomal protein L31, and Ribosomal protein L20, mitochondrial
+4932	CL:7384	8	CBM21 domain superfamily, and sodium ion homeostasis
+4932	CL:7399	16	protein phosphatase type 2A complex, and SIT4 phosphatase-associated protein
+4932	CL:74	6318	biological_process
+4932	CL:7401	10	protein phosphatase type 2A complex, and Signal transduction inhibitor
+4932	CL:7404	5	protein phosphatase type 2A complex
+4932	CL:7436	5	mixed, incl. Protein of unknown function DUF4667, and Respiratory growth induced protein 1
+4932	CL:7445	22	mixed, incl. PPM-type phosphatase domain, and PDK/BCKDK protein kinase
+4932	CL:7448	10	mixed, incl. regulation of pyruvate dehydrogenase activity, and regulation of (1->6)-beta-D-glucan biosynthetic process
+4932	CL:7450	5	positive regulation of oxidoreductase activity, and Protein phosphatase 2C
+4932	CL:7474	7	mixed, incl. Domain of unknown function, and ABC1 family
+4932	CL:7488	34	TOR complex, and regulation of TOR signaling
+4932	CL:7489	19	TOR complex, and PDPK1 family
+4932	CL:7491	13	TOR complex, and response to acetate
+4932	CL:7495	5	TORC2 complex
+4932	CL:7527	13	regulation of TOR signaling
+4932	CL:7529	5	EGO complex
+4932	CL:7542	5	extrinsic component of fungal-type vacuolar membrane
+4932	CL:7555	32	mixed, incl. potassium ion transport, and calcium ion transport
+4932	CL:7556	16	potassium ion transport, and regulation of iron-sulfur cluster assembly
+4932	CL:7559	10	potassium ion transport
+4932	CL:7561	5	monovalent cation:proton antiporter activity
+4932	CL:7589	13	Calcium transport, and calcineurin complex
+4932	CL:759	30	organellar small ribosomal subunit
+4932	CL:7590	7	Calcium transport
+4932	CL:7604	5	calcineurin complex, and Calcipressin
+4932	CL:7618	13	mixed, incl. Helix-loop-helix DNA-binding domain, and mitochondria-nucleus signaling pathway
+4932	CL:7620	5	mitochondria-nucleus signaling pathway
+4932	CL:763	25	organellar small ribosomal subunit
+4932	CL:764	19	organellar small ribosomal subunit
+4932	CL:7643	17	Palmitate, and Proteolipid membrane potential modulator
+4932	CL:7645	12	mixed, incl. DHHC palmitoyltransferase, and hexose mediated signaling
+4932	CL:7647	5	DHHC palmitoyltransferase
+4932	CL:765	12	organellar small ribosomal subunit
+4932	CL:767	5	mixed, incl. Ribosomal protein S5, and Ribosomal protein S19
+4932	CL:7676	49	mixed, incl. cyclin-dependent protein kinase holoenzyme complex, and acid phosphatase activity
+4932	CL:7677	41	cyclin-dependent protein kinase holoenzyme complex, and acid phosphatase activity
+4932	CL:7680	19	mixed, incl. acid phosphatase activity, and inorganic phosphate transmembrane transporter activity
+4932	CL:7681	12	mixed, incl. inorganic phosphate transmembrane transporter activity, and Pho85-Pho80 CDK-cyclin complex
+4932	CL:7684	7	Pho85-Pho80 CDK-cyclin complex, and inorganic phosphate transmembrane transporter activity
+4932	CL:7706	5	Histidine acid phosphatase, eukaryotic
+4932	CL:7724	14	cyclin-dependent protein kinase holoenzyme complex
+4932	CL:7726	7	Cyclin, and negative regulation of macroautophagy
+4932	CL:7742	5	CTDK-1 complex, and positive regulation of histone H3-K4 methylation
+4932	CL:7759	5	inositol phosphate biosynthetic process
+4932	CL:7773	455	vesicle-mediated transport, and Autophagy
+4932	CL:7774	409	vesicle-mediated transport, and Autophagy
+4932	CL:7775	365	vesicle-mediated transport, and phagophore assembly site
+4932	CL:7776	346	vesicle-mediated transport, and phagophore assembly site
+4932	CL:7777	323	vesicle-mediated transport, and phagophore assembly site
+4932	CL:7778	268	vesicle-mediated transport, and regulation of actin filament polymerization
+4932	CL:7779	176	Golgi vesicle transport, and Rab regulation of trafficking
+4932	CL:7780	165	Golgi vesicle transport, and regulation of vesicle-mediated transport
+4932	CL:7781	122	Golgi vesicle transport, and SNARE complex
+4932	CL:7782	90	ER to Golgi Anterograde Transport, and vesicle docking
+4932	CL:7783	54	vesicle fusion, and exocytic process
+4932	CL:7784	37	vesicle fusion
+4932	CL:7787	25	vesicle fusion
+4932	CL:7789	18	SNARE complex
+4932	CL:7790	11	Helical region found in SNAREs, and Synaptobrevin/Vesicle-associated membrane protein
+4932	CL:7792	5	SNARE complex disassembly, and Disinhibition of SNARE formation
+4932	CL:7811	7	mixed, incl. Syntaxin-like protein, and Synaptobrevin
+4932	CL:7825	6	vesicle fusion with Golgi apparatus, and pre-mRNA catabolic process
+4932	CL:7843	6	Dsl1/NZR complex, and vesicle fusion with endoplasmic reticulum
+4932	CL:7857	17	mixed, incl. vesicle tethering involved in exocytosis, and membrane addition at site of cytokinesis
+4932	CL:7860	10	vesicle tethering involved in exocytosis, and GDP/GTP exchange factor Sec2p
+4932	CL:7862	5	vesicle tethering involved in exocytosis
+4932	CL:789	5	mixed, incl. Ribosomal protein S6, and Ribosomal protein S16
+4932	CL:7890	36	ER to Golgi Anterograde Transport
+4932	CL:7891	20	COPI-mediated anterograde transport
+4932	CL:7892	12	COPI vesicle coat, and ArfGAP domain superfamily
+4932	CL:7894	7	COPI vesicle coat
+4932	CL:79	6313	biological_process
+4932	CL:7917	5	TMP21-related
+4932	CL:7930	16	mixed, incl. COPII vesicle coat, and protein demannosylation
+4932	CL:7932	10	COPII vesicle coat, and Sar guanyl-nucleotide exchange factor activity
+4932	CL:7935	5	COPII vesicle coat
+4932	CL:7952	5	protein demannosylation, and Rer1 family
+4932	CL:7962	28	vesicle tethering complex
+4932	CL:7963	17	Golgi transport complex, and GARP complex
+4932	CL:7965	5	Retrograde transport at the Trans-Golgi-Network
+4932	CL:7982	6	Golgi transport complex
+4932	CL:7998	7	TRAPPIII protein complex
+4932	CL:801	6	organellar small ribosomal subunit
+4932	CL:8024	43	cytosolic transport, and Rab GTPase binding
+4932	CL:8025	31	regulation of vesicle fusion, and RAB geranylgeranylation
+4932	CL:8026	23	Golgi to endosome transport, and RAB geranylgeranylation
+4932	CL:8028	12	regulation of SNARE complex assembly, and protein localization to endosome
+4932	CL:8030	6	HOPS complex
+4932	CL:8057	6	Rab-protein geranylgeranyltransferase complex, and Rab GDI protein
+4932	CL:8072	6	Rab-GTPase-TBC domain
+4932	CL:8086	12	retromer complex, and PX domain
+4932	CL:8090	5	retromer complex
+4932	CL:8110	10	Sec7 domain, and ARF-like small GTPases
+4932	CL:8112	5	Guanine nucleotide exchange factor, N-terminal, and ARF-like small GTPases
+4932	CL:8130	92	endocytic patch, and AP-type membrane coat adaptor complex
+4932	CL:8131	74	endocytic patch, and AP-type membrane coat adaptor complex
+4932	CL:8133	51	endocytic patch, and Tropomyosin
+4932	CL:8134	38	endocytic patch
+4932	CL:8136	32	positive regulation of actin filament polymerization, and clathrin binding
+4932	CL:8137	25	actin cortical patch
+4932	CL:8140	14	actin cortical patch organization, and lipid tube assembly
+4932	CL:8142	6	actin cortical patch assembly
+4932	CL:8156	6	lipid tube assembly, and ENTH domain
+4932	CL:8172	6	positive regulation of actin nucleation, and Mti1, SH3 domain
+4932	CL:8187	6	Arp2/3 protein complex
+4932	CL:8200	5	SH3YL1-like, SYLF domain, and Sla1
+4932	CL:8209	13	actin filament binding, and Profilin
+4932	CL:8212	5	actin filament depolymerization, and Coronin
+4932	CL:8225	5	Tropomyosin, and Profilin
+4932	CL:8241	19	AP-type membrane coat adaptor complex, and Clathrin light chain
+4932	CL:8243	13	AP-type membrane coat adaptor complex
+4932	CL:8245	5	AP-1 adaptor complex
+4932	CL:8279	15	Synthesis of PIPs at the plasma membrane, and inositol lipid-mediated signaling
+4932	CL:8281	10	Synthesis of PIPs at the plasma membrane, and Synthesis of PIPs at the ER membrane
+4932	CL:8284	5	Synthesis of PIPs at the ER membrane, and Synthesis of PIPs in the nucleus
+4932	CL:8313	55	Autophagy, and mitochondrial fission
+4932	CL:8316	37	phagophore assembly site membrane, and phosphatidylinositol 3-kinase complex
+4932	CL:8317	28	late nucleophagy, and phagophore assembly site membrane
+4932	CL:8319	17	late nucleophagy
+4932	CL:8321	12	late nucleophagy
+4932	CL:8323	5	reticulophagy, and Phosphoinositide 3-kinase C2
+4932	CL:8335	5	Atg12-Atg5-Atg16 complex, and Atg12 transferase activity
+4932	CL:8356	6	protein targeting to vacuole involved in autophagy, and reticulophagy
+4932	CL:837	278	nucleolus, and tRNA modification
+4932	CL:8373	5	phosphatidylinositol 3-kinase complex, class III, type I
+4932	CL:838	238	nucleolus, and transcription by RNA polymerase III
+4932	CL:839	233	Ribosome biogenesis, and nuclear ncRNA surveillance
+4932	CL:8394	12	mitochondrial fission, and mitochondrial fusion
+4932	CL:8396	6	mitochondrial fusion, and peroxisome fission
+4932	CL:84	6308	biological_process
+4932	CL:840	209	Ribosome biogenesis, and transcription by RNA polymerase III
+4932	CL:8422	23	integral component of Golgi membrane, and Yip1 domain
+4932	CL:8423	14	integral component of Golgi membrane, and Yip1 domain
+4932	CL:8425	5	mixed, incl. COPI associated protein, and TVP18/Calcium channel flower
+4932	CL:843	175	Ribosome biogenesis, and nucleolus
+4932	CL:8439	5	Yip1 domain, and Yif1 family
+4932	CL:844	161	Ribosome biogenesis, and protein kinase CK2 complex
+4932	CL:8451	6	Emp46/Emp47, and Endoplasmic reticulum vesicle transporter 
+4932	CL:846	152	Ribosome biogenesis
+4932	CL:8468	15	phospholipid translocation, and Protein dopey
+4932	CL:847	147	Ribosome biogenesis
+4932	CL:8470	10	phospholipid translocation
+4932	CL:8472	5	Phospholipid-transporting P-type ATPase, and positive regulation of lipid transport
+4932	CL:848	134	Ribosome biogenesis
+4932	CL:850	128	Ribosome biogenesis
+4932	CL:8504	44	mixed, incl. peptide pheromone maturation, and exopeptidase activity
+4932	CL:8505	25	mixed, incl. regulation of mating-type specific transcription, DNA-templated, and peptide pheromone maturation
+4932	CL:8506	16	mixed, incl. regulation of mating-type specific transcription, DNA-templated, and Pheromone
+4932	CL:8507	11	mixed, incl. Pheromone, and peptide receptor activity
+4932	CL:8509	5	Mating hormone A-factor 1&2, and odorant binding
+4932	CL:851	120	Ribosome biogenesis
+4932	CL:8519	5	mating, and Pheromone A receptor
+4932	CL:852	64	90S preribosome, and endonucleolytic cleavage in 5-ETS of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+4932	CL:8528	5	Homeobox KN domain
+4932	CL:853	59	small-subunit processome, and 90S preribosome
+4932	CL:8538	6	protein prenyltransferase activity, and CAAX-box protein maturation
+4932	CL:855	54	small-subunit processome, and 90S preribosome
+4932	CL:8554	19	exopeptidase activity, and Xylanase inhibitor N-terminal
+4932	CL:8555	13	serine-type peptidase activity, and Xylanase inhibitor N-terminal
+4932	CL:8556	7	mixed, incl. Carboxypeptidase, and Peptidase M28
+4932	CL:856	28	small-subunit processome
+4932	CL:8569	6	peptide pheromone maturation, and Signaling mucin MSB2
+4932	CL:857	22	small-subunit processome
+4932	CL:858	17	small-subunit processome
+4932	CL:8580	6	metalloaminopeptidase activity, and Lactose synthesis
+4932	CL:8591	46	mixed, incl. ATP export, and late endosome to vacuole transport via multivesicular body sorting pathway
+4932	CL:8592	38	mixed, incl. ATP export, and Snf7
+4932	CL:8594	32	mixed, incl. ATP export, and Snf7
+4932	CL:8595	24	ATP export, and Snf7
+4932	CL:8597	19	ESCRT complex, and Snf7
+4932	CL:8599	11	ESCRT complex
+4932	CL:860	7	mixed, incl. Mpp10 complex, and EMG1/NEP1 methyltransferase
+4932	CL:8602	5	ESCRT II complex, and VPS28 protein
+4932	CL:8624	5	mixed, incl. Vta1 like, and MIT domain superfamily
+4932	CL:8644	5	Calpain-like thiol protease family., and response to alkaline pH
+4932	CL:8658	5	mixed, incl. Protein IVY1, and ER protein Pkr1
+4932	CL:8668	6	mixed, incl. Vps55/Vps68 complex, and Phenazine biosynthesis-like protein
+4932	CL:8682	30	mixed, incl. Tyrosine phosphatase family, and SKP1/BTB/POZ domain superfamily
+4932	CL:8684	20	mixed, incl. Tyrosine phosphatase family, and BTB/POZ domain
+4932	CL:8687	14	mixed, incl. Tyrosine phosphatase family, and BTB/POZ domain
+4932	CL:8692	5	mixed, incl. BTB/POZ domain, and sphingoid catabolic process
+4932	CL:8705	5	Tyrosine phosphatase family
+4932	CL:8727	5	mixed, incl. Aluminium activated malate transporter, and Lipase Rog1
+4932	CL:8742	5	mixed, incl. Kelch motif, and SIT4 phosphatase-associated protein
+4932	CL:8752	200	mixed, incl. glycosylation, and cell wall
+4932	CL:8753	111	glycosylation, and GPI anchor metabolic process
+4932	CL:8755	104	glycosylation, and GPI anchor metabolic process
+4932	CL:8757	74	protein glycosylation
+4932	CL:8758	45	N-Glycan biosynthesis, and GDP-mannose metabolic process
+4932	CL:876	8	t-UTP complex, and Pwp2p-containing subcomplex of 90S preribosome
+4932	CL:8760	30	N-Glycan biosynthesis
+4932	CL:8761	22	N-Glycan biosynthesis
+4932	CL:8762	13	oligosaccharide-lipid intermediate biosynthetic process
+4932	CL:8764	5	GPI mannosyltransferase, and ALG3 protein
+4932	CL:8776	6	UDP-N-acetylglucosamine transferase complex, and Glycosyl transferase, family 1
+4932	CL:8787	9	oligosaccharyltransferase complex
+4932	CL:8804	8	Synthesis of Dolichyl-phosphate, and DPM1-like
+4932	CL:8824	12	beta-glucan biosynthetic process, and Seven-hairpin glycosidases
+4932	CL:8827	6	mixed, incl. glucosidase II complex, and Protein Kre1
+4932	CL:8848	27	mannosyltransferase activity
+4932	CL:8850	20	mannosyltransferase complex, and alpha-1,2-mannosyltransferase activity
+4932	CL:8851	12	mannan polymerase complex, and mannan metabolic process
+4932	CL:8854	5	mannan polymerase complex
+4932	CL:8875	7	Protein O-mannosyl-transferase, C-terminal four TM domain, and Glycosyl transferase, family 15
+4932	CL:8892	5	Alpha-mannosyltransferase, and Glycosyl transferase, family 15
+4932	CL:89	6303	biological_process
+4932	CL:8908	26	GPI-anchor biosynthesis
+4932	CL:8909	20	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+4932	CL:891	5	mixed, incl. Utp14 protein, and UTP15 C terminal
+4932	CL:8910	13	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+4932	CL:8911	7	Synthesis of glycosylphosphatidylinositol (GPI), and glycosylphosphatidylinositol-mannosyltransferase I complex
+4932	CL:8925	5	caspase complex
+4932	CL:8936	5	phosphatidylinositol N-acetylglucosaminyltransferase activity
+4932	CL:8948	6	mixed, incl. PGAP5/Cdc1/Ted1, and Per1-like
+4932	CL:8974	89	mixed, incl. Cell wall, and chitin metabolic process
+4932	CL:8975	61	Cell wall, and chitin biosynthetic process
+4932	CL:8976	43	Cell wall biogenesis/degradation, and exomer complex
+4932	CL:8977	28	(1->3)-beta-D-glucan biosynthetic process, and Cell wall
+4932	CL:8978	22	mixed, incl. (1->3)-beta-D-glucan biosynthetic process, and glucan exo-1,3-beta-glucosidase activity
+4932	CL:8979	14	mixed, incl. Glucanosyltransferase, and structural constituent of cell wall
+4932	CL:8980	7	mixed, incl. Glucanosyltransferase, and Chromophore
+4932	CL:8993	7	mixed, incl. Yeast PIR protein repeat, and CFEM domain
+4932	CL:900	6	mixed, incl. Fcf2/DNTTIP2, and Utp11 protein
+4932	CL:9007	7	glucan exo-1,3-beta-glucosidase activity, and Glycosyl transferase, family 48
+4932	CL:9021	6	mixed, incl. cellular bud scar, and Kre9/Knh1 family
+4932	CL:9034	12	mixed, incl. exomer complex, and chitosome
+4932	CL:9036	5	mixed, incl. Knr4/Smi1 family, and Chitin synthase export chaperone
+4932	CL:9048	5	exomer complex
+4932	CL:9061	18	cell-cell adhesion, and positive regulation of pseudohyphal growth by positive regulation of transcription from RNA polymerase II promoter
+4932	CL:9063	6	Cell adhesion, and coflocculation
+4932	CL:9082	6	positive regulation of pseudohyphal growth by positive regulation of transcription from RNA polymerase II promoter, and single-species biofilm formation on inanimate substrate
+4932	CL:9096	28	mixed, incl. GPI-anchor, and EXPERA domain
+4932	CL:9098	10	mixed, incl. chitin localization, and Claudin, conserved site
+4932	CL:9102	5	mixed, incl. Activation of RAC1 downstream of NMDARs, and invasive growth in response to glucose limitation
+4932	CL:911	26	90S preribosome
+4932	CL:9124	14	mixed, incl. CAP domain, and EXPERA domain
+4932	CL:9126	5	CAP domain, and GPI-anchor
+4932	CL:913	20	endonucleolytic cleavage in 5-ETS of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA), and 90S preribosome
+4932	CL:9139	6	mixed, incl. EXPERA domain, and STIMATE family
+4932	CL:914	15	endonucleolytic cleavage in 5-ETS of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA), and Helicase
+4932	CL:915	8	mixed, incl. Noc4p-Nop14p complex, and U3 snoRNA binding
+4932	CL:9151	54	mixed, incl. septum digestion after cytokinesis, and fungal-type cell wall biogenesis
+4932	CL:9153	38	mixed, incl. septum digestion after cytokinesis, and cell septum assembly
+4932	CL:9154	31	mixed, incl. septum digestion after cytokinesis, and cell septum assembly
+4932	CL:9155	25	mixed, incl. septum digestion after cytokinesis, and cell septum assembly
+4932	CL:9156	20	mixed, incl. septum digestion after cytokinesis, and BAG domain
+4932	CL:9157	12	mixed, incl. septum digestion after cytokinesis, and BAG domain
+4932	CL:9160	5	mixed, incl. Daughter-specific expression protein 2, and Septation
+4932	CL:9182	6	budding cell apical bud growth
+4932	CL:9195	5	mixed, incl. Nap binding NBP1, fungi, and Fungal potassium channel
+4932	CL:9204	6	mixed, incl. Sbe2/Sbe22, and F-box-like
+4932	CL:9215	7	mixed, incl. Exonuclease V, and Sel1 repeat
+4932	CL:9229	15	mixed, incl. spore wall assembly, and Nitroreductase
+4932	CL:9231	6	mixed, incl. X8 domain, and MAP kinase kinase kinase kinase activity
+4932	CL:9247	6	mixed, incl. beta-glucanase activity, and cell cortex of cell tip
+4932	CL:9258	23	mostly uncharacterized, incl. aminoacyl-tRNA hydrolase activity, and Aspartic peptidase A1 family
+4932	CL:9260	12	mostly uncharacterized, incl. BTB/POZ domain, and Dip2-like domain
+4932	CL:9262	5	mixed, incl. Dip2-like domain, and Transport and Golgi organisation 2
+4932	CL:9288	8	mixed, incl. aminoacyl-tRNA hydrolase activity, and thiamine pyrophosphate transmembrane transport
+4932	CL:930	7	mixed, incl. Helicase, and KRI1-like family
+4932	CL:9303	39	mixed, incl. endoribonuclease complex, and 2-deoxyglucose-6-phosphatase activity
+4932	CL:9304	29	mixed, incl. endoribonuclease complex, and 2-deoxyglucose-6-phosphatase activity
+4932	CL:9306	16	endoribonuclease complex
+4932	CL:9308	10	ribonuclease P complex
+4932	CL:9310	5	intronic snoRNA processing
+4932	CL:9341	8	mixed, incl. 2-deoxyglucose-6-phosphatase activity, and SUN family
+4932	CL:9361	10	mixed, incl. FAM192A/Fyv6, N-terminal, and Protein of unknown function (DUF1640)
+4932	CL:9364	5	mixed, incl. FAM192A/Fyv6, N-terminal, and Protein of unknown function (DUF1640)
+4932	CL:9380	361	mixed, incl. transmembrane transporter activity, and zinc ion binding
+4932	CL:9381	332	mixed, incl. transmembrane transporter activity, and zinc ion binding
+4932	CL:9382	196	mixed, incl. active transmembrane transporter activity, and oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+4932	CL:9383	102	mixed, incl. ABC transporter, and Aldo/keto reductase family
+4932	CL:9384	91	mixed, incl. ABC transporter, and Aldo/keto reductase family
+4932	CL:9385	54	mixed, incl. ABC transporter, and Zn(2)-C6 fungal-type DNA-binding domain
+4932	CL:9386	47	mixed, incl. ABC transporter, and Zn(2)-C6 fungal-type DNA-binding domain
+4932	CL:9387	34	mixed, incl. drug transport, and ABC transporter
+4932	CL:9388	26	drug transport, and Fungal specific transcription factor domain 
+4932	CL:9391	19	mixed, incl. drug transport, and regulation of response to drug
+4932	CL:9393	10	drug export, and regulation of response to drug
+4932	CL:9395	5	ATPase-coupled xenobiotic transmembrane transporter activity, and regulation of response to drug
+4932	CL:94	6298	biological_process
+4932	CL:9419	5	alcohol transmembrane transporter activity, and borate transport
+4932	CL:943	5	Pwp2p-containing subcomplex of 90S preribosome, and NUC173 domain
+4932	CL:9440	6	Heme degradation, and EGF-like domain
+4932	CL:9454	13	mixed, incl. RTA-like protein, and Glutathione S-transferase, C-terminal domain
+4932	CL:9456	6	mixed, incl. RTA-like protein, and MmgE/PrpD
+4932	CL:9470	5	Glutathione S-transferase, C-terminal domain, and bile acid and bile salt transport
+4932	CL:9479	7	Arsenical resistance, and channel regulator activity
+4932	CL:9492	37	mixed, incl. Aldo/keto reductase family, and Zinc-binding dehydrogenase
+4932	CL:9493	28	mixed, incl. Aldo/keto reductase family, and Zinc-binding dehydrogenase
+4932	CL:9495	23	mixed, incl. Zinc-binding dehydrogenase, and Aldo/keto reductase family
+4932	CL:9497	13	Zinc-binding dehydrogenase, and Aldo/keto reductase family
+4932	CL:9499	5	mixed, incl. Oxidoreductase, N-terminal domain, and 3-methylbutanol:NAD(P) oxidoreductase activity
+4932	CL:9511	6	aryl-alcohol dehydrogenase (NAD+) activity, and hydroxymethylfurfural reductase (NADPH) activity
+4932	CL:9528	5	mixed, incl. Putative FMN-binding domain, and Cell fusion protein Dni1/Fig1
+4932	CL:9549	5	aryl-alcohol dehydrogenase (NAD+) activity, and Protein of unknown function DUF468
+4932	CL:9565	11	mostly uncharacterized, incl. AhpD-like, and amino acid export across plasma membrane
+4932	CL:9568	5	mixed, incl. AhpD-like, and amino acid export across plasma membrane
+4932	CL:9586	94	mostly uncharacterized, incl. maltose metabolic process, and mannose transmembrane transporter activity
+4932	CL:9587	79	mixed, incl. maltose metabolic process, and mannose transmembrane transporter activity
+4932	CL:9588	56	mixed, incl. maltose metabolic process, and Asparaginase, N-terminal
+4932	CL:9589	34	mixed, incl. maltose metabolic process, and Asparaginase, N-terminal
+4932	CL:9590	27	mixed, incl. maltose metabolic process, and Hyphally regulated cell wall protein N-terminal
+4932	CL:9591	14	mixed, incl. Hyphally regulated cell wall protein N-terminal, and galactose transmembrane transport
+4932	CL:9593	6	Hyphally regulated cell wall protein N-terminal, and galactose transmembrane transport
+4932	CL:9618	13	Maltose metabolism, and Glucoamylase
+4932	CL:9620	6	Maltose metabolism
+4932	CL:9644	5	Asparaginase, N-terminal
+4932	CL:9656	22	mostly uncharacterized, incl. Uncharacterized protein YOR389W-like, and Butanoate metabolism
+4932	CL:9657	16	mostly uncharacterized, incl. Uncharacterized protein YOR389W-like, and Gfd2/YDR514C-like
+4932	CL:9660	8	mostly uncharacterized, incl. anchored component of membrane
+4932	CL:9689	5	mixed, incl. glycol metabolic process, and acetoin dehydrogenase activity
+4932	CL:9699	23	mixed, incl. sorbitol transport, and Fructose biosynthesis
+4932	CL:970	5	mixed, incl. Protein Cms1, and Bud22 domain
+4932	CL:9700	15	mixed, incl. sorbitol transport, and Fructose biosynthesis
+4932	CL:9701	10	mixed, incl. sorbitol transport, and Fructose biosynthesis
+4932	CL:9702	5	mixed, incl. sorbitol transport, and arginine transmembrane transport
+4932	CL:9711	5	Fructose biosynthesis, and sorbitol transport
+4932	CL:9720	5	mixed, incl. Biosynthesis of protectins, and LEM/LEM-like domain superfamily
+4932	CL:9730	5	mixed, incl. uridine-diphosphatase activity, and GATA zinc finger
+4932	CL:9744	15	mixed, incl. Sialidase superfamily, and box C/D snoRNP assembly
+4932	CL:9745	10	mixed, incl. Sialidase superfamily, and box C/D snoRNP assembly
+4932	CL:9747	5	mixed, incl. Protein of unknown function DUF4588
+4932	CL:9764	5	prospore membrane, and Cell membrane
+4932	CL:9773	136	mixed, incl. amino acid transport, and import into cell
+4932	CL:9774	101	mixed, incl. amino acid transport, and import into cell
+4932	CL:9775	74	mixed, incl. Amino acid permease, and regulation of nitrogen utilization
+4932	CL:9777	39	mixed, incl. regulation of nitrogen utilization, and allantoin metabolic process
+4932	CL:9778	23	regulation of nitrogen utilization, and allantoin metabolic process
+4932	CL:9779	13	allantoin metabolic process, and gamma-aminobutyric acid transport
+4932	CL:9781	6	allantoin metabolic process
+4932	CL:9793	6	gamma-aminobutyric acid transport, and gamma-aminobutyric acid catabolic process
+4932	CL:980	54	preribosome, large subunit precursor, and RNA helicase, DEAD-box type, Q motif
+4932	CL:9804	10	Ammonium transporter, and Transcription factor GATA
+4932	CL:9805	5	Transcription factor GATA, and allantoate transport
+4932	CL:981	36	preribosome, large subunit precursor
+4932	CL:9814	5	Ammonium transporter, and regulation of transporter activity
+4932	CL:9823	16	mixed, incl. Peptide transport, and proline transmembrane transport
+4932	CL:9825	10	proline transmembrane transport, and response to amino acid
+4932	CL:9828	5	response to amino acid, and Zymogen
+4932	CL:984	22	preribosome, large subunit precursor
+4932	CL:985	15	preribosome, large subunit precursor
+4932	CL:9861	31	mixed, incl. ubiquitin-dependent endocytosis, and Purine-cytosine permease
+4932	CL:9863	17	ubiquitin-dependent endocytosis, and Bul1-like
+4932	CL:9866	10	ubiquitin-dependent endocytosis, and Bul1 C terminus
+4932	CL:9869	5	ubiquitin-dependent endocytosis
+4932	CL:987	8	mixed, incl. Brix domain, and Nop2p
+4932	CL:99	6293	biological_process
+4932	CL:9905	6	Purine-cytosine permease Fcy2/21/22, and UMP salvage
+4932	CL:9922	27	mixed, incl. basic amino acid transmembrane transport, and glutamine transport
+4932	CL:9923	17	mixed, incl. L-tyrosine transmembrane transporter activity, and Fungal trichothecene efflux pump (TRI12)
+4932	CL:9926	5	glutathione transport, and Ammonia transport
+4932	CL:9942	6	amino acid transmembrane export from vacuole, and basic amino acid transmembrane transport
+4932	CL:9957	6	mixed, incl. ATPase proteolipid family, and L-cystine transport
+4932	CL:9975	35	mostly uncharacterized, incl. STAS domain, and xenobiotic metabolic process
+4932	CL:9976	27	mixed, incl. STAS domain, and xenobiotic metabolic process
+4932	CL:9977	19	mixed, incl. Carbon-nitrogen hydrolase, and arylsulfatase activity
+4932	CL:9980	6	mixed, incl. arylsulfatase activity, and taurine dioxygenase activity
+4932	CL:9998	5	Carbon-nitrogen hydrolase, and Domain of unknown function DUF3533
