@@ -22,7 +22,7 @@ DataExplorer::DataExplorer(string _dataDirectory) {
         cout << moduleName << "Error(" << errno << ") opening " << dataDirectory << endl;
         STATUS_CODE = 1;
     } else {
-        cout << moduleName << "Retrieving data from " << dataDirectory << endl;
+        cout << moduleName << "Retrieving data from " << dataDirectory << "..." << endl;
     }
 
     while((dirp = readdir(dp)) != NULL) {
