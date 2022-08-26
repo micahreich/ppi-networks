@@ -13,14 +13,16 @@ using namespace std;
 
 string moduleName = "[DataExplorer] ";
 int STATUS_CODE = 0;
+double MS_TO_S = 1 / 1e3; 
 
 bool DataExplorer::substring(string s1, string s2) {
     return s2.find(s1) != string::npos;
 }
 
-DataExplorer::DataExplorer(string _dataDirectory) {
+DataExplorer::DataExplorer(string _dataDirectory, float _EDGE_WEIGHT_THRESHOLD) {
     string* requiredFiles[4] = {&proteinLinksPath, &proteinAnnotationsPath, &proteinSequencesPath, &clusterSizesPath};
     dataDirectory = _dataDirectory;
+    EDGE_WEIGHT_THRESHOLD = _EDGE_WEIGHT_THRESHOLD;
 
     DIR* dp = opendir(_dataDirectory.c_str());
     struct dirent* dirp;
@@ -70,7 +72,7 @@ DataExplorer::DataExplorer(string _dataDirectory) {
     // populateProteinLinks();
 
     auto stop = chrono::high_resolution_clock::now();
-    auto duration = chrono::duration_cast<chrono::milliseconds>(stop - start).count() / 1e3;
+    auto duration = chrono::duration_cast<chrono::milliseconds>(stop - start).count() * MS_TO_S;
     cout << moduleName << "Finished! Took " << duration << " seconds " << endl;
 
     // populate protein annotations
@@ -80,7 +82,7 @@ DataExplorer::DataExplorer(string _dataDirectory) {
     // populateProteinAnnotations();
 
     stop = chrono::high_resolution_clock::now();
-    duration = chrono::duration_cast<chrono::milliseconds>(stop - start).count() / 1e3;
+    duration = chrono::duration_cast<chrono::milliseconds>(stop - start).count() * MS_TO_S;
     cout << moduleName << "Finished! Took " << duration << " seconds " << endl;
 
     // populate protein sequences
@@ -90,7 +92,7 @@ DataExplorer::DataExplorer(string _dataDirectory) {
     // populateProteinSequences();
 
     stop = chrono::high_resolution_clock::now();
-    duration = chrono::duration_cast<chrono::milliseconds>(stop - start).count() / 1e3;
+    duration = chrono::duration_cast<chrono::milliseconds>(stop - start).count() * MS_TO_S;
     cout << moduleName << "Finished! Took " << duration << " seconds " << endl;
 
     // populate cluster sizes
@@ -100,8 +102,21 @@ DataExplorer::DataExplorer(string _dataDirectory) {
     populateClusterSizes();
 
     stop = chrono::high_resolution_clock::now();
-    duration = chrono::duration_cast<chrono::milliseconds>(stop - start).count() / 1e3;
+    duration = chrono::duration_cast<chrono::milliseconds>(stop - start).count() * MS_TO_S;
     cout << moduleName << "Finished! Took " << duration << " seconds " << endl;
+
+    // populate sorted cluster sizes
+    start = chrono::high_resolution_clock::now();
+    cout << moduleName << "Populating sorted cluster sizes array..." << endl;
+
+    populateClusterSizesSorted();
+
+    stop = chrono::high_resolution_clock::now();
+    duration = chrono::duration_cast<chrono::milliseconds>(stop - start).count() * MS_TO_S;
+    cout << moduleName << "Finished! Took " << duration << " seconds " << endl;
+
+    // fin
+    cout << string(80, '.') << endl;
 }
 
 void DataExplorer::populateProteinLinks() {
@@ -132,23 +147,31 @@ void DataExplorer::populateProteinLinks() {
 
             // verify that the tokenized line is a correct representation of a protein link
             string currProtein1, currProtein2;
-            int currScore;
+            float currScore;
 
             if(regex_match(tokenizedLine[0], proteinNameRegex) &&
                regex_match(tokenizedLine[1], proteinNameRegex) &&
                regex_match(tokenizedLine[2], proteinScoreRegex)) {
                 currProtein1 = tokenizedLine[0];
                 currProtein2 = tokenizedLine[1];
-                currScore =  stoi(tokenizedLine[2]);
+                
+                int currScoreRaw =  stoi(tokenizedLine[2]);
+                currScore = (currScoreRaw / 1e2);
 
                 if(proteinLinks.find(currProtein1) != proteinLinks.end()) {
                     // extend entry in the hashmap
-                    proteinLinks[currProtein1].push_back(make_tuple(currProtein2, currScore));
+                    if(currScore >= EDGE_WEIGHT_THRESHOLD) {
+                        proteinLinks[currProtein1].push_back(make_tuple(currProtein2, currScore));
+                    }
                 } else {
                     // make a new entry in the hashmap
-                    proteinLinks[currProtein1] = vector<tuple <string,int> >{
-                        make_tuple(currProtein2, currScore)
-                    };
+                    if(currScore >= EDGE_WEIGHT_THRESHOLD) {
+                        proteinLinks[currProtein1] = vector<tuple <string,float> >{
+                            make_tuple(currProtein2, currScore)
+                        };
+                    } else {
+                        proteinLinks[currProtein1] = vector<tuple <string,float> >{};
+                    }
                 }
             }            
         }
@@ -291,6 +314,19 @@ void DataExplorer::populateClusterSizes() {
     }
 }
 
+void DataExplorer::populateClusterSizesSorted() {
+    DataExplorer::clusterSizesSorted = vector<int>{};
+
+    for (const auto &clusterPair : DataExplorer::clusterSizes) {
+        clusterSizesSorted.push_back(clusterPair.second);
+    }
+
+    sort(clusterSizesSorted.begin(), clusterSizesSorted.end(), greater<int>());
+}
+
 int main() {
-    DataExplorer d("data/ecoli");
+    DataExplorer d("data/ecoli", 0);
+    // vector<int> s = d.getClusterSizesSorted();
+    // cout << s.size() << endl;
+    // cout << s[0] << " " << s[s.size() - 1] << endl;
 }

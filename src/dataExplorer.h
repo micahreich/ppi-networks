@@ -14,6 +14,7 @@
 using namespace std;
 
 class DataExplorer {
+    float EDGE_WEIGHT_THRESHOLD;
     string dataDirectory;
 
     const regex proteinNameRegex = regex("([0-9]+)(.)([a-zA-Z0-9]+)(_)[0-9]+");
@@ -22,9 +23,8 @@ class DataExplorer {
     const regex clusterSizeRegex = regex("[0-9]+");
     const regex aminoAcidRegex = regex("[A-Z]+");
     
-
     string proteinLinksPath = "proteinLinksPath";
-    map<string, vector< tuple<string, int> > > proteinLinks;
+    map<string, vector< tuple<string, float> > > proteinLinks;
     void populateProteinLinks();
 
     string proteinAnnotationsPath = "proteinAnnotationsPath";
@@ -37,19 +37,22 @@ class DataExplorer {
 
     string clusterSizesPath = "clusterSizesPath";
     map<string, int> clusterSizes;
+    vector<int> clusterSizesSorted;
     void populateClusterSizes();
+    void populateClusterSizesSorted();
 
     bool substring(string s1, string s2);
     void timedFunction(DataExplorer* ob, void (DataExplorer::*fn)());
 
     public:
-        DataExplorer(string _dataDirectory);
+        DataExplorer(string _dataDirectory, float _EDGE_WEIGHT_THRESHOLD);
 
         // define static getter methods
-        map<string, vector< tuple<string,int> > > getProteinLinks() {return proteinLinks;}
+        map<string, vector< tuple<string,float> > > getProteinLinks() {return proteinLinks;}
         map<string, vector<string> > getProteinAnnotations() {return proteinAnnotations;}
         map<string, string> getProteinSequences() {return proteinSequences;}
         map<string, int> getClusterSizes() {return clusterSizes;}
+        vector<int> getClusterSizesSorted() {return clusterSizesSorted;}
 };
 
 #endif
