@@ -156,21 +156,21 @@ void DataExplorer::populateProteinLinks() {
                 currProtein2 = tokenizedLine[1];
                 
                 int currScoreRaw =  stoi(tokenizedLine[2]);
-                currScore = (currScoreRaw / 1e2);
+                currScore = ((float)currScoreRaw / 1e2);
 
                 if(proteinLinks.find(currProtein1) != proteinLinks.end()) {
                     // extend entry in the hashmap
                     if(currScore >= EDGE_WEIGHT_THRESHOLD) {
-                        proteinLinks[currProtein1].push_back(make_tuple(currProtein2, currScore));
+                        proteinLinks[currProtein1][currProtein2] = currScore;
                     }
                 } else {
                     // make a new entry in the hashmap
                     if(currScore >= EDGE_WEIGHT_THRESHOLD) {
-                        proteinLinks[currProtein1] = vector<tuple <string,float> >{
-                            make_tuple(currProtein2, currScore)
+                        proteinLinks[currProtein1] = map<string, float>{
+                            make_pair(currProtein2, currScore)
                         };
                     } else {
-                        proteinLinks[currProtein1] = vector<tuple <string,float> >{};
+                        proteinLinks[currProtein1] = map<string, float>{};
                     }
                 }
             }            
@@ -329,4 +329,5 @@ int main() {
     // vector<int> s = d.getClusterSizesSorted();
     // cout << s.size() << endl;
     // cout << s[0] << " " << s[s.size() - 1] << endl;
+    return 0;
 }
